@@ -1,0 +1,57 @@
+# Money-keyword tracker configuration.
+#
+# `explicit_groups` are hand-curated keyword lists (verbatim from the DO
+# Homes Group brief) for the two Tier 1 markets — including a few keywords
+# for communities that do NOT yet have a dedicated page (e.g. "jupiter farms
+# homes for sale", "old palm homes for sale"). Leave those in: a keyword with
+# no matching page is exactly the kind of content-gap intelligence this
+# report exists to surface.
+#
+# `city_keyword_template` is expanded at runtime (see src/keyword_tracker.py)
+# against every OTHER configured city in cities.yaml that isn't already
+# covered by an explicit group, so every tier city gets tracked without
+# hand-typing 100+ near-duplicate keyword strings here.
+
+explicit_groups:
+  JUPITER:
+    - "jupiter homes for sale"
+    - "moving to jupiter florida"
+    - "jupiter waterfront homes"
+    - "jupiter luxury homes"
+    - "jupiter new construction homes"
+    - "jupiter golf communities"
+    - "best neighborhoods in jupiter florida"
+    - "abacoa homes for sale"
+    - "jupiter farms homes for sale"
+    - "admirals cove homes for sale"
+    - "jonathans landing homes for sale"
+    - "jupiter country club homes for sale"
+
+  PALM_BEACH_GARDENS:
+    - "palm beach gardens homes for sale"
+    - "moving to palm beach gardens"
+    - "palm beach gardens luxury homes"
+    - "palm beach gardens new construction"
+    - "palm beach gardens golf communities"
+    - "best neighborhoods in palm beach gardens"
+    - "avenir homes for sale"
+    - "alton palm beach gardens homes for sale"
+    - "pga national homes for sale"
+    - "ballenisles homes for sale"
+    - "mirasol homes for sale"
+    - "old palm homes for sale"
+
+city_keyword_template:
+  - "{city} homes for sale"
+  - "moving to {city} florida"
+  - "{city} luxury homes"
+  - "{city} new construction homes"
+  - "{city} waterfront homes"
+  - "{city} golf communities"
+  - "best neighborhoods in {city} florida"
+
+# Cities covered by an explicit_groups entry above are skipped when the
+# template is expanded, so Jupiter/Palm Beach Gardens aren't double-tracked.
+template_excludes:
+  - "jupiter"
+  - "palm-beach-gardens"

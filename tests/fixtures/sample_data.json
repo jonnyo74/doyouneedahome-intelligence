@@ -1,0 +1,137 @@
+{
+  "pages_last7": [
+    {"page": "https://www.doyouneedahome.com", "clicks": 9, "impressions": 130, "ctr": 0.0692, "position": 3.0},
+    {"page": "https://www.doyouneedahome.com/communities/jupiter", "clicks": 12, "impressions": 160, "ctr": 0.075, "position": 6.0},
+    {"page": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "clicks": 0, "impressions": 24, "ctr": 0.0, "position": 14.1},
+    {"page": "https://www.doyouneedahome.com/communities/west-palm-beach", "clicks": 3, "impressions": 88, "ctr": 0.034, "position": 9.9}
+  ],
+  "pages_prev7": [
+    {"page": "https://www.doyouneedahome.com", "clicks": 8, "impressions": 120, "ctr": 0.0667, "position": 3.2},
+    {"page": "https://www.doyouneedahome.com/communities/jupiter", "clicks": 10, "impressions": 150, "ctr": 0.0667, "position": 6.5},
+    {"page": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "clicks": 0, "impressions": 20, "ctr": 0.0, "position": 15.3},
+    {"page": "https://www.doyouneedahome.com/communities/west-palm-beach", "clicks": 2, "impressions": 70, "ctr": 0.0286, "position": 12.0}
+  ],
+  "pages_last28": [
+    {"page": "https://www.doyouneedahome.com", "clicks": 30, "impressions": 500, "ctr": 0.06, "position": 3.1},
+    {"page": "https://www.doyouneedahome.com/communities/jupiter", "clicks": 45, "impressions": 620, "ctr": 0.0726, "position": 6.2},
+    {"page": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "clicks": 0, "impressions": 95, "ctr": 0.0, "position": 14.3},
+    {"page": "https://www.doyouneedahome.com/communities/west-palm-beach", "clicks": 12, "impressions": 340, "ctr": 0.0353, "position": 9.8},
+    {"page": "https://www.doyouneedahome.com/communities/wellington", "clicks": 3, "impressions": 60, "ctr": 0.05, "position": 22.0},
+    {"page": "https://www.doyouneedahome.com/communities/abacoa", "clicks": 8, "impressions": 130, "ctr": 0.0615, "position": 11.5},
+    {"page": "https://www.doyouneedahome.com/communities/admirals-cove", "clicks": 2, "impressions": 40, "ctr": 0.05, "position": 18.0},
+    {"page": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida", "clicks": 3, "impressions": 40, "ctr": 0.075, "position": 9.2},
+    {"page": "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida", "clicks": 5, "impressions": 90, "ctr": 0.0556, "position": 7.8},
+    {"page": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-palm-beach-gardens-florida", "clicks": 1, "impressions": 22, "ctr": 0.0455, "position": 16.0}
+  ],
+  "pages_prev28": [
+    {"page": "https://www.doyouneedahome.com", "clicks": 33, "impressions": 480, "ctr": 0.0688, "position": 3.5},
+    {"page": "https://www.doyouneedahome.com/communities/jupiter", "clicks": 40, "impressions": 600, "ctr": 0.0667, "position": 7.0},
+    {"page": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "clicks": 0, "impressions": 88, "ctr": 0.0, "position": 15.0},
+    {"page": "https://www.doyouneedahome.com/communities/west-palm-beach", "clicks": 4, "impressions": 300, "ctr": 0.0133, "position": 15.0},
+    {"page": "https://www.doyouneedahome.com/communities/wellington", "clicks": 9, "impressions": 75, "ctr": 0.12, "position": 14.0},
+    {"page": "https://www.doyouneedahome.com/communities/abacoa", "clicks": 7, "impressions": 120, "ctr": 0.0583, "position": 12.0}
+  ],
+  "queries_last28": [
+    {"query": "jupiter homes for sale", "clicks": 20, "impressions": 210, "ctr": 0.0952, "position": 5.5},
+    {"query": "moving to jupiter florida", "clicks": 3, "impressions": 40, "ctr": 0.075, "position": 9.2},
+    {"query": "jupiter waterfront homes", "clicks": 0, "impressions": 25, "ctr": 0.0, "position": 13.4},
+    {"query": "palm beach gardens homes for sale", "clicks": 0, "impressions": 60, "ctr": 0.0, "position": 11.0},
+    {"query": "best neighborhoods in jupiter florida", "clicks": 5, "impressions": 90, "ctr": 0.0556, "position": 7.8},
+    {"query": "wellington hoa fees", "clicks": 1, "impressions": 35, "ctr": 0.0286, "position": 18.0},
+    {"query": "west palm beach condos for sale", "clicks": 6, "impressions": 150, "ctr": 0.04, "position": 8.9},
+    {"query": "new construction homes port st lucie", "clicks": 0, "impressions": 55, "ctr": 0.0, "position": 25.0},
+    {"query": "free jupiter homes pdf download", "clicks": 0, "impressions": 5, "ctr": 0.0, "position": 40.0},
+    {"query": "xxx jupiter", "clicks": 0, "impressions": 3, "ctr": 0.0, "position": 45.0}
+  ],
+  "query_pages_last28": [
+    {"query": "jupiter homes for sale", "page": "https://www.doyouneedahome.com/communities/jupiter", "clicks": 20, "impressions": 210, "ctr": 0.0952, "position": 5.5},
+    {"query": "moving to jupiter florida", "page": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida", "clicks": 3, "impressions": 40, "ctr": 0.075, "position": 9.2},
+    {"query": "jupiter waterfront homes", "page": "https://www.doyouneedahome.com/communities/jupiter", "clicks": 0, "impressions": 25, "ctr": 0.0, "position": 13.4},
+    {"query": "palm beach gardens homes for sale", "page": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "clicks": 0, "impressions": 60, "ctr": 0.0, "position": 11.0},
+    {"query": "best neighborhoods in jupiter florida", "page": "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida", "clicks": 5, "impressions": 90, "ctr": 0.0556, "position": 7.8},
+    {"query": "wellington hoa fees", "page": "https://www.doyouneedahome.com/communities/wellington", "clicks": 1, "impressions": 35, "ctr": 0.0286, "position": 18.0},
+    {"query": "west palm beach condos for sale", "page": "https://www.doyouneedahome.com/communities/west-palm-beach", "clicks": 6, "impressions": 150, "ctr": 0.04, "position": 8.9}
+  ],
+  "sitemap_urls": [
+    "https://www.doyouneedahome.com",
+    "https://www.doyouneedahome.com/communities",
+    "https://www.doyouneedahome.com/buy",
+    "https://www.doyouneedahome.com/sell",
+    "https://www.doyouneedahome.com/team",
+    "https://www.doyouneedahome.com/contact",
+    "https://www.doyouneedahome.com/blog",
+    "https://www.doyouneedahome.com/testimonials",
+    "https://www.doyouneedahome.com/canadahomeseller",
+    "https://www.doyouneedahome.com/communities/jupiter",
+    "https://www.doyouneedahome.com/communities/palm-beach-gardens",
+    "https://www.doyouneedahome.com/communities/west-palm-beach",
+    "https://www.doyouneedahome.com/communities/wellington",
+    "https://www.doyouneedahome.com/communities/boca-raton",
+    "https://www.doyouneedahome.com/communities/abacoa",
+    "https://www.doyouneedahome.com/communities/admirals-cove",
+    "https://www.doyouneedahome.com/communities/pga-national",
+    "https://www.doyouneedahome.com/communities/avenir",
+    "https://www.doyouneedahome.com/communities/mirasol",
+    "https://www.doyouneedahome.com/communities/riverwalk-sound",
+    "https://www.doyouneedahome.com/communities/generic-estates",
+    "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida",
+    "https://www.doyouneedahome.com/blog/local-guide-to-jupiter-florida",
+    "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida",
+    "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-palm-beach-gardens-florida"
+  ],
+  "crawl_results": [
+    {"url": "https://www.doyouneedahome.com", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com", "title": "DO Homes Group | Palm Beach County Real Estate", "meta_description": "Find homes for sale across Palm Beach County with DO Homes Group.", "canonical": "https://www.doyouneedahome.com", "is_noindex": false, "h1_tags": ["Palm Beach County Real Estate"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities", "https://www.doyouneedahome.com/communities/jupiter", "https://www.doyouneedahome.com/communities/palm-beach-gardens"], "links_to_search_site": true, "body_text": "DO Homes Group helps buyers and sellers across Palm Beach County. Download our Palm Beach County Relocation Guide."},
+
+    {"url": "https://www.doyouneedahome.com/communities", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities", "title": "All Communities | DO Homes Group", "meta_description": "Browse every city and community we cover.", "canonical": "https://www.doyouneedahome.com/communities", "is_noindex": false, "h1_tags": ["Communities"], "has_jsonld": false, "internal_links": ["https://www.doyouneedahome.com/communities/jupiter", "https://www.doyouneedahome.com/communities/palm-beach-gardens", "https://www.doyouneedahome.com/communities/west-palm-beach", "https://www.doyouneedahome.com/communities/wellington", "https://www.doyouneedahome.com/communities/boca-raton"], "links_to_search_site": false, "body_text": "Explore all the cities and communities DO Homes Group covers across Palm Beach, Martin, and St. Lucie counties."},
+
+    {"url": "https://www.doyouneedahome.com/buy", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/buy", "title": "Buy a Home | DO Homes Group", "meta_description": "Your guide to buying a home in Palm Beach County.", "canonical": "https://www.doyouneedahome.com/buy", "is_noindex": false, "h1_tags": ["Buying a Home"], "has_jsonld": false, "internal_links": [], "links_to_search_site": true, "body_text": "Everything you need to know to buy a home with DO Homes Group. Get our Buyer Guide."},
+
+    {"url": "https://www.doyouneedahome.com/sell", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/sell", "title": "Sell Your Home | DO Homes Group", "meta_description": "Your guide to selling a home in Palm Beach County.", "canonical": "https://www.doyouneedahome.com/sell", "is_noindex": false, "h1_tags": ["Selling Your Home"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "Thinking about selling? Get our Seller Guide and a free home valuation."},
+
+    {"url": "https://www.doyouneedahome.com/team", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/team", "title": "Meet the Team | DO Homes Group", "meta_description": "John Oliver and Christine Dekant, DO Homes Group.", "canonical": "https://www.doyouneedahome.com/team", "is_noindex": false, "h1_tags": ["Our Team"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "Meet John Oliver and Christine Dekant of DO Homes Group at Premier Brokers International."},
+
+    {"url": "https://www.doyouneedahome.com/contact", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/contact", "title": "Contact Us | DO Homes Group", "meta_description": "Get in touch with DO Homes Group.", "canonical": "https://www.doyouneedahome.com/contact", "is_noindex": false, "h1_tags": ["Contact"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "Contact DO Homes Group today."},
+
+    {"url": "https://www.doyouneedahome.com/blog", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/blog", "title": "Blog | DO Homes Group", "meta_description": "Local guides and lifestyle articles.", "canonical": "https://www.doyouneedahome.com/blog", "is_noindex": false, "h1_tags": ["Blog"], "has_jsonld": false, "internal_links": ["https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida"], "links_to_search_site": false, "body_text": "Local guides and lifestyle articles for Palm Beach County."},
+
+    {"url": "https://www.doyouneedahome.com/testimonials", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/testimonials", "title": "Testimonials | DO Homes Group", "meta_description": "What our clients say.", "canonical": "https://www.doyouneedahome.com/testimonials", "is_noindex": false, "h1_tags": ["Testimonials"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "Read what our clients say about working with DO Homes Group."},
+
+    {"url": "https://www.doyouneedahome.com/canadahomeseller", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/canadahomeseller", "title": "Canadians Selling Florida Property | DO Homes Group", "meta_description": "A guide for Canadian owners selling Florida property.", "canonical": "https://www.doyouneedahome.com/canadahomeseller", "is_noindex": false, "h1_tags": ["Canadian Home Sellers"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "A relocation and tax guide for Canadian snowbirds selling their Florida property."},
+
+    {"url": "https://www.doyouneedahome.com/communities/jupiter", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/jupiter", "title": "Jupiter FL Homes for Sale | DO Homes Group", "meta_description": "Explore Jupiter, Florida real estate and neighborhoods.", "canonical": "https://www.doyouneedahome.com/communities/jupiter", "is_noindex": false, "h1_tags": ["Jupiter, Florida Real Estate"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/abacoa", "https://www.doyouneedahome.com/communities/admirals-cove", "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida", "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida"], "links_to_search_site": true, "body_text": "Jupiter, Florida offers waterfront living and golf communities. Download our Palm Beach County Relocation Guide to learn more before you move."},
+
+    {"url": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "title": "Palm Beach Gardens Homes for Sale | DO Homes Group", "meta_description": "Explore Palm Beach Gardens real estate and golf communities.", "canonical": "https://www.doyouneedahome.com/communities/palm-beach-gardens", "is_noindex": false, "h1_tags": ["Palm Beach Gardens Homes"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/pga-national"], "links_to_search_site": false, "body_text": "Palm Beach Gardens is home to PGA National, Avenir, and Mirasol. A growing hub for golf and new construction."},
+
+    {"url": "https://www.doyouneedahome.com/communities/west-palm-beach", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/west-palm-beach", "title": null, "meta_description": null, "canonical": "https://www.doyouneedahome.com/communities/west-palm-beach", "is_noindex": false, "h1_tags": [], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "West Palm Beach page content pending full rewrite."},
+
+    {"url": "https://www.doyouneedahome.com/communities/wellington", "status": 404, "error": null},
+
+    {"url": "https://www.doyouneedahome.com/communities/boca-raton", "status": 200, "redirect_chain": ["https://www.doyouneedahome.com/communities/boca-raton-old"], "final_url": "https://www.doyouneedahome.com/communities/boca-raton", "title": "Boca Raton Homes for Sale | DO Homes Group", "meta_description": "Explore Boca Raton real estate, golf, and country club communities.", "canonical": "https://www.doyouneedahome.com/communities/boca-raton", "is_noindex": false, "h1_tags": ["Boca Raton, Florida Real Estate"], "has_jsonld": true, "internal_links": [], "links_to_search_site": false, "body_text": "Boca Raton offers luxury golf communities like Broken Sound and Boca West."},
+
+    {"url": "https://www.doyouneedahome.com/communities/abacoa", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/abacoa", "title": "Abacoa Homes for Sale | Jupiter, FL", "meta_description": "Abacoa is a master-planned community in Jupiter, Florida.", "canonical": "https://www.doyouneedahome.com/communities/abacoa", "is_noindex": false, "h1_tags": ["Abacoa"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/jupiter"], "links_to_search_site": true, "body_text": "Abacoa is a walkable, master-planned community in Jupiter, Florida with town-center shopping and dining."},
+
+    {"url": "https://www.doyouneedahome.com/communities/admirals-cove", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/admirals-cove", "title": "Admirals Cove Homes for Sale | Jupiter, FL", "meta_description": "Admirals Cove is a private golf and yacht club community in Jupiter.", "canonical": "https://www.doyouneedahome.com/communities/admirals-cove", "is_noindex": false, "h1_tags": ["Admirals Cove"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/jupiter"], "links_to_search_site": true, "body_text": "Admirals Cove is a luxury golf and yacht club community in Jupiter, Florida."},
+
+    {"url": "https://www.doyouneedahome.com/communities/pga-national", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/pga-national", "title": "PGA National Homes for Sale | Palm Beach Gardens, FL", "meta_description": "PGA National is a premier golf community in Palm Beach Gardens.", "canonical": "https://www.doyouneedahome.com/communities/pga-national", "is_noindex": false, "h1_tags": ["PGA National"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/palm-beach-gardens"], "links_to_search_site": true, "body_text": "PGA National is a five-star golf resort community in Palm Beach Gardens, Florida."},
+
+    {"url": "https://www.doyouneedahome.com/communities/avenir", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/avenir", "title": "Avenir Homes for Sale | Palm Beach Gardens, FL", "meta_description": "Avenir is a new master-planned community in Palm Beach Gardens.", "canonical": "https://www.doyouneedahome.com/communities/avenir", "is_noindex": false, "h1_tags": ["Avenir"], "has_jsonld": true, "internal_links": [], "links_to_search_site": false, "body_text": "Avenir is a new-construction, master-planned community in Palm Beach Gardens, Florida."},
+
+    {"url": "https://www.doyouneedahome.com/communities/mirasol", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/mirasol", "title": "Mirasol Homes for Sale | Palm Beach Gardens, FL", "meta_description": "Mirasol is a gated golf community in Palm Beach Gardens.", "canonical": "https://www.doyouneedahome.com/communities/mirasol", "is_noindex": false, "h1_tags": ["Mirasol"], "has_jsonld": true, "internal_links": [], "links_to_search_site": false, "body_text": "Mirasol is a gated golf community in Palm Beach Gardens, Florida."},
+
+    {"url": "https://www.doyouneedahome.com/communities/riverwalk-sound", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/riverwalk-sound", "title": "Riverwalk Sound Homes | Jupiter, FL", "meta_description": "Riverwalk Sound is a gated community in Jupiter.", "canonical": "https://www.doyouneedahome.com/communities/riverwalk-sound", "is_noindex": false, "h1_tags": ["Riverwalk Sound"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "Riverwalk Sound is a new gated community in Jupiter, Florida close to the Loxahatchee River."},
+
+    {"url": "https://www.doyouneedahome.com/communities/generic-estates", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/communities/generic-estates", "title": "Generic Estates Homes for Sale", "meta_description": "A quiet gated community close to shopping and dining.", "canonical": "https://www.doyouneedahome.com/communities/generic-estates", "is_noindex": false, "h1_tags": ["Generic Estates"], "has_jsonld": false, "internal_links": [], "links_to_search_site": false, "body_text": "A beautiful gated community close to shopping, dining, and top-rated schools."},
+
+    {"url": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida", "title": "What It's Really Like Living in Jupiter, Florida", "meta_description": "An honest look at life in Jupiter, Florida.", "canonical": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-jupiter-florida", "is_noindex": false, "h1_tags": ["What It's Really Like Living in Jupiter, Florida"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/jupiter"], "links_to_search_site": false, "body_text": "Jupiter, Florida is known for its beaches, golf communities, and small-town feel."},
+
+    {"url": "https://www.doyouneedahome.com/blog/local-guide-to-jupiter-florida", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/blog/local-guide-to-jupiter-florida", "title": "Local Guide to Jupiter, Florida", "meta_description": "The local's guide to Jupiter, Florida.", "canonical": "https://www.doyouneedahome.com/blog/local-guide-to-jupiter-florida", "is_noindex": false, "h1_tags": ["Local Guide to Jupiter, Florida"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/jupiter"], "links_to_search_site": false, "body_text": "A local's guide to the best of Jupiter, Florida."},
+
+    {"url": "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida", "title": "Best Neighborhoods in Jupiter, Florida", "meta_description": "A comparison of Jupiter's best neighborhoods.", "canonical": "https://www.doyouneedahome.com/blog/best-neighborhoods-in-jupiter-florida", "is_noindex": false, "h1_tags": ["Best Neighborhoods in Jupiter, Florida"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/jupiter", "https://www.doyouneedahome.com/communities/abacoa"], "links_to_search_site": false, "body_text": "Comparing Abacoa, Admirals Cove, and other top Jupiter neighborhoods."},
+
+    {"url": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-palm-beach-gardens-florida", "status": 200, "redirect_chain": [], "final_url": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-palm-beach-gardens-florida", "title": "What It's Really Like Living in Palm Beach Gardens, Florida", "meta_description": "An honest look at life in Palm Beach Gardens.", "canonical": "https://www.doyouneedahome.com/blog/what-its-really-like-living-in-palm-beach-gardens-florida", "is_noindex": false, "h1_tags": ["What It's Really Like Living in Palm Beach Gardens, Florida"], "has_jsonld": true, "internal_links": ["https://www.doyouneedahome.com/communities/palm-beach-gardens"], "links_to_search_site": false, "body_text": "Palm Beach Gardens blends golf communities with new construction and top schools."}
+  ],
+  "news_raw": [
+    {"title": "Avenir Palm Beach Gardens Holds Groundbreaking for New Amenity Center", "link": "https://example-news.example.com/avenir-groundbreaking", "source": "Example Local News", "date": "Mon, 06 Jul 2026 12:00:00 GMT", "matched_city": "Palm Beach Gardens"},
+    {"title": "Developer Proposed New Residential Community in Stuart", "link": "https://example-news.example.com/stuart-proposal", "source": "Example Local News", "date": "Wed, 08 Jul 2026 09:00:00 GMT", "matched_city": "Stuart"}
+  ]
+}

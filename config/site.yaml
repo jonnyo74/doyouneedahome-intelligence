@@ -1,0 +1,58 @@
+# Core site identity and cross-cutting thresholds for the intelligence report.
+
+site:
+  name: "doyouneedahome.com"
+  base_url: "https://www.doyouneedahome.com"
+  sitemap_url: "https://www.doyouneedahome.com/sitemap.xml"
+  search_console_site_url: "sc-domain:doyouneedahome.com"
+  search_platform_url: "https://search.doyouneedahome.com"
+  business_name: "DO Homes Group at Premier Brokers International"
+  agents:
+    - "John Oliver"
+    - "Christine Dekant"
+
+# GSC lookback windows. End date is always "today minus this many days" so we
+# never pull partial-day data.
+search_console:
+  complete_through_days_ago: 2
+  short_window_days: 7
+  long_window_days: 28
+  row_limit: 1000
+
+# Crawl behavior — respectful of the target site.
+crawl:
+  user_agent: "DOYouNeedAHome-IntelligenceBot/1.0 (+mailto:johnoliverpbg@gmail.com)"
+  requests_per_second: 1.5
+  request_timeout_seconds: 10
+  max_pages_per_run: 450
+  broken_link_status_threshold: 400
+
+# Report-wide numeric thresholds (see content_rules.yaml for the noisier,
+# section-specific ones — this is the small set every module shares).
+thresholds:
+  opportunity_min_impressions: 15
+  opportunity_position_min: 8
+  opportunity_position_max: 30
+  wins_losses_min_impressions: 15
+  wins_losses_min_position_delta: 3
+  weak_internal_link_count: 2
+
+# Lead magnets available to recommend placement for.
+lead_magnets:
+  - id: "pbc_relocation_guide"
+    name: "Palm Beach County Relocation Guide"
+  - id: "fl_relocation_guide"
+    name: "Florida Relocation Guide"
+  - id: "buyer_guide"
+    name: "Buyer Guide"
+  - id: "seller_guide"
+    name: "Seller Guide"
+  - id: "canada_relocation_guide"
+    name: "Canada-to-Florida Relocation Guide"
+
+search_site_ctas:
+  - "View Current {city} Homes"
+  - "Search {city} New Construction"
+  - "Browse Homes in {community}"
+  - "See Waterfront Listings in {city}"
+  - "View Homes in {community}"

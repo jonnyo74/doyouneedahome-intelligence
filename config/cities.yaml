@@ -1,0 +1,224 @@
+# City/market configuration.
+#
+# `slug` must match the live /communities/{slug} path.
+# `known_communities` seeds the city → community mapping used by
+# city_scorecards.py. `confidence: high` means I verified this mapping by
+# hand against public knowledge of the community's real location.
+# `confidence: seed` means it's a reasonable first guess from the sitemap
+# alone and should be confirmed/reclassified by the crawler's city-name
+# text-match against the live page (see src/city_scorecards.py). Anything
+# the crawler can't confirm gets reported as "unmapped" rather than trusted
+# silently — never invent the mapping.
+#
+# `tags` on a community are only added where there's real evidence (a golf
+# club, a waterfront address, a known new-construction project, etc.) — they
+# drive which scorecard categories are "applicable" for that city. Don't add
+# a category to a city just because it's common elsewhere.
+
+# Repeatable per-city blog template actually used on the site (see
+# /blog/what-its-really-like-living-in-jupiter-florida etc.). {city} is
+# replaced with the city slug.
+blog_template:
+  - "what-its-really-like-living-in-{city}-florida"
+  - "local-guide-to-{city}-florida"
+  - "best-neighborhoods-in-{city}-florida"
+  - "best-things-to-do-in-{city}-florida"
+  - "who-should-move-to-{city}-florida"
+  - "pros-and-cons-of-living-in-{city}-florida"
+  - "cost-of-living-in-{city}-florida"
+  - "hidden-gems-in-{city}-florida"
+  - "{city}-vs-nearby-cities"
+  - "best-places-to-eat-drink-hang-out-in-{city}-florida"
+
+cities:
+  # ── TIER 1 ────────────────────────────────────────────────────────────────
+  - name: "Jupiter"
+    slug: "jupiter"
+    tier: 1
+    extra_detail: true
+    known_communities:
+      - {slug: "abacoa", name: "Abacoa", tags: [master-planned], confidence: high}
+      - {slug: "jupiter-inlet-colony", name: "Jupiter Inlet Colony", tags: [waterfront, gated], confidence: high}
+      - {slug: "jupiter-country-club", name: "Jupiter Country Club", tags: [golf], confidence: high}
+      - {slug: "sonoma-isles", name: "Sonoma Isles", tags: [gated], confidence: high}
+      - {slug: "jupiter-island", name: "Jupiter Island", tags: [waterfront, luxury], confidence: high}
+      - {slug: "sea-oats", name: "Sea Oats", tags: [waterfront], confidence: seed}
+      - {slug: "river-road", name: "River Road", tags: [estate], confidence: seed}
+      - {slug: "admirals-cove", name: "Admirals Cove", tags: [golf, waterfront, luxury], confidence: high}
+      - {slug: "jonathans-landing", name: "Jonathan's Landing", tags: [golf, waterfront], confidence: high}
+      - {slug: "trump-national-jupiter", name: "Trump National Jupiter", tags: [golf, luxury], confidence: high}
+      - {slug: "bears-club", name: "The Bear's Club", tags: [golf, luxury, gated], confidence: high}
+      - {slug: "panther-national", name: "Panther National", tags: [golf, new-construction, luxury], confidence: high}
+      - {slug: "loxahatchee-club", name: "The Loxahatchee Club", tags: [golf, gated], confidence: seed}
+
+  - name: "Palm Beach Gardens"
+    slug: "palm-beach-gardens"
+    tier: 1
+    extra_detail: true
+    known_communities:
+      - {slug: "pga-national", name: "PGA National", tags: [golf], confidence: high}
+      - {slug: "ballen-isles", name: "BallenIsles", tags: [golf, gated], confidence: high}
+      - {slug: "avenir", name: "Avenir", tags: [new-construction, master-planned], confidence: high}
+      - {slug: "mirasol", name: "Mirasol", tags: [golf, gated], confidence: high}
+      - {slug: "alton", name: "Alton", tags: [new-construction, master-planned], confidence: high}
+      - {slug: "east-palm-bay", name: "East Palm Bay", tags: [], confidence: seed}
+      - {slug: "ibis", name: "Ibis Golf & Country Club", tags: [golf, 55+], confidence: seed}
+
+  # ── TIER 2 ────────────────────────────────────────────────────────────────
+  - name: "North Palm Beach"
+    slug: "north-palm-beach"
+    tier: 2
+    extra_detail: false
+    known_communities: []
+
+  - name: "Tequesta"
+    slug: "tequesta"
+    tier: 2
+    extra_detail: false
+    known_communities: []
+
+  - name: "Juno Beach"
+    slug: "juno-beach"
+    tier: 2
+    extra_detail: false
+    known_communities: []
+
+  - name: "Singer Island"
+    slug: "singer-island"
+    tier: 2
+    extra_detail: false
+    known_communities: []
+
+  - name: "West Palm Beach"
+    slug: "west-palm-beach"
+    tier: 2
+    extra_detail: false
+    known_communities:
+      - {slug: "el-cid", name: "El Cid", tags: [historic, waterfront], confidence: high}
+      - {slug: "harbour-islands", name: "Harbour Islands", tags: [waterfront, gated], confidence: high}
+      - {slug: "downtown-west-palm", name: "Downtown West Palm", tags: [urban, luxury], confidence: high}
+      - {slug: "palm-beach-lakes", name: "Palm Beach Lakes", tags: [], confidence: seed}
+
+  # ── TIER 3 ────────────────────────────────────────────────────────────────
+  - name: "Wellington"
+    slug: "wellington"
+    tier: 3
+    extra_detail: false
+    known_communities:
+      - {slug: "seven-bridges", name: "Seven Bridges", tags: [gated, new-construction], confidence: high}
+      - {slug: "wellington-country-club", name: "Wellington Country Club", tags: [golf], confidence: high}
+      - {slug: "wellington-estates", name: "Wellington Estates", tags: [estate], confidence: seed}
+      - {slug: "lake-club", name: "Lake Club", tags: [gated], confidence: seed}
+
+  - name: "Royal Palm Beach"
+    slug: "royal-palm-beach"
+    tier: 3
+    extra_detail: false
+    known_communities: []
+
+  - name: "Lake Worth Beach"
+    slug: "lake-worth-beach"
+    tier: 3
+    extra_detail: false
+    known_communities:
+      - {slug: "ocean-ridge", name: "Ocean Ridge", tags: [waterfront], confidence: seed}
+      - {slug: "lake-worth-estates", name: "Lake Worth Estates", tags: [], confidence: seed}
+      - {slug: "poinciana-park", name: "Poinciana Park", tags: [], confidence: seed}
+      - {slug: "lake-worth-gardens", name: "Lake Worth Gardens", tags: [], confidence: seed}
+      - {slug: "pomelo-park", name: "Pomelo Park", tags: [], confidence: seed}
+      - {slug: "seneca-lakes", name: "Seneca Lakes", tags: [], confidence: seed}
+      - {slug: "oakbrook", name: "Oakbrook", tags: [], confidence: seed}
+      - {slug: "lake-clarence", name: "Lake Clarence", tags: [waterfront], confidence: seed}
+      - {slug: "manalapan", name: "Manalapan", tags: [waterfront, luxury], confidence: seed}
+
+  - name: "Boynton Beach"
+    slug: "boynton-beach"
+    tier: 3
+    extra_detail: false
+    known_communities:
+      - {slug: "boynton-beach-gardens", name: "Boynton Beach Gardens", tags: [], confidence: seed}
+
+  - name: "Delray Beach"
+    slug: "delray-beach"
+    tier: 3
+    extra_detail: false
+    known_communities:
+      - {slug: "delaire-country-club", name: "Delaire Country Club", tags: [golf, gated], confidence: high}
+      - {slug: "ocean-side", name: "Oceanside", tags: [waterfront], confidence: seed}
+      - {slug: "delray-beach-harbor", name: "Delray Beach Harbor", tags: [waterfront], confidence: seed}
+      - {slug: "seagate", name: "Seagate", tags: [golf, gated], confidence: high}
+      - {slug: "shelborne", name: "Shelborne", tags: [], confidence: seed}
+      - {slug: "hammock-park", name: "Hammock Park", tags: [new-construction], confidence: seed}
+      - {slug: "water-crest", name: "Water Crest", tags: [55+, gated], confidence: seed}
+
+  - name: "Boca Raton"
+    slug: "boca-raton"
+    tier: 3
+    extra_detail: false
+    known_communities:
+      - {slug: "broken-sound", name: "Broken Sound", tags: [golf, gated], confidence: high}
+      - {slug: "boca-west", name: "Boca West", tags: [golf, gated, 55+], confidence: high}
+      - {slug: "royal-palm-yacht-cc", name: "Royal Palm Yacht & Country Club", tags: [golf, waterfront, luxury], confidence: high}
+      - {slug: "woodfield-country-club", name: "Woodfield Country Club", tags: [golf, gated], confidence: high}
+
+  - name: "Hobe Sound"
+    slug: "hobe-sound"
+    tier: 3
+    extra_detail: false
+    known_communities: []
+
+  - name: "Stuart"
+    slug: "stuart"
+    tier: 3
+    extra_detail: false
+    known_communities: []
+
+  - name: "Palm City"
+    slug: "palm-city"
+    tier: 3
+    extra_detail: false
+    known_communities: []
+
+  - name: "Port St. Lucie"
+    slug: "port-st-lucie"
+    tier: 3
+    extra_detail: false
+    known_communities:
+      - {slug: "sonoma-bay", name: "Sonoma Bay", tags: [gated], confidence: seed}
+      - {slug: "powder-pointe", name: "Powder Pointe", tags: [], confidence: seed}
+      - {slug: "mallory-creek", name: "Mallory Creek", tags: [new-construction], confidence: seed}
+      - {slug: "newhaven", name: "Newhaven", tags: [new-construction], confidence: seed}
+      - {slug: "antigua", name: "Antigua", tags: [], confidence: seed}
+      - {slug: "windsor-park", name: "Windsor Park", tags: [], confidence: seed}
+      - {slug: "valencia", name: "Valencia", tags: [55+, gated], confidence: seed}
+      - {slug: "martinique", name: "Martinique", tags: [], confidence: seed}
+      - {slug: "canterbury-place", name: "Canterbury Place", tags: [], confidence: seed}
+      - {slug: "osceola-woods", name: "Osceola Woods", tags: [], confidence: seed}
+      - {slug: "dakota", name: "Dakota", tags: [new-construction], confidence: seed}
+      - {slug: "tuscany", name: "Tuscany", tags: [gated], confidence: seed}
+      - {slug: "charleston-court", name: "Charleston Court", tags: [], confidence: seed}
+
+  # ── OTHER — present on the site, not in the priority tiers, still tracked ─
+  - name: "Palm Beach"
+    slug: "palm-beach"
+    tier: other
+    extra_detail: false
+    known_communities: []
+
+  - name: "Loxahatchee"
+    slug: "loxahatchee"
+    tier: other
+    extra_detail: false
+    known_communities: []
+
+  - name: "Westlake"
+    slug: "westlake"
+    tier: other
+    extra_detail: false
+    known_communities: []
+
+  - name: "Port Salerno"
+    slug: "port-salerno"
+    tier: other
+    extra_detail: false
+    known_communities: []

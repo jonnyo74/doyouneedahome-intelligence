@@ -1,0 +1,51 @@
+# Thresholds and rules for report-section generation (report_builder.py,
+# content_ideas.py, rankings.py). Kept separate from site.yaml because these
+# are the ones most likely to get tuned week to week as the report proves
+# itself out.
+
+quick_wins:
+  max_items: 10
+  min_impressions: 15
+  position_min: 8
+  position_max: 30
+  max_ctr: 0.02          # below this and the page is "getting seen, not clicked"
+
+content_ideas:
+  max_new_ideas: 5
+  max_update_ideas: 8
+  min_query_impressions: 10
+
+internal_links:
+  max_suggestions: 15
+
+news:
+  lookback_days: 7
+  dedupe_days: 21        # don't repeat a story unless something changed after this many days
+
+monday_action_plan:
+  count: 5
+
+# Query-noise filtering — queries containing these substrings (case
+# insensitive) are excluded from "Top Queries by Impressions" and from
+# content-idea generation, but still counted in the raw totals.
+noise_query_patterns:
+  - "xxx"
+  - "porn"
+  - "torrent"
+  - "free download"
+  - "lyrics"
+  - ".pdf"
+  - "reddit"
+  - "wikipedia"
+
+# A query must be at least this long (chars) and contain at least one
+# alphabetic character to be considered "meaningful" rather than malformed.
+min_query_length: 3
+
+effort_scale:
+  title_meta_rewrite: 2
+  add_internal_links: 2
+  add_faq_section: 3
+  expand_existing_content: 5
+  new_blog_post: 6
+  new_community_page: 7
