@@ -1,0 +1,1282 @@
+DOYouNeedAHome Intelligence Report — October 12, 2026
+Data through 2026-10-10
+
+=======================================================
+EXECUTIVE SUMMARY
+=======================================================
+  Total clicks (7d):       27  (+8.0% WoW)
+  Total impressions (7d):  5602  (+43.5% WoW)
+  CTR:                     0.48%
+  Avg position:            12.9  (-1.6 WoW)
+  Sitemap URLs:            314  (+0 / -0)
+  Qualified opportunities: 120
+  Technical issues:        128
+  New-development stories: 8
+
+  TOP 5 ACTIONS THIS WEEK:
+    1. Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com (/communities/loxahatchee)
+    2. Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com (/blog/best-neighborhoods-in-west-palm-beach-florida)
+    3. Expand on-page content around 'jupiter dunes fl neighborhood guide' and add a CTA to search.doyouneedahome.com (/blog/best-neighborhoods-in-jupiter-florida)
+    4. Create a new development page or update the relevant city/new-construction hub (Delray Beach)
+    5. Write: Is Port St Lucie A Good Place To Live (Port St. Lucie)
+
+=======================================================
+OPPORTUNITIES — Almost on Page 1
+=======================================================
+  /communities/loxahatchee
+    3 clicks · 613 impressions · position 10.4 · CTR 0.5%
+    Queries: loxahatchee fl county, fianzas en loxahatchee acreage, loxahatchee fl zip code
+    → Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com
+  /blog/best-neighborhoods-in-west-palm-beach-florida
+    2 clicks · 418 impressions · position 9.4 · CTR 0.5%
+    Queries: best neighborhoods in west palm beach, best neighborhoods in west palm beach for luxury condos, best neighborhoods west palm beach
+    → Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com
+  /blog/northwood-village-west-palm-beach-neighborhood-guide
+    3 clicks · 316 impressions · position 9.5 · CTR 0.9%
+    Queries: northwood village west palm beach, northwood village, old northwood appraisal
+    → Expand on-page content around 'northwood village west palm beach' and add a CTA to search.doyouneedahome.com
+  /blog/best-neighborhoods-in-jupiter-florida
+    1 clicks · 289 impressions · position 9.3 · CTR 0.3%
+    Queries: jupiter dunes fl neighborhood guide, abacoa fl neighborhood guide, best neighborhoods in jupiter florida
+    → Expand on-page content around 'jupiter dunes fl neighborhood guide' and add a CTA to search.doyouneedahome.com
+  /blog/best-neighborhoods-in-wellington-florida
+    3 clicks · 287 impressions · position 8.6 · CTR 1.0%
+    Queries: wellington florida, can you recommend a high-end gated community in wellington for under 5 million?, houses for sale in olympia wellington fl
+    → Expand on-page content around 'wellington florida' and add a CTA to search.doyouneedahome.com
+  /blog/local-guide-to-palm-city-florida
+    0 clicks · 249 impressions · position 12.2 · CTR 0.0%
+    Queries: palm city, palm city fl, palm city florida
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-palm-beach-gardens-florida
+    0 clicks · 186 impressions · position 10.2 · CTR 0.0%
+    Queries: downtown palm beach gardens restaurant, best casual restaurants in palm beach gardens, best food palm beach gardens
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/port-salerno
+    1 clicks · 185 impressions · position 13.0 · CTR 0.5%
+    Queries: homes for sale port salerno fl, homes for sale in port salerno florida, home within 5 mi
+    → Expand on-page content around 'homes for sale port salerno fl' and add a CTA to search.doyouneedahome.com
+  /blog/best-places-to-eat-drink-hang-out-in-singer-island-florida
+    0 clicks · 179 impressions · position 17.1 · CTR 0.0%
+    Queries: best bar for singles in their 40s on singer island, bars singer island fl, best restaurants on singer island
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-stuart-florida
+    1 clicks · 176 impressions · position 8.7 · CTR 0.6%
+    Queries: downtown stuart restaurants, downtown stuart, downtown stuart bars
+    → Expand on-page content around 'downtown stuart restaurants' and add a CTA to search.doyouneedahome.com
+  /blog/best-places-to-eat-drink-hang-out-in-juno-beach-florida
+    1 clicks · 174 impressions · position 9.4 · CTR 0.6%
+    Queries: best restaurants in juno beach, juno beach restaurants on the water, juno beach restaurants
+    → Expand on-page content around 'best restaurants in juno beach' and add a CTA to search.doyouneedahome.com
+  /blog/best-places-to-eat-drink-hang-out-in-palm-city-florida
+    0 clicks · 163 impressions · position 8.8 · CTR 0.0%
+    Queries: palm city social, palm city tap house 2355 sw martin hwy, palm city, fl 34990, usa, palm city downtown
+    → Rewrite the page title and meta description to earn clicks at this position
+  /
+    0 clicks · 155 impressions · position 21.6 · CTR 0.0%
+    Queries: 824 summit lake dr, west palm beach, fl, dohomes, 10206 allamanda boulevard, palm beach gardens, fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/wellington-vs-nearby-cities
+    0 clicks · 149 impressions · position 10.0 · CTR 0.0%
+    Queries: ocala vs wellington florida, city near wellington
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/pros-and-cons-of-living-in-royal-palm-beach-florida
+    0 clicks · 148 impressions · position 8.5 · CTR 0.0%
+    Queries: is royal palm beach a good place to live, infrastructure assessment royal palm beach, living in west palm beach fl pros and cons
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/rocky-point-stuart-florida
+    1 clicks · 145 impressions · position 9.8 · CTR 0.7%
+    Queries: home inspection rocky point fl, home inspector rocky point fl
+    → Expand on-page content around 'home inspection rocky point fl' and add a CTA to search.doyouneedahome.com
+  /blog/juno-beach-vs-nearby-cities
+    2 clicks · 143 impressions · position 9.7 · CTR 1.4%
+    Queries: juno beach?, compare to jupiter, juno beach
+    → Expand on-page content around 'juno beach?' and add a CTA to search.doyouneedahome.com
+  /blog/spot-lot-builders-port-st-lucie-florida
+    2 clicks · 137 impressions · position 10.7 · CTR 1.5%
+    Queries: build on your own lot builders, build on your lot port st lucie, build a home near me port st lucie
+    → Expand on-page content around 'build on your own lot builders' and add a CTA to search.doyouneedahome.com
+  /blog/best-neighborhoods-in-boynton-beach-florida
+    0 clicks · 136 impressions · position 9.7 · CTR 0.0%
+    Queries: downtown boynton fl neighborhood guide, boynton bay fl neighborhood guide, boynton beach communities
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/bears-club
+    0 clicks · 133 impressions · position 27.3 · CTR 0.0%
+    Queries: bears club homes, bears club real estate, golf communities in jupiter
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/what-its-really-like-living-in-tequesta-florida
+    2 clicks · 118 impressions · position 9.2 · CTR 1.7%
+    Queries: living in south florida
+    → Expand on-page content around 'living in south florida' and add a CTA to search.doyouneedahome.com
+  /blog/best-places-to-eat-drink-hang-out-in-loxahatchee-florida
+    0 clicks · 115 impressions · position 9.3 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-neighborhoods-in-delray-beach-florida
+    1 clicks · 111 impressions · position 9.0 · CTR 0.9%
+    Queries: best neighborhoods in delray beach fl, delray beach neighborhoods, best neighborhoods in delray beach
+    → Expand on-page content around 'best neighborhoods in delray beach fl' and add a CTA to search.doyouneedahome.com
+  /blog/pros-and-cons-of-living-in-lake-worth-beach-florida
+    0 clicks · 107 impressions · position 10.1 · CTR 0.0%
+    Queries: is lake worth florida a good place to live, benefits of living in florida, is lake worth a good place to live
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-port-st-lucie-florida
+    0 clicks · 104 impressions · position 9.0 · CTR 0.0%
+    Queries: best happy hour port st lucie, best bars near me, bars in downtown
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-things-to-do-in-tequesta-florida
+    1 clicks · 101 impressions · position 8.7 · CTR 1.0%
+    → Add a relevant FAQ section and strengthen internal links to this page
+  /blog/what-its-really-like-living-in-loxahatchee-florida
+    0 clicks · 101 impressions · position 9.0 · CTR 0.0%
+    Queries: is loxahatchee a city, is loxahatchee in west palm beach, loxahatchee fl county
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-things-to-do-in-juno-beach-florida
+    0 clicks · 100 impressions · position 8.9 · CTR 0.0%
+    Queries: juno beach florida, juno beach, juno beach fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/who-should-move-to-jupiter-florida
+    0 clicks · 100 impressions · position 15.3 · CTR 0.0%
+    Queries: moving to jupiter florida, living in jupiter, living in jupiter fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-things-to-do-in-wellington-florida
+    0 clicks · 84 impressions · position 12.5 · CTR 0.0%
+    Queries: best things to do wellington, best things to do in wellington, best things to do in florida
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-things-to-do-in-singer-island-florida
+    1 clicks · 83 impressions · position 19.6 · CTR 1.2%
+    Queries: best impact windows singer island
+    → Expand on-page content around 'best impact windows singer island' and add a CTA to search.doyouneedahome.com
+  /blog/best-places-to-eat-drink-hang-out-in-hobe-sound-florida
+    0 clicks · 82 impressions · position 9.7 · CTR 0.0%
+    Queries: hobe sound fl downtown, late-life population hobe sound, hobe sound
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-things-to-do-in-lake-worth-beach-florida
+    0 clicks · 82 impressions · position 21.5 · CTR 0.0%
+    Queries: lake worth florida, lake worth fl, lake worth beach fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/who-should-move-to-juno-beach-florida
+    0 clicks · 82 impressions · position 9.2 · CTR 0.0%
+    Queries: is juno beach a good place to live, is juno beach nice, is juno beach safe
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/harbourside-place-jupiter-florida
+    0 clicks · 81 impressions · position 8.4 · CTR 0.0%
+    Queries: harbourside place jupiter fl, harborside jupiter florida, harbourside
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-neighborhoods-in-loxahatchee-florida
+    1 clicks · 76 impressions · position 15.2 · CTR 1.3%
+    Queries: infrastructure assessment loxahatchee, caloosahatchee fl neighborhood guide, living in loxahatchee fl
+    → Expand on-page content around 'infrastructure assessment loxahatchee' and add a CTA to search.doyouneedahome.com
+  /blog/port-salerno-vs-stuart
+    2 clicks · 74 impressions · position 9.4 · CTR 2.7%
+    Queries: aging individuals port salerno, home and community support port salerno, home inspections port salerno fl
+    → Expand on-page content around 'aging individuals port salerno' and add a CTA to search.doyouneedahome.com
+  /team
+    1 clicks · 74 impressions · position 12.1 · CTR 1.4%
+    Queries: 100% commission real estate brokerage palm beach fl, christine realtor, john oliver dunthorne ii
+    → Expand on-page content around '100% commission real estate brokerage palm beach fl' and add a CTA to search.doyouneedahome.com
+  /blog/best-places-to-eat-drink-hang-out-in-wellington-florida
+    2 clicks · 72 impressions · position 9.1 · CTR 2.8%
+    Queries: lotis wellington restaurants, lazy dog wellington, best places in wellington
+    → Expand on-page content around 'lotis wellington restaurants' and add a CTA to search.doyouneedahome.com
+  /blog/pros-and-cons-of-living-in-wellington-florida
+    1 clicks · 71 impressions · position 14.0 · CTR 1.4%
+    Queries: living in wellington florida, living in wellington fl, downsides of living in florida
+    → Expand on-page content around 'living in wellington florida' and add a CTA to search.doyouneedahome.com
+  /blog/best-neighborhoods-in-royal-palm-beach-florida
+    0 clicks · 69 impressions · position 8.2 · CTR 0.0%
+    Queries: best neighborhoods in royal palm beach fl, best neighborhoods to live in west palm beach
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/hidden-gems-in-port-st-lucie-florida
+    2 clicks · 65 impressions · position 8.6 · CTR 3.1%
+    Queries: tell me local secrets of port st lucie
+    → Expand on-page content around 'tell me local secrets of port st lucie' and add a CTA to search.doyouneedahome.com
+  /blog/what-its-really-like-living-in-port-st-lucie-florida
+    0 clicks · 65 impressions · position 20.7 · CTR 0.0%
+    Queries: is port st lucie a good place to live, benefits of living in port st. lucie, is port st lucie nice
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/who-should-move-to-boynton-beach-florida
+    0 clicks · 63 impressions · position 11.9 · CTR 0.0%
+    Queries: is boynton beach a good place to live, is boynton beach in broward county, moving to boynton beach
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/royal-palm-beach
+    0 clicks · 61 impressions · position 29.4 · CTR 0.0%
+    Queries: best neighborhoods in royal palm beach fl, new homes in royal palm beach, new construction homes royal palm beach
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/who-should-move-to-loxahatchee-florida
+    0 clicks · 60 impressions · position 11.1 · CTR 0.0%
+    Queries: is loxahatchee a good place to live, loxahatchee florida county
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/tequesta-vs-nearby-cities
+    1 clicks · 59 impressions · position 8.3 · CTR 1.7%
+    → Add a relevant FAQ section and strengthen internal links to this page
+  /blog/best-neighborhoods-in-palm-city-florida
+    0 clicks · 59 impressions · position 8.0 · CTR 0.0%
+    Queries: great neighborhoods, is palm city florida a good place to live
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/westlake
+    0 clicks · 59 impressions · position 21.7 · CTR 0.0%
+    Queries: new construction homes in westlake fl, new homes in westlake fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /canadahomeseller
+    0 clicks · 58 impressions · position 10.3 · CTR 0.0%
+    Queries: canadian selling property in florida, non resident selling property in florida
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/what-its-really-like-living-in-palm-beach-gardens-florida
+    0 clicks · 57 impressions · position 22.2 · CTR 0.0%
+    Queries: living in palm beach gardens, living in palm beach gardens florida, is palm beach gardens a good place to live
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/cost-of-living-in-palm-beach-gardens-florida
+    0 clicks · 55 impressions · position 8.3 · CTR 0.0%
+    Queries: is palm beach gardens expensive, palm beach gardens, i am a 25-34, 35-44, 45-54, or 55-64 year old relocation buyer in the residential real estate or homebuilding industry. my job seniority is at the senior, executive, or manager level. i work at a company with 1-249 employees. my main motivations: finding a new home that supports a job relocation, lifestyle change, family needs, or cost-of-living considerations. wants a seamless home-buying experience, access to quality schools and amenities, and confidence in the builder's reputation. interested in move-in-ready homes, master-planned communities, and locations that support long-term personal and professional goals. my main pain points: relocating is stressful enough without having to navigate unfamiliar neighborhoods, school districts, builders, and housing markets all at once. is palm beach gardens a good place to live?
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/port-st-lucie
+    0 clicks · 55 impressions · position 14.6 · CTR 0.0%
+    Queries: communities in port st lucie florida, communities in port st lucie
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-boynton-beach-florida
+    0 clicks · 49 impressions · position 9.0 · CTR 0.0%
+    Queries: boynton beach waterfront restaurants, fun restaurants boynton beach
+    → Rewrite the page title and meta description to earn clicks at this position
+  /palm-beach-county-treasure-coast-relocation-guide
+    0 clicks · 49 impressions · position 21.2 · CTR 0.0%
+    Queries: beach access, boca raton relocation guide
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/delray-beach-vs-nearby-cities
+    0 clicks · 47 impressions · position 8.6 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/hobe-sound
+    1 clicks · 44 impressions · position 18.4 · CTR 2.3%
+    Queries: hobe hills, hobe mountain, hobe sound florida
+    → Expand on-page content around 'hobe hills' and add a CTA to search.doyouneedahome.com
+  /blog/jupiter-vs-nearby-cities
+    0 clicks · 44 impressions · position 12.7 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/peck-lake-park-hobe-sound-florida
+    0 clicks · 44 impressions · position 9.5 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-royal-palm-beach-florida
+    0 clicks · 42 impressions · position 10.1 · CTR 0.0%
+    Queries: best places to eat out
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/singer-island-vs-nearby-cities
+    0 clicks · 42 impressions · position 11.4 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/lake-worth-beach
+    0 clicks · 42 impressions · position 8.4 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/who-should-move-to-delray-beach-florida
+    1 clicks · 41 impressions · position 10.4 · CTR 2.4%
+    Queries: moving to delray beach, is delray beach a good place to live, delray beach home policy
+    → Expand on-page content around 'moving to delray beach' and add a CTA to search.doyouneedahome.com
+  /blog/best-neighborhoods-in-tequesta-florida
+    0 clicks · 41 impressions · position 8.2 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/pros-and-cons-of-living-in-west-palm-beach-florida
+    0 clicks · 41 impressions · position 11.3 · CTR 0.0%
+    Queries: living in west palm beach fl pros and cons, benefits of living in west palm beach
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-jupiter-florida
+    1 clicks · 40 impressions · position 14.1 · CTR 2.5%
+    Queries: best places to eat jupiter, best places to eat in jupiter
+    → Expand on-page content around 'best places to eat jupiter' and add a CTA to search.doyouneedahome.com
+  /blog/cost-of-living-in-north-palm-beach-florida
+    0 clicks · 39 impressions · position 9.8 · CTR 0.0%
+    Queries: north palm beach fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/hidden-gems-in-juno-beach-florida
+    0 clicks · 39 impressions · position 14.3 · CTR 0.0%
+    Queries: juno beach, juno beach things to do, hidden gems
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-north-palm-beach-florida
+    0 clicks · 38 impressions · position 11.4 · CTR 0.0%
+    Queries: best restaurants in north palm beach, best restaurants north palm beach, north end hospitality
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/delray-marketplace-west-delray-beach
+    0 clicks · 38 impressions · position 9.8 · CTR 0.0%
+    Queries: delray marketplace, and this, delray marketplace directory
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/hidden-gems-in-lake-worth-beach-florida
+    0 clicks · 38 impressions · position 11.1 · CTR 0.0%
+    Queries: lake worth florida, oliver beach community hall
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/loxahatchee-club
+    1 clicks · 37 impressions · position 24.9 · CTR 2.7%
+    Queries: loxahatchee golf club, loxahatchee club, loxahatchee golf
+    → Expand on-page content around 'loxahatchee golf club' and add a CTA to search.doyouneedahome.com
+  /communities/lotus
+    0 clicks · 35 impressions · position 25.2 · CTR 0.0%
+    Queries: lotus palm homes for sale, lotus boca homes for sale, lotus boca raton
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-delray-beach-florida
+    0 clicks · 34 impressions · position 9.2 · CTR 0.0%
+    Queries: best places to eat in delray beach, delray places to eat
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/pros-and-cons-of-living-in-tequesta-florida
+    0 clicks · 34 impressions · position 8.2 · CTR 0.0%
+    Queries: is tequesta in palm beach county
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/panther-national
+    0 clicks · 33 impressions · position 20.5 · CTR 0.0%
+    Queries: ohana panther national
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-tequesta-florida
+    0 clicks · 32 impressions · position 9.6 · CTR 0.0%
+    Queries: best restaurants in tequesta fl
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/who-should-move-to-hobe-sound-florida
+    0 clicks · 31 impressions · position 8.8 · CTR 0.0%
+    Queries: late-life population hobe sound, hobe sound florida, hobe sound bible college
+    → Rewrite the page title and meta description to earn clicks at this position
+  /communities/martinique
+    0 clicks · 31 impressions · position 16.5 · CTR 0.0%
+    Queries: martinique abacoa homes for sale, martinique abacoa, martinique miramar
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/best-places-to-eat-drink-hang-out-in-west-palm-beach-florida
+    0 clicks · 30 impressions · position 9.8 · CTR 0.0%
+    Queries: food downtown west palm beach
+    → Rewrite the page title and meta description to earn clicks at this position
+  /blog/hidden-gems-in-boca-raton-florida
+    3 clicks · 29 impressions · position 8.5 · CTR 10.3%
+    Queries: find unique things to do in boca raton, no beach
+    → Expand on-page content around 'find unique things to do in boca raton' and add a CTA to search.doyouneedahome.com
+  /blog/hidden-gems-in-westlake-florida
+    0 clicks · 29 impressions · position 21.6 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/local-guide-to-tequesta-florida
+    0 clicks · 29 impressions · position 9.1 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /communities/juno-beach
+    0 clicks · 29 impressions · position 15.7 · CTR 0.0%
+    Queries: juno isles, juno by the sea
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/what-its-really-like-living-in-westlake-florida
+    1 clicks · 28 impressions · position 11.9 · CTR 3.6%
+    → Add a relevant FAQ section and strengthen internal links to this page
+  /blog/best-things-to-do-in-north-palm-beach-florida
+    0 clicks · 28 impressions · position 20.0 · CTR 0.0%
+    Queries: north palm beach florida, north palm beach, north palm florida
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/miami-cost-of-living-vs-palm-beach-county
+    0 clicks · 28 impressions · position 12.2 · CTR 0.0%
+    Queries: buy a home in miami, buy a home miami
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/palm-beach-county-home-insurance-rates-2026
+    0 clicks · 28 impressions · position 11.6 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/pros-and-cons-of-living-in-boynton-beach-florida
+    0 clicks · 28 impressions · position 8.2 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/pros-and-cons-of-living-in-jupiter-florida
+    0 clicks · 28 impressions · position 8.0 · CTR 0.0%
+    Queries: jupiter florida
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/cost-of-living-in-tequesta-florida
+    0 clicks · 27 impressions · position 9.9 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/cost-to-build-on-your-lot-port-st-lucie-florida
+    0 clicks · 27 impressions · position 12.4 · CTR 0.0%
+    Queries: cost to build custom home port st lucie, building home cost port st lucie, cost to build a home in port st lucie
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/hidden-gems-in-hobe-sound-florida
+    0 clicks · 27 impressions · position 8.0 · CTR 0.0%
+    Queries: list hidden gems in hobe sound
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /communities/boca-raton
+    0 clicks · 27 impressions · position 17.7 · CTR 0.0%
+    Queries: boca raton condo market
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/best-places-to-eat-drink-hang-out-in-port-salerno-florida
+    0 clicks · 26 impressions · position 11.0 · CTR 0.0%
+    Queries: fysh bar and grill port salerno
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /communities/jupiter-yacht-club
+    0 clicks · 26 impressions · position 16.5 · CTR 0.0%
+    Queries: jupiter yacht club, jupiter yacht club marina, boating communities in jupiter
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /communities/stuart
+    0 clicks · 26 impressions · position 16.8 · CTR 0.0%
+    Queries: is stuart in palm beach county, lake tuscany stuart fl
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /florida-condo-buyers-due-diligence-checklist
+    2 clicks · 25 impressions · position 11.4 · CTR 8.0%
+    Queries: florida condo buying guide
+    → Expand on-page content around 'florida condo buying guide' and add a CTA to search.doyouneedahome.com
+  /blog/what-its-really-like-living-in-boynton-beach-florida
+    1 clicks · 25 impressions · position 9.3 · CTR 4.0%
+    Queries: moving to boynton beach
+    → Expand on-page content around 'moving to boynton beach' and add a CTA to search.doyouneedahome.com
+  /blog/who-should-move-to-palm-beach-gardens-florida
+    0 clicks · 25 impressions · position 14.0 · CTR 0.0%
+    Queries: moving to palm beach gardens, is palm beach gardens a good place to live?, is palm beach gardens a good place to live
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/best-neighborhoods-in-boca-raton-florida
+    0 clicks · 24 impressions · position 12.2 · CTR 0.0%
+    Queries: boca raton weather today, diplomat fl neighborhood guide
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/best-neighborhoods-in-westlake-florida
+    0 clicks · 24 impressions · position 10.0 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/waterfront-homes-port-salerno-buyers-guide
+    0 clicks · 23 impressions · position 19.0 · CTR 0.0%
+    Queries: evaluate the residential home construction company waterways on waterfront & master-planned communities, aging individual port salerno, electrical panel upgrade port salerno fl
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/best-places-to-eat-drink-hang-out-in-lake-worth-beach-florida
+    0 clicks · 22 impressions · position 8.1 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/hidden-gems-in-palm-city-florida
+    0 clicks · 22 impressions · position 11.2 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/pros-and-cons-of-living-in-north-palm-beach-florida
+    1 clicks · 20 impressions · position 9.2 · CTR 5.0%
+    Queries: buy house versus renovate house north palm beach
+    → Expand on-page content around 'buy house versus renovate house north palm beach' and add a CTA to search.doyouneedahome.com
+  /blog/best-things-to-do-in-westlake-florida
+    0 clicks · 19 impressions · position 9.5 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /treasure-coast-real-estate-market-report
+    0 clicks · 19 impressions · position 8.0 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/cost-of-living-in-boynton-beach-florida
+    0 clicks · 18 impressions · position 10.1 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/hidden-gems-in-tequesta-florida
+    0 clicks · 18 impressions · position 9.8 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /communities/poinciana-park
+    0 clicks · 18 impressions · position 28.8 · CTR 0.0%
+    Queries: homes for sale poinciana park palm beach, homes for sale poinciana park, houses for sale poinciana park
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/local-guide-to-juno-beach-florida
+    0 clicks · 17 impressions · position 27.0 · CTR 0.0%
+    Queries: condominium public adjuster juno beach, juno beach condominium public adjuster, juno beach florida
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/what-its-really-like-living-in-north-palm-beach-florida
+    0 clicks · 17 impressions · position 16.7 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /communities/windsor-park
+    0 clicks · 17 impressions · position 22.1 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/hidden-gems-in-north-palm-beach-florida
+    0 clicks · 16 impressions · position 17.9 · CTR 0.0%
+    Queries: north palm beach
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/local-guide-to-palm-beach-gardens-florida
+    0 clicks · 16 impressions · position 19.8 · CTR 0.0%
+    Queries: palm beach gardens south fl neighborhood guide, palm beach gardens fl county, palm beach gardens florida
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/pros-and-cons-of-living-in-delray-beach-florida
+    0 clicks · 16 impressions · position 9.1 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/who-should-move-to-tequesta-florida
+    0 clicks · 16 impressions · position 19.9 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/best-things-to-do-in-palm-beach-gardens-florida
+    0 clicks · 15 impressions · position 23.5 · CTR 0.0%
+    Queries: palm beach gardens florida, in palm beach gardens florida, palm beach gardens fl
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+  /blog/cost-of-living-in-royal-palm-beach-florida
+    0 clicks · 15 impressions · position 9.3 · CTR 0.0%
+    → Add stronger internal links and an FAQ section — not enough data yet to justify a title rewrite
+
+=======================================================
+WINS — Pages That Climbed
+=======================================================
+  /blog/who-should-move-to-boynton-beach-florida
+    Position 50.6 → 11.9 (up 38.7) · clicks +0 · impressions +58
+  /communities/martinique
+    Position 55 → 16.5 (up 38.5) · clicks +0 · impressions +29
+  /blog/best-neighborhoods-in-west-palm-beach-florida
+    Position 47.7 → 9.4 (up 38.3) · clicks +2 · impressions +398
+  /blog/who-should-move-to-palm-beach-gardens-florida
+    Position 52 → 14.0 (up 38.0) · clicks +0 · impressions +16
+  /communities/windsor-park
+    Position 55 → 22.1 (up 32.9) · clicks +0 · impressions +16
+  /blog/local-guide-to-juno-beach-florida
+    Position 57.5 → 27 (up 30.5) · clicks +0 · impressions +9
+  /blog/west-palm-beach-vs-nearby-cities
+    Position 37.8 → 7.6 (up 30.1) · clicks +0 · impressions +19
+  /blog/who-should-move-to-tequesta-florida
+    Position 45.7 → 19.9 (up 25.8) · clicks +0 · impressions +6
+  /blog/hidden-gems-in-tequesta-florida
+    Position 34.4 → 9.8 (up 24.7) · clicks +0 · impressions +11
+  /blog/pros-and-cons-of-living-in-juno-beach-florida
+    Position 31 → 7.7 (up 23.3) · clicks +0 · impressions +131
+  /communities/boca-raton
+    Position 39.3 → 17.7 (up 21.7) · clicks +0 · impressions +0
+  /communities/port-salerno
+    Position 33.1 → 13.0 (up 20.1) · clicks +1 · impressions +59
+  /communities/ibis
+    Position 49 → 30.3 (up 18.7) · clicks +0 · impressions +82
+  /
+    Position 40.2 → 21.6 (up 18.6) · clicks -3 · impressions -164
+  /blog/local-guide-to-palm-beach-gardens-florida
+    Position 38.4 → 19.8 (up 18.6) · clicks +0 · impressions +11
+  /blog/what-its-really-like-living-in-westlake-florida
+    Position 29.0 → 11.9 (up 17.2) · clicks +1 · impressions +7
+  /communities/port-st-lucie
+    Position 31.4 → 14.6 (up 16.8) · clicks +0 · impressions +20
+  /blog/hidden-gems-in-north-palm-beach-florida
+    Position 34.3 → 17.9 (up 16.4) · clicks +0 · impressions +6
+  /blog/hidden-gems-in-singer-island-florida
+    Position 20.7 → 6.1 (up 14.6) · clicks +0 · impressions +6
+  /blog/what-its-really-like-living-in-loxahatchee-florida
+    Position 23.4 → 9.0 (up 14.5) · clicks +0 · impressions +92
+  /communities/westlake
+    Position 34.7 → 21.7 (up 13.0) · clicks +0 · impressions -41
+  /blog/best-neighborhoods-in-boynton-beach-florida
+    Position 22.0 → 9.7 (up 12.3) · clicks +0 · impressions +58
+  /communities/hobe-sound
+    Position 30.5 → 18.4 (up 12.1) · clicks +1 · impressions -30
+  /blog/hidden-gems-in-stuart-florida
+    Position 19.0 → 7.7 (up 11.2) · clicks -1 · impressions +10
+  /communities/royal-palm-beach
+    Position 40.0 → 29.4 (up 10.6) · clicks +0 · impressions -57
+  /communities/panther-national
+    Position 31 → 20.5 (up 10.5) · clicks +0 · impressions +10
+  /communities/palm-city
+    Position 40.6 → 30.2 (up 10.4) · clicks +1 · impressions -85
+  /blog/best-places-to-eat-drink-hang-out-in-stuart-florida
+    Position 18.7 → 8.7 (up 10.0) · clicks +1 · impressions +142
+  /blog/best-things-to-do-in-lake-worth-beach-florida
+    Position 30.5 → 21.5 (up 9.0) · clicks +0 · impressions -28
+  /communities/tequesta
+    Position 39.2 → 30.5 (up 8.8) · clicks +0 · impressions -24
+  /blog/hidden-gems-in-port-st-lucie-florida
+    Position 17.2 → 8.6 (up 8.6) · clicks +2 · impressions +40
+  /blog/best-places-to-eat-drink-hang-out-in-jupiter-florida
+    Position 22.5 → 14.1 (up 8.3) · clicks +1 · impressions +27
+  /blog/best-neighborhoods-in-palm-beach-gardens-florida
+    Position 16.1 → 7.8 (up 8.3) · clicks -1 · impressions +20
+  /communities/lake-worth-beach
+    Position 16.7 → 8.4 (up 8.3) · clicks +0 · impressions +0
+  /blog/what-its-really-like-living-in-tequesta-florida
+    Position 17 → 9.2 (up 7.8) · clicks +2 · impressions -6
+  /blog/best-things-to-do-in-wellington-florida
+    Position 20.3 → 12.5 (up 7.7) · clicks -1 · impressions -3
+  /blog/hidden-gems-in-lake-worth-beach-florida
+    Position 18.3 → 11.1 (up 7.3) · clicks +0 · impressions +20
+  /blog/best-neighborhoods-in-wellington-florida
+    Position 14.8 → 8.6 (up 6.2) · clicks +2 · impressions +122
+  /palm-beach-county-treasure-coast-relocation-guide
+    Position 27.4 → 21.2 (up 6.2) · clicks +0 · impressions -22
+  /blog/local-guide-to-palm-city-florida
+    Position 18.3 → 12.2 (up 6.1) · clicks +0 · impressions +210
+  /blog/who-should-move-to-loxahatchee-florida
+    Position 17 → 11.1 (up 5.9) · clicks +0 · impressions +57
+  /blog/hidden-gems-in-boca-raton-florida
+    Position 14.2 → 8.5 (up 5.7) · clicks +2 · impressions +4
+  /team
+    Position 17.9 → 12.1 (up 5.7) · clicks -1 · impressions -5
+  /blog/history-of-port-salerno-florida
+    Position 11.8 → 6.3 (up 5.6) · clicks +4 · impressions +386
+  /blog/who-should-move-to-delray-beach-florida
+    Position 16 → 10.4 (up 5.6) · clicks +1 · impressions +38
+  /blog/best-things-to-do-in-north-palm-beach-florida
+    Position 25.4 → 20 (up 5.4) · clicks +0 · impressions -52
+  /blog/best-places-to-eat-drink-hang-out-in-palm-beach-gardens-florida
+    Position 15.3 → 10.2 (up 5.2) · clicks -1 · impressions +160
+  /blog/pros-and-cons-of-living-in-singer-island-florida
+    Position 9.6 → 4.4 (up 5.2) · clicks +0 · impressions +16
+  /blog/best-neighborhoods-in-loxahatchee-florida
+    Position 20.2 → 15.2 (up 5.0) · clicks +1 · impressions -83
+  /blog/hidden-gems-in-juno-beach-florida
+    Position 19.1 → 14.3 (up 4.8) · clicks +0 · impressions +17
+  /communities/juno-beach
+    Position 20.5 → 15.7 (up 4.8) · clicks +0 · impressions -9
+  /blog/best-neighborhoods-in-juno-beach-florida
+    Position 12.3 → 7.9 (up 4.5) · clicks -2 · impressions +24
+  /blog/best-places-to-eat-drink-hang-out-in-boca-raton-florida
+    Position 11.3 → 7.0 (up 4.4) · clicks +2 · impressions +98
+  /communities/poinciana-park
+    Position 33.2 → 28.8 (up 4.4) · clicks +0 · impressions +3
+  /blog/what-its-really-like-living-in-port-st-lucie-florida
+    Position 24.9 → 20.7 (up 4.2) · clicks +0 · impressions +7
+  /blog/northwood-village-west-palm-beach-neighborhood-guide
+    Position 13.6 → 9.5 (up 4.1) · clicks +2 · impressions +170
+  /blog/cost-of-living-in-tequesta-florida
+    Position 14 → 9.9 (up 4.1) · clicks +0 · impressions +1
+  /communities/palm-beach-gardens
+    Position 45.5 → 41.4 (up 4.1) · clicks +0 · impressions -109
+  /blog/waterfront-homes-port-salerno-buyers-guide
+    Position 23.0 → 19 (up 4.0) · clicks +0 · impressions +2
+  /blog/what-its-really-like-living-in-north-palm-beach-florida
+    Position 19.8 → 16.7 (up 3.1) · clicks +0 · impressions -8
+
+=======================================================
+LOSSES — Pages That Slipped
+=======================================================
+  /communities/canterbury-place
+    Position 23.9 → 50.9 (down 27.1) · clicks +0 · impressions +3
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /communities/west-palm-beach
+    Position 25.3 → 47.9 (down 22.6) · clicks +0 · impressions -6
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/local-guide-to-boynton-beach-florida
+    Position 23.5 → 36 (down 12.5) · clicks +0 · impressions -31
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /communities/manalapan
+    Position 40.6 → 53.1 (down 12.5) · clicks +0 · impressions +1
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /sell
+    Position 18.9 → 30.9 (down 12.1) · clicks +0 · impressions +3
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/who-should-move-to-royal-palm-beach-florida
+    Position 25.5 → 37.4 (down 11.9) · clicks +0 · impressions -21
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/what-its-really-like-living-in-royal-palm-beach-florida
+    Position 23.0 → 32.6 (down 9.6) · clicks +0 · impressions -17
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /contact
+    Position 25.9 → 35.5 (down 9.6) · clicks +0 · impressions -1
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /communities
+    Position 23.8 → 33.1 (down 9.2) · clicks +0 · impressions -101
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/who-should-move-to-jupiter-florida
+    Position 6.7 → 15.3 (down 8.6) · clicks +0 · impressions +86
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/best-neighborhoods-in-port-st-lucie-florida
+    Position 19 → 27.4 (down 8.4) · clicks +0 · impressions -22
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/best-neighborhoods-in-westlake-florida
+    Position 2 → 10.0 (down 8.0) · clicks +0 · impressions +23
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /communities/boynton-beach
+    Position 23.0 → 30.5 (down 7.4) · clicks +0 · impressions -15
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/best-things-to-do-in-singer-island-florida
+    Position 13.2 → 19.6 (down 6.4) · clicks +1 · impressions -122
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/pros-and-cons-of-living-in-wellington-florida
+    Position 8.1 → 14.0 (down 6.0) · clicks +1 · impressions +58
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/best-neighborhoods-in-delray-beach-florida
+    Position 4 → 9.0 (down 5.0) · clicks +1 · impressions +110
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /communities/stuart
+    Position 13.1 → 16.8 (down 3.7) · clicks +0 · impressions -8
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /communities/loxahatchee-club
+    Position 21.6 → 24.9 (down 3.3) · clicks +1 · impressions +20
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+  /blog/juno-beach-vs-nearby-cities
+    Position 6.5 → 9.7 (down 3.2) · clicks +2 · impressions +126
+    Data shows a ranking decline; review the page for content or technical changes before assuming a cause.
+
+=======================================================
+TOP PAGES BY CLICKS — Last 28 Days
+=======================================================
+      6 clicks     483 impr  pos   7.8  /blog/best-neighborhoods-in-stuart-florida
+      6 clicks     202 impr  pos   5.9  /blog/hidden-gems-in-west-palm-beach-florida
+      5 clicks     403 impr  pos   7.5  /blog/pros-and-cons-of-living-in-port-st-lucie-florida
+      4 clicks     406 impr  pos   6.3  /blog/history-of-port-salerno-florida
+      4 clicks     430 impr  pos   6.5  /blog/manatee-pocket-guide
+      3 clicks     287 impr  pos   8.6  /blog/best-neighborhoods-in-wellington-florida
+      3 clicks      29 impr  pos   8.5  /blog/hidden-gems-in-boca-raton-florida
+      3 clicks     316 impr  pos   9.5  /blog/northwood-village-west-palm-beach-neighborhood-guide
+      3 clicks     613 impr  pos  10.4  /communities/loxahatchee
+      2 clicks      71 impr  pos   7.3  /blog/best-neighborhoods-in-hobe-sound-florida
+      2 clicks      51 impr  pos   7.9  /blog/best-neighborhoods-in-juno-beach-florida
+      2 clicks     418 impr  pos   9.4  /blog/best-neighborhoods-in-west-palm-beach-florida
+      2 clicks     116 impr  pos   7.0  /blog/best-places-to-eat-drink-hang-out-in-boca-raton-florida
+      2 clicks      72 impr  pos   9.1  /blog/best-places-to-eat-drink-hang-out-in-wellington-florida
+      2 clicks     321 impr  pos   7.8  /blog/best-places-to-eat-drink-hang-out-in-westlake-florida
+
+=======================================================
+TOP QUERIES BY IMPRESSIONS
+=======================================================
+      0 clicks      48 impr  pos  10.5  'loxahatchee fl county'  → /blog/what-its-really-like-living-in-loxahatchee-florida
+      0 clicks      42 impr  pos  24.9  'is port st lucie a good place to live'  → /blog/pros-and-cons-of-living-in-port-st-lucie-florida
+      0 clicks      33 impr  pos   8.0  'juno beach'  → /blog/best-things-to-do-in-juno-beach-florida
+      0 clicks      31 impr  pos  16.6  'best neighborhoods in royal palm beach fl'  → /blog/best-neighborhoods-in-royal-palm-beach-florida
+      0 clicks      31 impr  pos   4.5  'juno beach florida'  → /blog/best-things-to-do-in-juno-beach-florida
+      0 clicks      31 impr  pos  17.7  'palm city'  → /blog/best-places-to-eat-drink-hang-out-in-palm-city-florida
+      0 clicks      28 impr  pos  15.9  'build on your own lot builders'  → /blog/spot-lot-builders-port-st-lucie-florida
+      0 clicks      26 impr  pos  12.8  'northwood village west palm beach'  → /blog/northwood-village-west-palm-beach-neighborhood-guide
+      0 clicks      25 impr  pos  13.6  'best neighborhoods in west palm beach'  → /blog/best-neighborhoods-in-west-palm-beach-florida
+      0 clicks      25 impr  pos  15.4  'palm city fl'  → /blog/local-guide-to-palm-city-florida
+      0 clicks      24 impr  pos  12.4  'floating docks port salerno'  → /blog/manatee-pocket-guide
+      0 clicks      24 impr  pos   5.9  'is royal palm beach a good place to live'  → /blog/pros-and-cons-of-living-in-royal-palm-beach-florida
+      0 clicks      24 impr  pos  43.5  'new construction homes in palm beach gardens'  → /communities/palm-beach-gardens
+      0 clicks      23 impr  pos  13.3  'palm city florida'  → /blog/local-guide-to-palm-city-florida
+      0 clicks      21 impr  pos   9.6  'living in palm beach gardens'  → /blog/best-neighborhoods-in-palm-beach-gardens-florida
+
+=======================================================
+FIX THESE FIRST — Quick Wins
+=======================================================
+  /communities/loxahatchee
+    613 impr · pos 10.4 · CTR 0.5%
+    → Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com
+    Expected impact: high · Effort: 2/10
+  /blog/best-neighborhoods-in-west-palm-beach-florida
+    418 impr · pos 9.4 · CTR 0.5%
+    → Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com
+    Expected impact: high · Effort: 2/10
+  /blog/best-neighborhoods-in-jupiter-florida
+    289 impr · pos 9.3 · CTR 0.3%
+    → Expand on-page content around 'jupiter dunes fl neighborhood guide' and add a CTA to search.doyouneedahome.com
+    Expected impact: high · Effort: 2/10
+  /blog/best-neighborhoods-in-wellington-florida
+    287 impr · pos 8.6 · CTR 1.0%
+    → Expand on-page content around 'wellington florida' and add a CTA to search.doyouneedahome.com
+    Expected impact: high · Effort: 2/10
+  /communities/port-salerno
+    185 impr · pos 13.0 · CTR 0.5%
+    → Expand on-page content around 'homes for sale port salerno fl' and add a CTA to search.doyouneedahome.com
+    Expected impact: high · Effort: 2/10
+  /blog/best-neighborhoods-in-boynton-beach-florida
+    136 impr · pos 9.7 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+    Expected impact: high · Effort: 2/10
+  /communities/bears-club
+    133 impr · pos 27.3 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+    Expected impact: high · Effort: 2/10
+  /blog/best-neighborhoods-in-delray-beach-florida
+    111 impr · pos 9.0 · CTR 0.9%
+    → Expand on-page content around 'best neighborhoods in delray beach fl' and add a CTA to search.doyouneedahome.com
+    Expected impact: high · Effort: 2/10
+  /blog/pros-and-cons-of-living-in-lake-worth-beach-florida
+    107 impr · pos 10.1 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+    Expected impact: high · Effort: 2/10
+  /blog/who-should-move-to-jupiter-florida
+    100 impr · pos 15.3 · CTR 0.0%
+    → Rewrite the page title and meta description to earn clicks at this position
+    Expected impact: high · Effort: 2/10
+
+=======================================================
+CITY AUTHORITY SCORECARDS
+=======================================================
+
+  Jupiter (Tier 1) — 100.0/100
+    Main city page present: True
+    Community pages: 13 · Blog coverage: 10/10
+    → Jupiter is in good shape — focus on freshness updates and internal linking.
+    Percent complete: 100.0%
+    Top gaps: none
+
+  Palm Beach Gardens (Tier 1) — 100.0/100
+    Main city page present: True
+    Community pages: 7 · Blog coverage: 10/10
+    → Palm Beach Gardens is in good shape — focus on freshness updates and internal linking.
+    Percent complete: 100.0%
+    Top gaps: none
+
+  North Palm Beach (Tier 2) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → North Palm Beach is in good shape — focus on freshness updates and internal linking.
+
+  Tequesta (Tier 2) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Tequesta is in good shape — focus on freshness updates and internal linking.
+
+  Juno Beach (Tier 2) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Juno Beach is in good shape — focus on freshness updates and internal linking.
+
+  Singer Island (Tier 2) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Singer Island is in good shape — focus on freshness updates and internal linking.
+
+  West Palm Beach (Tier 2) — 100.0/100
+    Main city page present: True
+    Community pages: 4 · Blog coverage: 10/10
+    → West Palm Beach is in good shape — focus on freshness updates and internal linking.
+
+  Wellington (Tier 3) — 95.0/100
+    Main city page present: True
+    Community pages: 3 · Blog coverage: 10/10
+    No dedicated page yet: wellington-country-club
+    → Create a dedicated community page for wellington-country-club — highest-traffic gap in Wellington.
+
+  Royal Palm Beach (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Royal Palm Beach is in good shape — focus on freshness updates and internal linking.
+
+  Lake Worth Beach (Tier 3) — 93.3/100
+    Main city page present: True
+    Community pages: 6 · Blog coverage: 10/10
+    No dedicated page yet: lake-worth-estates, lake-worth-gardens, poinciana-park
+    → Create a dedicated community page for lake-worth-estates — highest-traffic gap in Lake Worth Beach.
+
+  Boynton Beach (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 1 · Blog coverage: 10/10
+    → Boynton Beach is in good shape — focus on freshness updates and internal linking.
+
+  Delray Beach (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 7 · Blog coverage: 10/10
+    → Delray Beach is in good shape — focus on freshness updates and internal linking.
+
+  Boca Raton (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 4 · Blog coverage: 10/10
+    → Boca Raton is in good shape — focus on freshness updates and internal linking.
+
+  Hobe Sound (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Hobe Sound is in good shape — focus on freshness updates and internal linking.
+
+  Stuart (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Stuart is in good shape — focus on freshness updates and internal linking.
+
+  Palm City (Tier 3) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Palm City is in good shape — focus on freshness updates and internal linking.
+
+  Port St. Lucie (Tier 3) — 96.9/100
+    Main city page present: True
+    Community pages: 11 · Blog coverage: 10/10
+    No dedicated page yet: powder-pointe, sonoma-bay
+    → Create a dedicated community page for powder-pointe — highest-traffic gap in Port St. Lucie.
+
+  Palm Beach (Tier other) — 75.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 0/10
+    → Improve blog & lifestyle content coverage for Palm Beach.
+
+  Loxahatchee (Tier other) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Loxahatchee is in good shape — focus on freshness updates and internal linking.
+
+  Westlake (Tier other) — 100.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 10/10
+    → Westlake is in good shape — focus on freshness updates and internal linking.
+
+  Port Salerno (Tier other) — 75.0/100
+    Main city page present: True
+    Community pages: 0 · Blog coverage: 0/10
+    → Improve blog & lifestyle content coverage for Port Salerno.
+
+  UNMAPPED COMMUNITY PAGES (need manual classification in config/cities.yaml):
+    /communities/lotus  (candidates: Boca Raton, Palm Beach)
+    /communities/jupiter-yacht-club  (candidates: Jupiter, Palm Beach)
+    /communities/prado  (candidates: West Palm Beach, Palm Beach)
+    /communities/bay-colony  (candidates: Jupiter, Palm Beach Gardens, Juno Beach, Palm Beach)
+
+=======================================================
+WRITE THESE — Content Ideas From Search Data
+=======================================================
+  1. Is Port St Lucie A Good Place To Live
+     Keyword: is port st lucie a good place to live — 42 impressions, 0 clicks, avg position 24.9
+     Angle: No page currently ranks well for 'is port st lucie a good place to live' — write content that directly answers this search.
+     CTA: View Current Port St. Lucie Homes · Lead magnet: Palm Beach County Relocation Guide
+  2. Build On Your Own Lot Builders
+     Keyword: build on your own lot builders — 28 impressions, 0 clicks, avg position 15.9
+     Angle: No page currently ranks well for 'build on your own lot builders' — write content that directly answers this search.
+     CTA: Browse Homes on search.doyouneedahome.com · Lead magnet: Palm Beach County Relocation Guide
+  3. Palm City Fl
+     Keyword: palm city fl — 25 impressions, 0 clicks, avg position 15.4
+     Angle: No page currently ranks well for 'palm city fl' — write content that directly answers this search.
+     CTA: View Current Palm City Homes · Lead magnet: Palm Beach County Relocation Guide
+  4. New Construction Homes In Palm Beach Gardens
+     Keyword: new construction homes in palm beach gardens — 24 impressions, 0 clicks, avg position 43.5
+     Angle: No page currently ranks well for 'new construction homes in palm beach gardens' — write content that directly answers this search.
+     CTA: View Current Palm Beach Gardens Homes · Lead magnet: Palm Beach County Relocation Guide
+  5. Living In Stuart Fl
+     Keyword: living in stuart fl — 19 impressions, 0 clicks, avg position 23.3
+     Angle: No page currently ranks well for 'living in stuart fl' — write content that directly answers this search.
+     CTA: View Current Stuart Homes · Lead magnet: Palm Beach County Relocation Guide
+
+=======================================================
+UPDATE THESE — Existing Content Opportunities
+=======================================================
+  /communities/loxahatchee
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: False
+  /blog/best-neighborhoods-in-west-palm-beach-florida
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: False
+  /blog/northwood-village-west-palm-beach-neighborhood-guide
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: False
+  /blog/best-neighborhoods-in-jupiter-florida
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: False
+  /blog/best-neighborhoods-in-wellington-florida
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: False
+  /blog/local-guide-to-palm-city-florida
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: True
+  /blog/best-places-to-eat-drink-hang-out-in-palm-beach-gardens-florida
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: True
+  /communities/port-salerno
+    Missing: FAQ section · CTA: View Current Homes · Freshness update needed: False
+
+=======================================================
+INTERNAL LINKING OPPORTUNITIES
+=======================================================
+  /communities/jupiter  →  /communities/sea-oats
+    Anchor: "Sea Oats homes for sale" — Jupiter page doesn't yet link to its Sea Oats community page.
+  /communities/jupiter  →  /communities/panther-national
+    Anchor: "Panther National homes for sale" — Jupiter page doesn't yet link to its Panther National community page.
+  /communities/palm-beach-gardens  →  /communities/ibis
+    Anchor: "Ibis Golf & Country Club homes for sale" — Palm Beach Gardens page doesn't yet link to its Ibis Golf & Country Club community page.
+  /communities/wellington  →  /communities/seven-bridges
+    Anchor: "Seven Bridges homes for sale" — Wellington page doesn't yet link to its Seven Bridges community page.
+  /communities/lake-worth-beach  →  /communities/ocean-ridge
+    Anchor: "Ocean Ridge homes for sale" — Lake Worth Beach page doesn't yet link to its Ocean Ridge community page.
+  /communities/lake-worth-beach  →  /communities/manalapan
+    Anchor: "Manalapan homes for sale" — Lake Worth Beach page doesn't yet link to its Manalapan community page.
+  /communities/lake-worth-beach  →  /communities/pomelo-park
+    Anchor: "Pomelo Park homes for sale" — Lake Worth Beach page doesn't yet link to its Pomelo Park community page.
+  /communities/lake-worth-beach  →  /communities/seneca-lakes
+    Anchor: "Seneca Lakes homes for sale" — Lake Worth Beach page doesn't yet link to its Seneca Lakes community page.
+  /communities/lake-worth-beach  →  /communities/oakbrook
+    Anchor: "Oakbrook homes for sale" — Lake Worth Beach page doesn't yet link to its Oakbrook community page.
+  /communities/lake-worth-beach  →  /communities/lake-clarence
+    Anchor: "Lake Clarence homes for sale" — Lake Worth Beach page doesn't yet link to its Lake Clarence community page.
+  /communities/delray-beach  →  /communities/hammock-park
+    Anchor: "Hammock Park homes for sale" — Delray Beach page doesn't yet link to its Hammock Park community page.
+  /communities/delray-beach  →  /communities/water-crest
+    Anchor: "Water Crest homes for sale" — Delray Beach page doesn't yet link to its Water Crest community page.
+  /communities/port-st-lucie  →  /communities/mallory-creek
+    Anchor: "Mallory Creek homes for sale" — Port St. Lucie page doesn't yet link to its Mallory Creek community page.
+  /communities/port-st-lucie  →  /communities/newhaven
+    Anchor: "Newhaven homes for sale" — Port St. Lucie page doesn't yet link to its Newhaven community page.
+  /communities/port-st-lucie  →  /communities/antigua
+    Anchor: "Antigua homes for sale" — Port St. Lucie page doesn't yet link to its Antigua community page.
+
+=======================================================
+LEAD-MAGNET OPPORTUNITIES
+=======================================================
+  /communities/jupiter
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/palm-beach-gardens
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/north-palm-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/tequesta
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/juno-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/singer-island
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/west-palm-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/wellington
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/royal-palm-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/lake-worth-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/boynton-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/delray-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/boca-raton
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/hobe-sound
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/stuart
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/palm-city
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/port-st-lucie
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/palm-beach
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/loxahatchee
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/westlake
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+  /communities/port-salerno
+    Guide: Palm Beach County Relocation Guide · CTA: "Get the Free Palm Beach County Relocation Guide" · Placement: Below the intro section, before the community list
+
+  Lead-source integration not configured.
+
+=======================================================
+SITE HEALTH — 314 sitemap URLs
+=======================================================
+  Pages crawled: 314 · OK: 314
+  Broken links: 0
+  Redirects: 0
+  Missing titles: 0 · Missing meta descriptions: 0
+  Duplicate titles: 0 · Duplicate meta descriptions: 0
+  Noindex pages: 0 · Canonical issues: 0
+  Broken internal links: 128 · Weakly-linked pages: 10
+  New sitemap URLs: 0 · Removed: 0
+  Note: sitemap presence is not the same as being indexed by Google.
+
+=======================================================
+NEW-DEVELOPMENT WATCH
+=======================================================
+  [UNCLEAR] Cardinals facility investments are allowing them to expand development this offseason - Redbird Rants
+    Location: Jupiter · Mon, 12 Oct 2026 18:00:00 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMirwFBVV95cUxPYzVOTDhCTUlmVnhkOG52SzJuZl9wRWdjbzNiMlIzSm1YNjJJMHhkaDkydHBWOW16Ny1qTFJ6VDFXeFdCY0lyWm84V05rNmN4N2NZdWJvWFFFZGxnWmNKZmVhVldwUXIyNjhJdFJ6ejhBLVRlbU8zMklyS01FMjBoV2ZTOTR2aWRZODZDNnNoUk5GT2tkdVlJSHAwQVhvOThTUWl3NnlnS21pcjlMRkxv?oc=5
+  [UNCLEAR] New Development of the Year: The Standard Residences, Midtown Miami, Rosso Development - South Florida Agent Magazine
+    Location: West Palm Beach · Mon, 12 Oct 2026 10:09:20 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXJKTjlHUlZUT21hQ0lKVDM3c2ZQYThJLWJMLUZXU01UNG92UFBvSkdlM0tWV1YzcF9RYmN0MW5NQmVFZmtJOFpycks3SHZWSlIzRmlwckJ0TnI4WFoxcVJQY0U2eHlTX3lvQ3ptSDJaNGxwRngxcjhYNmpxQjUtMFNqaHB2N3hRUFVZSDNB?oc=5
+  [UNCLEAR] Famed West Palm Beach Developer Launches His Latest Luxury Offering on Clear Lake - Realtor.com
+    Location: West Palm Beach · Sat, 10 Oct 2026 13:13:00 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWlSV1prNk1IUTY3LVNEcDFaTG8wOGNJV2YxQUdBdUFlZ3haMnNCYWFhM0xENVZ0NUhTOEZJY21DbFh1OWpid0Z5ZGtObjdtVF9QdXF6b05zY29HNWJXdnhWSk0wdDFna1V1YWgxeV92V2I0cUNyMDFvZzhGUFI5dFJFVmpYc1F1TE96UXlXU3gtYXhyeHVVXw?oc=5
+  [UNCLEAR] Bankrupt West Palm Beach condo sells for $14M at auction - The Real Deal
+    Location: West Palm Beach · Mon, 05 Oct 2026 23:00:00 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMimAFBVV95cUxPZENYb28xZWU1cUkzZWY4NnJtMGEyTjVNc0pIMDdGU1Vzam14T0NoQnlIcFFKSUpvekI2TUNRVl9oZXhvLXVZOEV1VG5fdjR0eE9NTk56R1JrRW9kVDBaUW92R281NGZMRUVNUXVPUU1tUmxpRkh4ZUl2aW5tVWduRjdDeDd4VFhGenFyVDZTSTJheDZDYTJ3dA?oc=5
+  [UNCLEAR] Development Group Starts Work on 371-Unit Boynton Beach Multifamily Venture - Connect CRE
+    Location: Boynton Beach · Wed, 07 Oct 2026 16:19:40 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMitgFBVV95cUxORWZvS1dsN200N0R2eXd3OWJwN2gzZDI4RWFkTHE5OTJkNlFONDFUVDB0RVFQRmxzQ1M4dFdybzZwMDIxekxNZjdlVzVNdXlwZFVFM29qODVhQTJYRGY1Y3ZjRlNGWVMwUUJHWEd4cGFUTV9rSEV6MWUwYXI4dzF3bHhGRXR6LWJuVlVySWw4eTZwZDlVc05KamNQV3JqejR4UWxpZTdtYXgzNUUxelkybTREdk1jZw?oc=5
+  [CONFIRMED] Palm Beach County answers questions about controversial Islamic center approved in Ag Reserve - WPTV
+    Location: Delray Beach · Tue, 06 Oct 2026 14:47:59 GMT
+    → Create a new development page or update the relevant city/new-construction hub
+    https://news.google.com/rss/articles/CBMi9wFBVV95cUxONXd3V1VUT2xvQVhMYlZ3SmpDcmxwelpNaXFMdTB4dllvcTJpdWxqRnZneVlFUU80cTlBUHJxNVExc05ieGl5aDBsU2szYVBEdkt2UVpKRThvdHktZ2ZfTnl2dkFuZ0g2SmVFczRoQnJDOWhEMEx2N3YtV1FJREQ0d05pWGUyd1MybWJEdDlWSXN2VWQtLTlXU09iNHZ5Znk5bU1rX2pKS2Fwb1cwSTVLcXNmbU1LNTZDZllhS2x5SU1OUWpxeTJTU0FKclBlbHE0aW5JZ2k4aFl5ZUtpUEdkUXMyWnNjcGN1OWtHNmZOVUZZZ3NuY2pv?oc=5
+  [UNCLEAR] Rezoning vote could pave way for 1,200-home community in western PSL - WPEC
+    Location: Port St. Lucie · Tue, 06 Oct 2026 13:28:05 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDBpUnQ3Vm92bDRTc0Z6U3A3ZjdCOVBtVEtTZ3V0ei1seXU2MDc5dURXN2M2QTNYcGtpV2V6M0djS0R5dVI0UHhITFBwcXpzLTAyTFZqb3U4a05BWEJXNDJWSUlzd20yUDczbDMwaG9KLWpCS1hSVXhIdGdWNENjaXp4eVVTWWd3bm5oU2hpZWJlSlZGUERrajhSX1M?oc=5
+  [UNCLEAR] Westlake Launches $650K Housing Grant Program for New Homebuyers - Construction Owners
+    Location: Westlake · Wed, 07 Oct 2026 06:33:57 GMT
+    → Review manually — classification unclear from headline alone
+    https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUGZaY0k2MkdpaGdwMjBEZmRxcFI3dFRHaXBDS201VVRvZWhjNHNZQllQaEpkblJzWVZXajFfTzZKbmUzSEVIX3Nub0loaEphQVR1MVVEYkltLUY1eVYwWEFVWk5WVTJJM1MzTGg0Z25RazZlOVFzSTF0cFRjTXZkUGtTaDFGTUtrUy11NU9FWVNnNEtLMHYzeVdDLUd3U3BwU3lVY0F5Q1A4XzF0OXY0WFNFQ0ZkbnJsdlZEZGtRUy1GaUN4eHJBQVJTM3dKVkNLQ3c?oc=5
+
+=======================================================
+MONEY-KEYWORD TRACKER
+=======================================================
+
+  Jupiter:
+         6  page 1                        'jupiter homes for sale'
+      17.5  slipping                      'moving to jupiter florida'
+         —  No measurable Search Console visibility during this period.  'jupiter waterfront homes'
+         —  No measurable Search Console visibility during this period.  'jupiter luxury homes'
+         —  No measurable Search Console visibility during this period.  'jupiter new construction homes'
+        72  position 72                   'jupiter golf communities'
+         8  climbing                      'best neighborhoods in jupiter florida'
+        67  position 67                   'abacoa homes for sale'
+         —  No measurable Search Console visibility during this period.  'jupiter farms homes for sale'
+         —  No measurable Search Console visibility during this period.  'admirals cove homes for sale'
+         —  No measurable Search Console visibility during this period.  'jonathans landing homes for sale'
+         —  No measurable Search Console visibility during this period.  'jupiter country club homes for sale'
+
+  Palm Beach Gardens:
+         3  page 1                        'palm beach gardens homes for sale'
+        15  page 2                        'moving to palm beach gardens'
+         —  No measurable Search Console visibility during this period.  'palm beach gardens luxury homes'
+         —  No measurable Search Console visibility during this period.  'palm beach gardens new construction'
+         —  No measurable Search Console visibility during this period.  'palm beach gardens golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in palm beach gardens'
+         —  No measurable Search Console visibility during this period.  'avenir homes for sale'
+        29  position 29                   'alton palm beach gardens homes for sale'
+         —  No measurable Search Console visibility during this period.  'pga national homes for sale'
+         —  No measurable Search Console visibility during this period.  'ballenisles homes for sale'
+         —  No measurable Search Console visibility during this period.  'mirasol homes for sale'
+         —  No measurable Search Console visibility during this period.  'old palm homes for sale'
+
+  North Palm Beach:
+         —  No measurable Search Console visibility during this period.  'north palm beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to north palm beach florida'
+         —  No measurable Search Console visibility during this period.  'north palm beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'north palm beach new construction homes'
+      46.2  position 46                   'north palm beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'north palm beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in north palm beach florida'
+
+  Tequesta:
+         —  No measurable Search Console visibility during this period.  'tequesta homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to tequesta florida'
+         —  No measurable Search Console visibility during this period.  'tequesta luxury homes'
+         —  No measurable Search Console visibility during this period.  'tequesta new construction homes'
+         —  No measurable Search Console visibility during this period.  'tequesta waterfront homes'
+         —  No measurable Search Console visibility during this period.  'tequesta golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in tequesta florida'
+
+  Juno Beach:
+         —  No measurable Search Console visibility during this period.  'juno beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to juno beach florida'
+         —  No measurable Search Console visibility during this period.  'juno beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'juno beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'juno beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'juno beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in juno beach florida'
+
+  Singer Island:
+         —  No measurable Search Console visibility during this period.  'singer island homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to singer island florida'
+         —  No measurable Search Console visibility during this period.  'singer island luxury homes'
+         —  No measurable Search Console visibility during this period.  'singer island new construction homes'
+         —  No measurable Search Console visibility during this period.  'singer island waterfront homes'
+         —  No measurable Search Console visibility during this period.  'singer island golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in singer island florida'
+
+  West Palm Beach:
+         —  No measurable Search Console visibility during this period.  'west palm beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to west palm beach florida'
+         —  No measurable Search Console visibility during this period.  'west palm beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'west palm beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'west palm beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'west palm beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in west palm beach florida'
+
+  Wellington:
+         —  No measurable Search Console visibility during this period.  'wellington homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to wellington florida'
+         —  No measurable Search Console visibility during this period.  'wellington luxury homes'
+         —  No measurable Search Console visibility during this period.  'wellington new construction homes'
+         —  No measurable Search Console visibility during this period.  'wellington waterfront homes'
+         —  No measurable Search Console visibility during this period.  'wellington golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in wellington florida'
+
+  Royal Palm Beach:
+         —  No measurable Search Console visibility during this period.  'royal palm beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to royal palm beach florida'
+         —  No measurable Search Console visibility during this period.  'royal palm beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'royal palm beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'royal palm beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'royal palm beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in royal palm beach florida'
+
+  Lake Worth Beach:
+         —  No measurable Search Console visibility during this period.  'lake worth beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to lake worth beach florida'
+         —  No measurable Search Console visibility during this period.  'lake worth beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'lake worth beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'lake worth beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'lake worth beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in lake worth beach florida'
+
+  Boynton Beach:
+         —  No measurable Search Console visibility during this period.  'boynton beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to boynton beach florida'
+         —  No measurable Search Console visibility during this period.  'boynton beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'boynton beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'boynton beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'boynton beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in boynton beach florida'
+
+  Delray Beach:
+         —  No measurable Search Console visibility during this period.  'delray beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to delray beach florida'
+         —  No measurable Search Console visibility during this period.  'delray beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'delray beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'delray beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'delray beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in delray beach florida'
+
+  Boca Raton:
+         —  No measurable Search Console visibility during this period.  'boca raton homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to boca raton florida'
+         —  No measurable Search Console visibility during this period.  'boca raton luxury homes'
+         —  No measurable Search Console visibility during this period.  'boca raton new construction homes'
+         —  No measurable Search Console visibility during this period.  'boca raton waterfront homes'
+         —  No measurable Search Console visibility during this period.  'boca raton golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in boca raton florida'
+
+  Hobe Sound:
+         —  No measurable Search Console visibility during this period.  'hobe sound homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to hobe sound florida'
+         —  No measurable Search Console visibility during this period.  'hobe sound luxury homes'
+         —  No measurable Search Console visibility during this period.  'hobe sound new construction homes'
+         —  No measurable Search Console visibility during this period.  'hobe sound waterfront homes'
+         —  No measurable Search Console visibility during this period.  'hobe sound golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in hobe sound florida'
+
+  Stuart:
+         —  No measurable Search Console visibility during this period.  'stuart homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to stuart florida'
+         —  No measurable Search Console visibility during this period.  'stuart luxury homes'
+         —  No measurable Search Console visibility during this period.  'stuart new construction homes'
+         —  No measurable Search Console visibility during this period.  'stuart waterfront homes'
+         —  No measurable Search Console visibility during this period.  'stuart golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in stuart florida'
+
+  Palm City:
+         —  No measurable Search Console visibility during this period.  'palm city homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to palm city florida'
+         —  No measurable Search Console visibility during this period.  'palm city luxury homes'
+         —  No measurable Search Console visibility during this period.  'palm city new construction homes'
+         —  No measurable Search Console visibility during this period.  'palm city waterfront homes'
+         —  No measurable Search Console visibility during this period.  'palm city golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in palm city florida'
+
+  Port St Lucie:
+         —  No measurable Search Console visibility during this period.  'port st. lucie homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to port st. lucie florida'
+         —  No measurable Search Console visibility during this period.  'port st. lucie luxury homes'
+         —  No measurable Search Console visibility during this period.  'port st. lucie new construction homes'
+         —  No measurable Search Console visibility during this period.  'port st. lucie waterfront homes'
+         —  No measurable Search Console visibility during this period.  'port st. lucie golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in port st. lucie florida'
+
+  Palm Beach:
+         —  No measurable Search Console visibility during this period.  'palm beach homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to palm beach florida'
+         —  No measurable Search Console visibility during this period.  'palm beach luxury homes'
+         —  No measurable Search Console visibility during this period.  'palm beach new construction homes'
+         —  No measurable Search Console visibility during this period.  'palm beach waterfront homes'
+         —  No measurable Search Console visibility during this period.  'palm beach golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in palm beach florida'
+
+  Loxahatchee:
+         —  No measurable Search Console visibility during this period.  'loxahatchee homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to loxahatchee florida'
+         —  No measurable Search Console visibility during this period.  'loxahatchee luxury homes'
+         —  No measurable Search Console visibility during this period.  'loxahatchee new construction homes'
+         —  No measurable Search Console visibility during this period.  'loxahatchee waterfront homes'
+         —  No measurable Search Console visibility during this period.  'loxahatchee golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in loxahatchee florida'
+
+  Westlake:
+         —  No measurable Search Console visibility during this period.  'westlake homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to westlake florida'
+         —  No measurable Search Console visibility during this period.  'westlake luxury homes'
+         —  No measurable Search Console visibility during this period.  'westlake new construction homes'
+         —  No measurable Search Console visibility during this period.  'westlake waterfront homes'
+         —  No measurable Search Console visibility during this period.  'westlake golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in westlake florida'
+
+  Port Salerno:
+         —  No measurable Search Console visibility during this period.  'port salerno homes for sale'
+         —  No measurable Search Console visibility during this period.  'moving to port salerno florida'
+         —  No measurable Search Console visibility during this period.  'port salerno luxury homes'
+         —  No measurable Search Console visibility during this period.  'port salerno new construction homes'
+         —  No measurable Search Console visibility during this period.  'port salerno waterfront homes'
+         —  No measurable Search Console visibility during this period.  'port salerno golf communities'
+         —  No measurable Search Console visibility during this period.  'best neighborhoods in port salerno florida'
+
+=======================================================
+MONDAY ACTION PLAN
+=======================================================
+
+  1. Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com
+     Where: /communities/loxahatchee
+     Why: 613 impressions at position 10.4 with low CTR — a quick fix can convert visibility into clicks.
+     Effort: 2/10 · SEO impact: high · Lead impact: high
+     Claude Code can implement: Yes
+
+  2. Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com
+     Where: /blog/best-neighborhoods-in-west-palm-beach-florida
+     Why: 418 impressions at position 9.4 with low CTR — a quick fix can convert visibility into clicks.
+     Effort: 2/10 · SEO impact: high · Lead impact: high
+     Claude Code can implement: Yes
+
+  3. Expand on-page content around 'jupiter dunes fl neighborhood guide' and add a CTA to search.doyouneedahome.com
+     Where: /blog/best-neighborhoods-in-jupiter-florida
+     Why: 289 impressions at position 9.3 with low CTR — a quick fix can convert visibility into clicks.
+     Effort: 2/10 · SEO impact: high · Lead impact: high
+     Claude Code can implement: Yes
+
+  4. Create a new development page or update the relevant city/new-construction hub
+     Where: Delray Beach
+     Why: Palm Beach County answers questions about controversial Islamic center approved in Ag Reserve - WPTV
+     Effort: 7/10 · SEO impact: medium · Lead impact: medium
+     Claude Code can implement: No — requires manual/business judgment
+
+  5. Write: Is Port St Lucie A Good Place To Live
+     Where: Port St. Lucie
+     Why: 42 impressions, 0 clicks, avg position 24.9
+     Effort: 6/10 · SEO impact: medium · Lead impact: medium
+     Claude Code can implement: Yes
+
+-------------------------------------------------------
+DOYouNeedAHome Intelligence System
