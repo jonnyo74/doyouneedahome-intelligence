@@ -1,0 +1,5397 @@
+{
+  "city_scorecards": [
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Jupiter",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [
+        {
+          "confidence": "high",
+          "name": "Abacoa",
+          "slug": "abacoa"
+        },
+        {
+          "confidence": "high",
+          "name": "Jupiter Inlet Colony",
+          "slug": "jupiter-inlet-colony"
+        },
+        {
+          "confidence": "high",
+          "name": "Jupiter Country Club",
+          "slug": "jupiter-country-club"
+        },
+        {
+          "confidence": "high",
+          "name": "Sonoma Isles",
+          "slug": "sonoma-isles"
+        },
+        {
+          "confidence": "high",
+          "name": "Jupiter Island",
+          "slug": "jupiter-island"
+        },
+        {
+          "confidence": "seed",
+          "name": "Sea Oats",
+          "slug": "sea-oats"
+        },
+        {
+          "confidence": "seed",
+          "name": "River Road",
+          "slug": "river-road"
+        },
+        {
+          "confidence": "high",
+          "name": "Admirals Cove",
+          "slug": "admirals-cove"
+        },
+        {
+          "confidence": "seed",
+          "name": "The Loxahatchee Club",
+          "slug": "loxahatchee-club"
+        },
+        {
+          "confidence": "high",
+          "name": "Jonathan's Landing",
+          "slug": "jonathans-landing"
+        },
+        {
+          "confidence": "high",
+          "name": "Trump National Jupiter",
+          "slug": "trump-national-jupiter"
+        },
+        {
+          "confidence": "high",
+          "name": "The Bear's Club",
+          "slug": "bears-club"
+        },
+        {
+          "confidence": "high",
+          "name": "Panther National",
+          "slug": "panther-national"
+        }
+      ],
+      "extra_detail": {
+        "communities_with_no_dedicated_page": [],
+        "pages_needing_stronger_internal_links": [],
+        "percent_complete": 100.0,
+        "top_5_gaps": [],
+        "top_5_ranking_opportunities": [
+          {
+            "clicks": 1,
+            "ctr": 0.0024813895781637717,
+            "impressions": 403,
+            "position": 8.121588089330025,
+            "primary_queries": [
+              "best neighborhoods in jupiter florida",
+              "jupiter dunes fl neighborhood guide",
+              "jupiter neighborhoods"
+            ],
+            "recommended_action": "Expand on-page content around 'best neighborhoods in jupiter florida' and add a CTA to search.doyouneedahome.com",
+            "url": "/blog/best-neighborhoods-in-jupiter-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 204,
+            "position": 8.622549019607842,
+            "primary_queries": [
+              "harbourside place jupiter fl",
+              "harbourside place",
+              "harbourside place directory"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/harbourside-place-jupiter-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 146,
+            "position": 14.616438356164384,
+            "primary_queries": [
+              "moving to jupiter florida",
+              "moving to jupiter fl",
+              "living in jupiter"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/who-should-move-to-jupiter-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 83,
+            "position": 11.36144578313253,
+            "primary_queries": [
+              "best places to eat jupiter",
+              "best hangouts near me",
+              "best jupiter restaurants on the water"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/best-places-to-eat-drink-hang-out-in-jupiter-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 65,
+            "position": 15.061538461538461,
+            "primary_queries": [
+              "jupiter yacht club",
+              "jupiter condos with boat docks",
+              "living in riverside yacht club estates at the landings"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/communities/jupiter-yacht-club"
+          }
+        ]
+      },
+      "highest_priority_action": "Jupiter is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 2.0,
+        "has_activity": true,
+        "impressions": 1078.0
+      },
+      "slug": "jupiter",
+      "tier": 1,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Palm Beach Gardens",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [
+        {
+          "confidence": "high",
+          "name": "PGA National",
+          "slug": "pga-national"
+        },
+        {
+          "confidence": "high",
+          "name": "BallenIsles",
+          "slug": "ballen-isles"
+        },
+        {
+          "confidence": "high",
+          "name": "Avenir",
+          "slug": "avenir"
+        },
+        {
+          "confidence": "high",
+          "name": "Mirasol",
+          "slug": "mirasol"
+        },
+        {
+          "confidence": "high",
+          "name": "Alton",
+          "slug": "alton"
+        },
+        {
+          "confidence": "seed",
+          "name": "East Palm Bay",
+          "slug": "east-palm-bay"
+        },
+        {
+          "confidence": "seed",
+          "name": "Ibis Golf & Country Club",
+          "slug": "ibis"
+        }
+      ],
+      "extra_detail": {
+        "communities_with_no_dedicated_page": [],
+        "pages_needing_stronger_internal_links": [],
+        "percent_complete": 100.0,
+        "top_5_gaps": [],
+        "top_5_ranking_opportunities": [
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 331,
+            "position": 9.818731117824774,
+            "primary_queries": [
+              "downtown palm beach gardens restaurant",
+              "best casual restaurants in palm beach gardens",
+              "downtown at the gardens restaurants"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/best-places-to-eat-drink-hang-out-in-palm-beach-gardens-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 309,
+            "position": 8.915857605177994,
+            "primary_queries": [
+              "is palm beach gardens a good place to live?",
+              "is palm beach gardens a good place to live",
+              "i am a 25-34, 35-44, 45-54, or 55-64 year old relocation buyer in the residential real estate or homebuilding industry. my job seniority is at the senior, executive, or manager level. i work at a company with 1-249 employees. my main motivations: finding a new home that supports a job relocation, lifestyle change, family needs, or cost-of-living considerations. wants a seamless home-buying experience, access to quality schools and amenities, and confidence in the builder's reputation. interested in move-in-ready homes, master-planned communities, and locations that support long-term personal and professional goals. my main pain points: relocating is stressful enough without having to navigate unfamiliar neighborhoods, school districts, builders, and housing markets all at once. is palm beach gardens a good place to live?"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/pros-and-cons-of-living-in-palm-beach-gardens-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 113,
+            "position": 8.23008849557522,
+            "primary_queries": [
+              "is palm beach gardens expensive",
+              "i am a 25-34, 35-44, 45-54, or 55-64 year old relocation buyer in the residential real estate or homebuilding industry. my job seniority is at the senior, executive, or manager level. i work at a company with 1-249 employees. my main motivations: finding a new home that supports a job relocation, lifestyle change, family needs, or cost-of-living considerations. wants a seamless home-buying experience, access to quality schools and amenities, and confidence in the builder's reputation. interested in move-in-ready homes, master-planned communities, and locations that support long-term personal and professional goals. my main pain points: relocating is stressful enough without having to navigate unfamiliar neighborhoods, school districts, builders, and housing markets all at once. is palm beach gardens a good place to live?"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/cost-of-living-in-palm-beach-gardens-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 52,
+            "position": 21.634615384615383,
+            "primary_queries": [
+              "is palm beach gardens a good place to live",
+              "living in palm beach gardens",
+              "is palm beach gardens a good place to live?"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/what-its-really-like-living-in-palm-beach-gardens-florida"
+          },
+          {
+            "clicks": 0,
+            "ctr": 0,
+            "impressions": 51,
+            "position": 21.470588235294116,
+            "primary_queries": [
+              "beach gardens florida",
+              "in palm beach gardens florida"
+            ],
+            "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+            "url": "/blog/best-things-to-do-in-palm-beach-gardens-florida"
+          }
+        ]
+      },
+      "highest_priority_action": "Palm Beach Gardens is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 3.0,
+        "has_activity": true,
+        "impressions": 1568.0
+      },
+      "slug": "palm-beach-gardens",
+      "tier": 1,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "North Palm Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "North Palm Beach is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 3.0,
+        "has_activity": true,
+        "impressions": 340.0
+      },
+      "slug": "north-palm-beach",
+      "tier": 2,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Tequesta",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Tequesta is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 2.0,
+        "has_activity": true,
+        "impressions": 682.0
+      },
+      "slug": "tequesta",
+      "tier": 2,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Juno Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Juno Beach is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 6.0,
+        "has_activity": true,
+        "impressions": 1340.0
+      },
+      "slug": "juno-beach",
+      "tier": 2,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Singer Island",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Singer Island is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 1.0,
+        "has_activity": true,
+        "impressions": 518.0
+      },
+      "slug": "singer-island",
+      "tier": 2,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "West Palm Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [
+        {
+          "confidence": "high",
+          "name": "El Cid",
+          "slug": "el-cid"
+        },
+        {
+          "confidence": "high",
+          "name": "Harbour Islands",
+          "slug": "harbour-islands"
+        },
+        {
+          "confidence": "high",
+          "name": "Downtown West Palm",
+          "slug": "downtown-west-palm"
+        },
+        {
+          "confidence": "seed",
+          "name": "Palm Beach Lakes",
+          "slug": "palm-beach-lakes"
+        }
+      ],
+      "highest_priority_action": "West Palm Beach is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 10.0,
+        "has_activity": true,
+        "impressions": 904.0
+      },
+      "slug": "west-palm-beach",
+      "tier": 2,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Wellington",
+      "communities_with_no_dedicated_page": [
+        "wellington-country-club"
+      ],
+      "community_pages": [
+        {
+          "confidence": "high",
+          "name": "Seven Bridges",
+          "slug": "seven-bridges"
+        },
+        {
+          "confidence": "seed",
+          "name": "Wellington Estates",
+          "slug": "wellington-estates"
+        },
+        {
+          "confidence": "seed",
+          "name": "Lake Club",
+          "slug": "lake-club"
+        }
+      ],
+      "highest_priority_action": "Create a dedicated community page for wellington-country-club \u2014 highest-traffic gap in Wellington.",
+      "main_city_page_present": true,
+      "score": 95.0,
+      "search_console_activity": {
+        "clicks": 4.0,
+        "has_activity": true,
+        "impressions": 975.0
+      },
+      "slug": "wellington",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Royal Palm Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Royal Palm Beach is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 5.0,
+        "has_activity": true,
+        "impressions": 701.0
+      },
+      "slug": "royal-palm-beach",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Lake Worth Beach",
+      "communities_with_no_dedicated_page": [
+        "lake-clarence",
+        "lake-worth-estates",
+        "lake-worth-gardens",
+        "oakbrook",
+        "poinciana-park",
+        "pomelo-park",
+        "seneca-lakes"
+      ],
+      "community_pages": [
+        {
+          "confidence": "seed",
+          "name": "Ocean Ridge",
+          "slug": "ocean-ridge"
+        },
+        {
+          "confidence": "seed",
+          "name": "Manalapan",
+          "slug": "manalapan"
+        }
+      ],
+      "highest_priority_action": "Create a dedicated community page for lake-clarence \u2014 highest-traffic gap in Lake Worth Beach.",
+      "main_city_page_present": true,
+      "score": 84.4,
+      "search_console_activity": {
+        "clicks": 2.0,
+        "has_activity": true,
+        "impressions": 958.0
+      },
+      "slug": "lake-worth-beach",
+      "tier": 3,
+      "weak_categories": [
+        "Community/neighborhood coverage"
+      ]
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Boynton Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [
+        {
+          "confidence": "seed",
+          "name": "Boynton Beach Gardens",
+          "slug": "boynton-beach-gardens"
+        }
+      ],
+      "highest_priority_action": "Boynton Beach is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 3.0,
+        "has_activity": true,
+        "impressions": 600.0
+      },
+      "slug": "boynton-beach",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Delray Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [
+        {
+          "confidence": "high",
+          "name": "Delaire Country Club",
+          "slug": "delaire-country-club"
+        },
+        {
+          "confidence": "seed",
+          "name": "Oceanside",
+          "slug": "ocean-side"
+        },
+        {
+          "confidence": "seed",
+          "name": "Delray Beach Harbor",
+          "slug": "delray-beach-harbor"
+        },
+        {
+          "confidence": "high",
+          "name": "Seagate",
+          "slug": "seagate"
+        },
+        {
+          "confidence": "seed",
+          "name": "Shelborne",
+          "slug": "shelborne"
+        },
+        {
+          "confidence": "seed",
+          "name": "Hammock Park",
+          "slug": "hammock-park"
+        },
+        {
+          "confidence": "seed",
+          "name": "Water Crest",
+          "slug": "water-crest"
+        }
+      ],
+      "highest_priority_action": "Delray Beach is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 2.0,
+        "has_activity": true,
+        "impressions": 465.0
+      },
+      "slug": "delray-beach",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Boca Raton",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [
+        {
+          "confidence": "high",
+          "name": "Broken Sound",
+          "slug": "broken-sound"
+        },
+        {
+          "confidence": "high",
+          "name": "Boca West",
+          "slug": "boca-west"
+        },
+        {
+          "confidence": "high",
+          "name": "Royal Palm Yacht & Country Club",
+          "slug": "royal-palm-yacht-cc"
+        },
+        {
+          "confidence": "high",
+          "name": "Woodfield Country Club",
+          "slug": "woodfield-country-club"
+        }
+      ],
+      "highest_priority_action": "Boca Raton is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 5.0,
+        "has_activity": true,
+        "impressions": 789.0
+      },
+      "slug": "boca-raton",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Hobe Sound",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Hobe Sound is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 6.0,
+        "has_activity": true,
+        "impressions": 679.0
+      },
+      "slug": "hobe-sound",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Stuart",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Stuart is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 11.0,
+        "has_activity": true,
+        "impressions": 1348.0
+      },
+      "slug": "stuart",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Palm City",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Palm City is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 4.0,
+        "has_activity": true,
+        "impressions": 1457.0
+      },
+      "slug": "palm-city",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Port St. Lucie",
+      "communities_with_no_dedicated_page": [
+        "powder-pointe",
+        "sonoma-bay"
+      ],
+      "community_pages": [
+        {
+          "confidence": "seed",
+          "name": "Mallory Creek",
+          "slug": "mallory-creek"
+        },
+        {
+          "confidence": "seed",
+          "name": "Newhaven",
+          "slug": "newhaven"
+        },
+        {
+          "confidence": "seed",
+          "name": "Antigua",
+          "slug": "antigua"
+        },
+        {
+          "confidence": "seed",
+          "name": "Windsor Park",
+          "slug": "windsor-park"
+        },
+        {
+          "confidence": "seed",
+          "name": "Valencia",
+          "slug": "valencia"
+        },
+        {
+          "confidence": "seed",
+          "name": "Martinique",
+          "slug": "martinique"
+        },
+        {
+          "confidence": "seed",
+          "name": "Canterbury Place",
+          "slug": "canterbury-place"
+        },
+        {
+          "confidence": "seed",
+          "name": "Osceola Woods",
+          "slug": "osceola-woods"
+        },
+        {
+          "confidence": "seed",
+          "name": "Dakota",
+          "slug": "dakota"
+        },
+        {
+          "confidence": "seed",
+          "name": "Tuscany",
+          "slug": "tuscany"
+        },
+        {
+          "confidence": "seed",
+          "name": "Charleston Court",
+          "slug": "charleston-court"
+        }
+      ],
+      "highest_priority_action": "Create a dedicated community page for powder-pointe \u2014 highest-traffic gap in Port St. Lucie.",
+      "main_city_page_present": true,
+      "score": 96.9,
+      "search_console_activity": {
+        "clicks": 10.0,
+        "has_activity": true,
+        "impressions": 842.0
+      },
+      "slug": "port-st-lucie",
+      "tier": 3,
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "0/10",
+      "blog_missing_topics": [
+        "what-its-really-like-living-in-palm-beach-florida",
+        "local-guide-to-palm-beach-florida",
+        "best-neighborhoods-in-palm-beach-florida",
+        "best-things-to-do-in-palm-beach-florida",
+        "who-should-move-to-palm-beach-florida",
+        "pros-and-cons-of-living-in-palm-beach-florida",
+        "cost-of-living-in-palm-beach-florida",
+        "hidden-gems-in-palm-beach-florida",
+        "palm-beach-vs-nearby-cities",
+        "best-places-to-eat-drink-hang-out-in-palm-beach-florida"
+      ],
+      "city": "Palm Beach",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Improve blog & lifestyle content coverage for Palm Beach.",
+      "main_city_page_present": true,
+      "score": 75.0,
+      "search_console_activity": {
+        "clicks": 0.0,
+        "has_activity": true,
+        "impressions": 2.0
+      },
+      "slug": "palm-beach",
+      "tier": "other",
+      "weak_categories": [
+        "Blog & lifestyle content coverage"
+      ]
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Loxahatchee",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Loxahatchee is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 5.0,
+        "has_activity": true,
+        "impressions": 1625.0
+      },
+      "slug": "loxahatchee",
+      "tier": "other",
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "10/10",
+      "blog_missing_topics": [],
+      "city": "Westlake",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Westlake is in good shape \u2014 focus on freshness updates and internal linking.",
+      "main_city_page_present": true,
+      "score": 100.0,
+      "search_console_activity": {
+        "clicks": 11.0,
+        "has_activity": true,
+        "impressions": 880.0
+      },
+      "slug": "westlake",
+      "tier": "other",
+      "weak_categories": []
+    },
+    {
+      "blog_coverage": "0/10",
+      "blog_missing_topics": [
+        "what-its-really-like-living-in-port-salerno-florida",
+        "local-guide-to-port-salerno-florida",
+        "best-neighborhoods-in-port-salerno-florida",
+        "best-things-to-do-in-port-salerno-florida",
+        "who-should-move-to-port-salerno-florida",
+        "pros-and-cons-of-living-in-port-salerno-florida",
+        "cost-of-living-in-port-salerno-florida",
+        "hidden-gems-in-port-salerno-florida",
+        "port-salerno-vs-nearby-cities",
+        "best-places-to-eat-drink-hang-out-in-port-salerno-florida"
+      ],
+      "city": "Port Salerno",
+      "communities_with_no_dedicated_page": [],
+      "community_pages": [],
+      "highest_priority_action": "Improve blog & lifestyle content coverage for Port Salerno.",
+      "main_city_page_present": true,
+      "score": 75.0,
+      "search_console_activity": {
+        "clicks": 1.0,
+        "has_activity": true,
+        "impressions": 135.0
+      },
+      "slug": "port-salerno",
+      "tier": "other",
+      "weak_categories": [
+        "Blog & lifestyle content coverage"
+      ]
+    }
+  ],
+  "executive_summary": {
+    "avg_position": 12.7,
+    "ctr": 0.67,
+    "new_development_stories": 12,
+    "qualified_opportunities": 122,
+    "sitemap_new_this_week": 0,
+    "sitemap_removed_this_week": 0,
+    "sitemap_url_count": 310,
+    "technical_issues": 297,
+    "total_clicks": 44,
+    "total_impressions": 6561,
+    "week_over_week": {
+      "avg_position_change": -0.2,
+      "clicks_pct": 25.7,
+      "impressions_pct": 5.8
+    }
+  },
+  "internal_link_opportunities": [
+    {
+      "anchor_text": "Sea Oats homes for sale",
+      "destination": "/communities/sea-oats",
+      "reason": "Jupiter page doesn't yet link to its Sea Oats community page.",
+      "source": "/communities/jupiter"
+    },
+    {
+      "anchor_text": "Panther National homes for sale",
+      "destination": "/communities/panther-national",
+      "reason": "Jupiter page doesn't yet link to its Panther National community page.",
+      "source": "/communities/jupiter"
+    },
+    {
+      "anchor_text": "Ibis Golf & Country Club homes for sale",
+      "destination": "/communities/ibis",
+      "reason": "Palm Beach Gardens page doesn't yet link to its Ibis Golf & Country Club community page.",
+      "source": "/communities/palm-beach-gardens"
+    },
+    {
+      "anchor_text": "Seven Bridges homes for sale",
+      "destination": "/communities/seven-bridges",
+      "reason": "Wellington page doesn't yet link to its Seven Bridges community page.",
+      "source": "/communities/wellington"
+    },
+    {
+      "anchor_text": "Ocean Ridge homes for sale",
+      "destination": "/communities/ocean-ridge",
+      "reason": "Lake Worth Beach page doesn't yet link to its Ocean Ridge community page.",
+      "source": "/communities/lake-worth-beach"
+    },
+    {
+      "anchor_text": "Manalapan homes for sale",
+      "destination": "/communities/manalapan",
+      "reason": "Lake Worth Beach page doesn't yet link to its Manalapan community page.",
+      "source": "/communities/lake-worth-beach"
+    },
+    {
+      "anchor_text": "Hammock Park homes for sale",
+      "destination": "/communities/hammock-park",
+      "reason": "Delray Beach page doesn't yet link to its Hammock Park community page.",
+      "source": "/communities/delray-beach"
+    },
+    {
+      "anchor_text": "Water Crest homes for sale",
+      "destination": "/communities/water-crest",
+      "reason": "Delray Beach page doesn't yet link to its Water Crest community page.",
+      "source": "/communities/delray-beach"
+    },
+    {
+      "anchor_text": "Mallory Creek homes for sale",
+      "destination": "/communities/mallory-creek",
+      "reason": "Port St. Lucie page doesn't yet link to its Mallory Creek community page.",
+      "source": "/communities/port-st-lucie"
+    },
+    {
+      "anchor_text": "Newhaven homes for sale",
+      "destination": "/communities/newhaven",
+      "reason": "Port St. Lucie page doesn't yet link to its Newhaven community page.",
+      "source": "/communities/port-st-lucie"
+    },
+    {
+      "anchor_text": "Antigua homes for sale",
+      "destination": "/communities/antigua",
+      "reason": "Port St. Lucie page doesn't yet link to its Antigua community page.",
+      "source": "/communities/port-st-lucie"
+    },
+    {
+      "anchor_text": "Windsor Park homes for sale",
+      "destination": "/communities/windsor-park",
+      "reason": "Port St. Lucie page doesn't yet link to its Windsor Park community page.",
+      "source": "/communities/port-st-lucie"
+    },
+    {
+      "anchor_text": "Valencia homes for sale",
+      "destination": "/communities/valencia",
+      "reason": "Port St. Lucie page doesn't yet link to its Valencia community page.",
+      "source": "/communities/port-st-lucie"
+    },
+    {
+      "anchor_text": "Martinique homes for sale",
+      "destination": "/communities/martinique",
+      "reason": "Port St. Lucie page doesn't yet link to its Martinique community page.",
+      "source": "/communities/port-st-lucie"
+    },
+    {
+      "anchor_text": "Canterbury Place homes for sale",
+      "destination": "/communities/canterbury-place",
+      "reason": "Port St. Lucie page doesn't yet link to its Canterbury Place community page.",
+      "source": "/communities/port-st-lucie"
+    }
+  ],
+  "keyword_tracker": {
+    "BOCA_RATON": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boca raton homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to boca raton florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boca raton luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boca raton new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boca raton waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boca raton golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in boca raton florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "BOYNTON_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boynton beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to boynton beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boynton beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boynton beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boynton beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "boynton beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in boynton beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "DELRAY_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "delray beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to delray beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "delray beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "delray beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "delray beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "delray beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in delray beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "HOBE_SOUND": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "hobe sound homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to hobe sound florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "hobe sound luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "hobe sound new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "hobe sound waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "hobe sound golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in hobe sound florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "JUNO_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "juno beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to juno beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "juno beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "juno beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "juno beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "juno beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in juno beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "JUPITER": [
+      {
+        "clicks": 0,
+        "current_position": 6,
+        "impressions": 1,
+        "keyword": "jupiter homes for sale",
+        "previous_position": 6,
+        "ranking_page": "/blog/best-neighborhoods-in-jupiter-florida",
+        "status": "page 1"
+      },
+      {
+        "clicks": 0,
+        "current_position": 15.4,
+        "impressions": 10,
+        "keyword": "moving to jupiter florida",
+        "previous_position": 15.8,
+        "ranking_page": "/blog/who-should-move-to-jupiter-florida",
+        "status": "page 2"
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "jupiter waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "jupiter luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "jupiter new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": 72,
+        "impressions": 1,
+        "keyword": "jupiter golf communities",
+        "previous_position": 72,
+        "ranking_page": "/communities/jupiter",
+        "status": "position 72"
+      },
+      {
+        "clicks": 0,
+        "current_position": 7.0,
+        "impressions": 20,
+        "keyword": "best neighborhoods in jupiter florida",
+        "previous_position": 7.4,
+        "ranking_page": "/blog/best-neighborhoods-in-jupiter-florida",
+        "status": "page 1"
+      },
+      {
+        "clicks": 0,
+        "current_position": 68,
+        "impressions": 1,
+        "keyword": "abacoa homes for sale",
+        "previous_position": 67,
+        "ranking_page": "/communities/abacoa",
+        "status": "slipping"
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "jupiter farms homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "admirals cove homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "jonathans landing homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "jupiter country club homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "LAKE_WORTH_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "lake worth beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to lake worth beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "lake worth beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "lake worth beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "lake worth beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "lake worth beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in lake worth beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "LOXAHATCHEE": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "loxahatchee homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to loxahatchee florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "loxahatchee luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "loxahatchee new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "loxahatchee waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "loxahatchee golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in loxahatchee florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "NORTH_PALM_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "north palm beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to north palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "north palm beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "north palm beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "north palm beach waterfront homes",
+        "previous_position": 43.8,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "north palm beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in north palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "PALM_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "PALM_BEACH_GARDENS": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach gardens homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to palm beach gardens",
+        "previous_position": 15,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach gardens luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach gardens new construction",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm beach gardens golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": 18,
+        "impressions": 1,
+        "keyword": "best neighborhoods in palm beach gardens",
+        "previous_position": 18,
+        "ranking_page": "/blog/best-neighborhoods-in-west-palm-beach-florida",
+        "status": "page 2"
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "avenir homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": 29,
+        "impressions": 1,
+        "keyword": "alton palm beach gardens homes for sale",
+        "previous_position": 29,
+        "ranking_page": "/communities/alton",
+        "status": "position 29"
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "pga national homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "ballenisles homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "mirasol homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "old palm homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "PALM_CITY": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm city homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to palm city florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm city luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm city new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm city waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "palm city golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in palm city florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "PORT_SALERNO": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port salerno homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to port salerno florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port salerno luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port salerno new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port salerno waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port salerno golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in port salerno florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "PORT_ST_LUCIE": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port st. lucie homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to port st. lucie florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port st. lucie luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port st. lucie new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port st. lucie waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "port st. lucie golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in port st. lucie florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "ROYAL_PALM_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "royal palm beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to royal palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "royal palm beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "royal palm beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "royal palm beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "royal palm beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in royal palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "SINGER_ISLAND": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "singer island homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to singer island florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "singer island luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "singer island new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "singer island waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "singer island golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in singer island florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "STUART": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "stuart homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to stuart florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "stuart luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "stuart new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "stuart waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "stuart golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in stuart florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "TEQUESTA": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "tequesta homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to tequesta florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "tequesta luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "tequesta new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "tequesta waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "tequesta golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in tequesta florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "WELLINGTON": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "wellington homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to wellington florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "wellington luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "wellington new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "wellington waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "wellington golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in wellington florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "WESTLAKE": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "westlake homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to westlake florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "westlake luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "westlake new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "westlake waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "westlake golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in westlake florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ],
+    "WEST_PALM_BEACH": [
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "west palm beach homes for sale",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "moving to west palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "west palm beach luxury homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "west palm beach new construction homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "west palm beach waterfront homes",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "west palm beach golf communities",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      },
+      {
+        "clicks": 0,
+        "current_position": null,
+        "impressions": 0,
+        "keyword": "best neighborhoods in west palm beach florida",
+        "previous_position": null,
+        "ranking_page": null,
+        "status": "No measurable Search Console visibility during this period."
+      }
+    ]
+  },
+  "lead_magnet_opportunities": [
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/jupiter"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/palm-beach-gardens"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/north-palm-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/tequesta"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/juno-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/singer-island"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/west-palm-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/wellington"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/royal-palm-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/lake-worth-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/boynton-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/delray-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/boca-raton"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/hobe-sound"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/stuart"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/palm-city"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/port-st-lucie"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/palm-beach"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/loxahatchee"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/westlake"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "cta_copy": "Get the Free Palm Beach County Relocation Guide",
+      "placement": "Below the intro section, before the community list",
+      "recommended_guide": "Palm Beach County Relocation Guide",
+      "url": "/communities/port-salerno"
+    }
+  ],
+  "lead_source_integration_note": "Lead-source integration not configured.",
+  "losses": [
+    {
+      "click_decline": 0,
+      "curr_position": 52.6,
+      "impression_decline": -5,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 31.5,
+      "prev_position": 21.1,
+      "url": "/contact"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 66.8,
+      "impression_decline": 10,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 25.9,
+      "prev_position": 40.9,
+      "url": "/communities/manalapan"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 46.1,
+      "impression_decline": 43,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 17.8,
+      "prev_position": 28.3,
+      "url": "/communities"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 27.4,
+      "impression_decline": 41,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 15.0,
+      "prev_position": 12.4,
+      "url": "/communities/port-st-lucie"
+    },
+    {
+      "click_decline": 1,
+      "curr_position": 18.1,
+      "impression_decline": -51,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 12.2,
+      "prev_position": 5.9,
+      "url": "/florida-condo-buyers-due-diligence-checklist"
+    },
+    {
+      "click_decline": -1,
+      "curr_position": 21.6,
+      "impression_decline": 49,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 6.8,
+      "prev_position": 14.7,
+      "url": "/blog/best-things-to-do-in-singer-island-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 35.8,
+      "impression_decline": 16,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 6.7,
+      "prev_position": 29.1,
+      "url": "/blog/who-should-move-to-royal-palm-beach-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 30.8,
+      "impression_decline": -91,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 6.6,
+      "prev_position": 24.1,
+      "url": "/communities/bears-club"
+    },
+    {
+      "click_decline": -1,
+      "curr_position": 47.5,
+      "impression_decline": 16,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 6.5,
+      "prev_position": 41.0,
+      "url": "/communities/north-palm-beach"
+    },
+    {
+      "click_decline": 1,
+      "curr_position": 27.5,
+      "impression_decline": -5,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 6.5,
+      "prev_position": 20.9,
+      "url": "/communities/loxahatchee-club"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 18.3,
+      "impression_decline": 9,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 5.4,
+      "prev_position": 12.9,
+      "url": "/blog/what-its-really-like-living-in-north-palm-beach-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 12.1,
+      "impression_decline": -63,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 4.9,
+      "prev_position": 7.1,
+      "url": "/blog/singer-island-vs-nearby-cities"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 21.6,
+      "impression_decline": -2,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 4.3,
+      "prev_position": 17.3,
+      "url": "/blog/what-its-really-like-living-in-palm-beach-gardens-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 14.6,
+      "impression_decline": -111,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 4.2,
+      "prev_position": 10.4,
+      "url": "/blog/who-should-move-to-jupiter-florida"
+    },
+    {
+      "click_decline": -2,
+      "curr_position": 10.7,
+      "impression_decline": -55,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 4.0,
+      "prev_position": 6.7,
+      "url": "/blog/best-neighborhoods-in-palm-city-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 12.3,
+      "impression_decline": -13,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3.9,
+      "prev_position": 8.4,
+      "url": "/canadahomeseller"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 14.6,
+      "impression_decline": -18,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3.9,
+      "prev_position": 10.6,
+      "url": "/communities/delray-beach"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 10.5,
+      "impression_decline": -49,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3.5,
+      "prev_position": 7,
+      "url": "/blog/hidden-gems-in-hobe-sound-florida"
+    },
+    {
+      "click_decline": -2,
+      "curr_position": 9.3,
+      "impression_decline": 272,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3.2,
+      "prev_position": 6.1,
+      "url": "/blog/history-of-port-salerno-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 9.5,
+      "impression_decline": -39,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3.2,
+      "prev_position": 6.3,
+      "url": "/blog/best-neighborhoods-in-tequesta-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 26.5,
+      "impression_decline": -5,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3.1,
+      "prev_position": 23.4,
+      "url": "/blog/best-things-to-do-in-north-palm-beach-florida"
+    },
+    {
+      "click_decline": 0,
+      "curr_position": 36,
+      "impression_decline": -57,
+      "note": "Data shows a ranking decline; review the page for content or technical changes before assuming a cause.",
+      "position_decline": 3,
+      "prev_position": 33,
+      "url": "/communities/alton"
+    }
+  ],
+  "market_data_note": "Market-data integration not configured.",
+  "meta": {
+    "data_through": "2026-10-24",
+    "date": "October 26, 2026"
+  },
+  "monday_action_plan": [
+    {
+      "claude_code_can_implement": true,
+      "estimated_effort": 2,
+      "expected_lead_impact": "high",
+      "expected_seo_impact": "high",
+      "task": "Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com",
+      "url_or_city": "/communities/loxahatchee",
+      "why": "827 impressions at position 8.7 with low CTR \u2014 a quick fix can convert visibility into clicks."
+    },
+    {
+      "claude_code_can_implement": true,
+      "estimated_effort": 2,
+      "expected_lead_impact": "high",
+      "expected_seo_impact": "high",
+      "task": "Expand on-page content around 'high point fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "url_or_city": "/blog/best-neighborhoods-in-stuart-florida",
+      "why": "559 impressions at position 8.0 with low CTR \u2014 a quick fix can convert visibility into clicks."
+    },
+    {
+      "claude_code_can_implement": true,
+      "estimated_effort": 2,
+      "expected_lead_impact": "high",
+      "expected_seo_impact": "high",
+      "task": "Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com",
+      "url_or_city": "/blog/best-neighborhoods-in-west-palm-beach-florida",
+      "why": "464 impressions at position 8.9 with low CTR \u2014 a quick fix can convert visibility into clicks."
+    },
+    {
+      "claude_code_can_implement": true,
+      "estimated_effort": 6,
+      "expected_lead_impact": "medium",
+      "expected_seo_impact": "medium",
+      "task": "Write: Is Port St Lucie A Good Place To Live",
+      "url_or_city": "Port St. Lucie",
+      "why": "59 impressions, 0 clicks, avg position 20.4"
+    },
+    {
+      "claude_code_can_implement": true,
+      "estimated_effort": 6,
+      "expected_lead_impact": "medium",
+      "expected_seo_impact": "medium",
+      "task": "Write: Old Northwood Appraisal",
+      "url_or_city": "General",
+      "why": "46 impressions, 0 clicks, avg position 10.4"
+    }
+  ],
+  "new_content_ideas": [
+    {
+      "buyer_or_seller_intent": "buyer",
+      "city_or_category": "Port St. Lucie",
+      "content_angle": "No page currently ranks well for 'is port st lucie a good place to live' \u2014 write content that directly answers this search.",
+      "lead_magnet": "Palm Beach County Relocation Guide",
+      "link_to_existing_pages": [
+        "/communities/port-st-lucie"
+      ],
+      "proposed_title": "Is Port St Lucie A Good Place To Live",
+      "search_data": "59 impressions, 0 clicks, avg position 20.4",
+      "search_site_cta": "View Current Port St. Lucie Homes",
+      "target_keyword": "is port st lucie a good place to live"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "city_or_category": "General",
+      "content_angle": "No page currently ranks well for 'old northwood appraisal' \u2014 write content that directly answers this search.",
+      "lead_magnet": "Palm Beach County Relocation Guide",
+      "link_to_existing_pages": [],
+      "proposed_title": "Old Northwood Appraisal",
+      "search_data": "46 impressions, 0 clicks, avg position 10.4",
+      "search_site_cta": "Browse Homes on search.doyouneedahome.com",
+      "target_keyword": "old northwood appraisal"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "city_or_category": "Stuart",
+      "content_angle": "No page currently ranks well for 'living in stuart fl' \u2014 write content that directly answers this search.",
+      "lead_magnet": "Palm Beach County Relocation Guide",
+      "link_to_existing_pages": [
+        "/communities/stuart"
+      ],
+      "proposed_title": "Living In Stuart Fl",
+      "search_data": "41 impressions, 0 clicks, avg position 21.8",
+      "search_site_cta": "View Current Stuart Homes",
+      "target_keyword": "living in stuart fl"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "city_or_category": "Palm Beach Gardens",
+      "content_angle": "No page currently ranks well for 'new construction homes in palm beach gardens' \u2014 write content that directly answers this search.",
+      "lead_magnet": "Palm Beach County Relocation Guide",
+      "link_to_existing_pages": [
+        "/communities/palm-beach-gardens"
+      ],
+      "proposed_title": "New Construction Homes In Palm Beach Gardens",
+      "search_data": "41 impressions, 0 clicks, avg position 46.4",
+      "search_site_cta": "View Current Palm Beach Gardens Homes",
+      "target_keyword": "new construction homes in palm beach gardens"
+    },
+    {
+      "buyer_or_seller_intent": "buyer",
+      "city_or_category": "Palm Beach Gardens",
+      "content_angle": "No page currently ranks well for 'new construction houses in palm beach gardens' \u2014 write content that directly answers this search.",
+      "lead_magnet": "Palm Beach County Relocation Guide",
+      "link_to_existing_pages": [
+        "/communities/palm-beach-gardens"
+      ],
+      "proposed_title": "New Construction Houses In Palm Beach Gardens",
+      "search_data": "38 impressions, 0 clicks, avg position 48.6",
+      "search_site_cta": "View Current Palm Beach Gardens Homes",
+      "target_keyword": "new construction houses in palm beach gardens"
+    }
+  ],
+  "news": [
+    {
+      "classification": "unclear",
+      "date": "Tue, 20 Oct 2026 13:36:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWHkxTm5KY285VnVRank0bVRVQ0duNkhZdmZPVE81UDlWNHBkb1FLR3U0ajByY3IxVU9Oc05Ka1Y1NHVtdEIzUHM2ay00THB6amRiZkpOSUJLLUZMRXdUXzhnTEx1VkVHakFqaWhUZ0ZybHpxb2MtMHpBX2o2dWEwYURVcGRkRWxIY1BRVFhaR29CaXppMm10V1VhTTJHVEk?oc=5",
+      "matched_city": null,
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "Yahoo Finance",
+      "title": "THIRD LAKE DEVELOPMENT BREAKS GROUND ON BUILD-TO-RENT COMMUNITY IN ST. AUGUSTINE, FL - Yahoo Finance"
+    },
+    {
+      "classification": "unclear",
+      "date": "Wed, 21 Oct 2026 18:15:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0ZjNFBGVVI2dkp1SmN2WDBXU3I2eVVxR3lCb2ZGQVlfeGkySkpQSjlLYnRzeXliZzdhd3dpTGFieWRtSS0yQ0Z3eUhGN2cxMzBMRGV4RHlMOW84aEFsRWxiRTN2V0lPVXJmQkY2NHFhcml3MkE3ZGNldzlHVGtmYVlBLXQtLTdhWGFBQVpOandfWXFtN2lZOGlzb0ZnelVNTjVfWWtlRE80MmM?oc=5",
+      "matched_city": null,
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "The Business Journals",
+      "title": "Mercedes-Benz condo developer seeks $1.1B refinance amid city deal 'default' - The Business Journals"
+    },
+    {
+      "classification": "unclear",
+      "date": "Wed, 21 Oct 2026 04:21:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFlUaXRMTFFwQWVLUjRKV2xIZlg1Nm1YY1JEUGNrMFcwZm5qTXZkUVhyaE9tVE0yNTVvQ283bzZERTZrZlBqMDA3U0F6WHJTYTVJa2VuWFZiQWhYbExQWTM2emx0NnRYSllFWm9JQktEcGZUNE1NTWhWS1hZempoREM4SXBnTkk1XzhsQUR4S2VIdkZjRHFzd1ZFbEFlTks3WWl0bnI2dnM1S0E?oc=5",
+      "matched_city": null,
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "The Business Journals",
+      "title": "Coral Gables developer partners with New York firm on 315-unit West Palm Beach project - The Business Journals"
+    },
+    {
+      "classification": "unclear",
+      "date": "Fri, 23 Oct 2026 17:45:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORzJVb2JaaFdJRGtEclEzUi0yQ0dtLVcyQ09ZWHhOdXQtRDhscnh1ZU9nSDJPM2tpVy1wYkRSbkVUdWtMbmlXdHk3N2I4RFgzWjhIZ3p4b3NyaDVtenhkM0NWd0hWcWlralU4N1BmRWFyLWU5WUhEeG1laWZQQ3BNTTZLRUJKUWVNbXo1eHFhS2R1TTlEUm45bTI2TVhDTnVZT3BCam1PRi1YZEVXZ1E?oc=5",
+      "matched_city": "West Palm Beach",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "The Business Journals",
+      "title": "New York developer could be tapped for new West Palm Beach affordable housing project - The Business Journals"
+    },
+    {
+      "classification": "unclear",
+      "date": "Tue, 20 Oct 2026 16:45:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3BtN2VYMXkyak54SU1mMGJUaUJScWlSSFlLX3lNNlBqeHBZeWVRcHF1cTZmaDJMT1dYYVdybkhHUDU4TzcyUmtmRDBMZk56bkltZGRKdW1JN1NWTWRycmQxQ1Z1TjJVZ1dLUThJb1NzeVdPRlBBZ3ZTMExPWk16NWQtM3BFc1BqV2Y5NXIxMURnVkxVU1U2NWtqaEo4M3VNaGc?oc=5",
+      "matched_city": "West Palm Beach",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "The Real Deal",
+      "title": "Allen Morris buys Savanna\u2019s West Palm assemblage for development partnership - The Real Deal"
+    },
+    {
+      "classification": "unclear",
+      "date": "Sat, 24 Oct 2026 14:42:05 GMT",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZkFYcmU2RTQwbVRfcHdaRkZtVGtfd1laMzBPWW9kM1RkVlh1MTdDRGRGbU1FcWR5akpRRFh6bjBtdzFLYUgwT2VFV3dvZTNnQ0tlUEI1V0VsWUJybDg4RmtUT0R3bnY4eUpSVjlSamphbkM3LXFLWk5GT2hDUnVsOUQ5TkoxbTVUQjJ3OG1ONzZlWHpFclJ4dWIwOU0?oc=5",
+      "matched_city": "West Palm Beach",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "Haute Living",
+      "title": "West Palm Beach New Construction Condos by Entry Price (2026) - Haute Living"
+    },
+    {
+      "classification": "unclear",
+      "date": "Fri, 23 Oct 2026 12:36:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTZ2dGFoSUVRcG5JS2hFU3pmY1cwQnNXN3kzZWVEdVEzUFdSbTRJZGZ4TGVZQy1vWmhWZmN4UXFDNmNtck5sWXJyQnJSVEt5WVFHdkh1cDEyTjhicFNLU3VZY1dsRlFtLWQ4bnNVSlFQajJjMGZrSXNXYWJIYUp1YU1YUkZhRG9FRndCaDZCRlhod2VEUHBGUFNMeUxEaUJGb19qVHZna0lpMnRBN3c?oc=5",
+      "matched_city": "West Palm Beach",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "Haute Living",
+      "title": "Banyan Tree Residences West Palm Beach Targets a 2027 Construction Start - Haute Living"
+    },
+    {
+      "classification": "unclear",
+      "date": "Wed, 21 Oct 2026 13:02:51 GMT",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWFocGZTaGdhN3lxbXVsY2IwdTJKSlpzZHB4S1FOY3RxZ1dVVGc2cllZcGI1VkZXaF9qNERwR180dnM1WWdlZEVzdGdkMWItVm9LSk5kR2xNcWdYTVE5RkI3Z2M4TklTenB3ZXNPZV8wTmFqSDBKQzdDQ18tN1NRUVE5RWpkNFlFbEdUcWJHbFVGajdkQk8yWFZySlJTNDFwSkZfUm1RYV9RLWNOdWlRZWhidFE?oc=5",
+      "matched_city": "West Palm Beach",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "Haute Living",
+      "title": "West Palm Beach New Construction by Delivery Year: Eight Projects, 2027 to 2031 - Haute Living"
+    },
+    {
+      "classification": "unclear",
+      "date": "Thu, 22 Oct 2026 13:07:46 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLTI0TkNMcVRpRGZNY3JSM201Z3VETlhaRFVOSEhOTGtvN1NHaWwxWWJWSnNVUUh0b045NEE2NERLdmptZEF0YWtXS3ZiejR3WGItRGlXTXFaanlKeGJQenBtWHNEdTRrMHRCdXBuZEJRZldmZWFLVkFKRjl2T0Nod3BBaEdELUNhOENMVHBMQldkeG85d0JqUXJ1ZDVSdUZmYmc?oc=5",
+      "matched_city": "West Palm Beach",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "Haute Living",
+      "title": "Shorecrest West Palm Beach: 98 Residences on North Flagler Drive - Haute Living"
+    },
+    {
+      "classification": "unclear",
+      "date": "Wed, 21 Oct 2026 09:02:06 GMT",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTV6SEtEcjlYU1NlM2prUzM0eTl0SFBNSXU1TUxMT3Z6SXlvcG9VdTJfdHdoX2dkcnBpYTljemtIWnUwdmlCTW1OMmhibzVhS1lVbVNNaFdMb1FMYWZhZzVudWQyQmxodGh4VEQyNmJDc1I0N2FRYW5wb2Y5MWlqaGlLZEZTOFhhTUpJaTR4eGJtd196RUlzQW4yNm9pQUhqamlnTHViWm4zelhLQ05Fd2hZYUtEWUZUZmxB?oc=5",
+      "matched_city": "Boca Raton",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "The New York Times",
+      "title": "They Promised Luxury Condos. $1 Billion Later, Buyers Are Still Waiting. - The New York Times"
+    },
+    {
+      "classification": "unclear",
+      "date": "Wed, 21 Oct 2026 16:28:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWEtVU1NhanVLR0pKRVRZb3BlWGh1UDZJWEpLS2FIcTFnS0oyVUlRYjhmcjdhVng2RHJocHpELUV0bnV2MmZFQkdMcFBQVWNhN3lpOGNkb3U4YnpxUXl5Qm9aRVFyNTNycWdzV0VZaTh2ZjlfSXYzRHVmWWhzLWdNTHdqazhBWlNjanZ6bGtuXzVGeW8?oc=5",
+      "matched_city": "Boca Raton",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "New York Post",
+      "title": "Buyers seek 7-figure refunds for condos inside a $1B Florida development plagued by delays, litigation and foreclosure - New York Post"
+    },
+    {
+      "classification": "unclear",
+      "date": "Thu, 22 Oct 2026 09:07:00 GMT",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzlyaFFfTVRvTHNkNGVpUGtxdWlIZTVtSVVMX3djOE9uRXVCYzgteGRubFJnOGRydGVoazR3MnpsVzZpU21IMGtuWl82YXNySDNsQlhRZGxTd09SVk9PZGtBbWNzaEZIdGZ0cnV1SmFaSEd3QjhkZFpFQUYyRDRGVm1vMEdMYTRQQktZWW4wY042LTNIazgtNG9YTUJwR3Y4dURFdy1FejNTZzFhRkE?oc=5",
+      "matched_city": "Palm City",
+      "recommended_action": "Review manually \u2014 classification unclear from headline alone",
+      "source": "Florida Today",
+      "title": "Walmart buys 22 acres in Palm Bay's Emerald Lakes development - Florida Today"
+    }
+  ],
+  "opportunities": [
+    {
+      "clicks": 2,
+      "ctr": 0.0024183796856106408,
+      "impressions": 827,
+      "position": 8.71342200725514,
+      "primary_queries": [
+        "loxahatchee fl county",
+        "loxahatchee fl zip code",
+        "loxahatchee zip code"
+      ],
+      "recommended_action": "Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com",
+      "url": "/communities/loxahatchee"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.0012987012987012987,
+      "impressions": 770,
+      "position": 12.536363636363637,
+      "primary_queries": [
+        "palm city downtown",
+        "downtown palm city",
+        "city"
+      ],
+      "recommended_action": "Expand on-page content around 'palm city downtown' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/local-guide-to-palm-city-florida"
+    },
+    {
+      "clicks": 8,
+      "ctr": 0.014311270125223614,
+      "impressions": 559,
+      "position": 8.023255813953488,
+      "primary_queries": [
+        "high point fl neighborhood guide",
+        "living in stuart fl",
+        "neighborhood"
+      ],
+      "recommended_action": "Expand on-page content around 'high point fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-stuart-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.008620689655172414,
+      "impressions": 464,
+      "position": 8.9375,
+      "primary_queries": [
+        "best neighborhoods in west palm beach",
+        "best neighborhoods west palm beach",
+        "neighborhood near downtown west palm beach"
+      ],
+      "recommended_action": "Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-west-palm-beach-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.008849557522123894,
+      "impressions": 452,
+      "position": 8.774336283185841,
+      "primary_queries": [
+        "exterior window shades flamingo village"
+      ],
+      "recommended_action": "Expand on-page content around 'exterior window shades flamingo village' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/northwood-village-west-palm-beach-neighborhood-guide"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.0072992700729927005,
+      "impressions": 411,
+      "position": 8.800486618004866,
+      "primary_queries": [
+        "is port st lucie a good place to live",
+        "living in port st lucie",
+        "living in port st lucie fl"
+      ],
+      "recommended_action": "Expand on-page content around 'is port st lucie a good place to live' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/pros-and-cons-of-living-in-port-st-lucie-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.0024813895781637717,
+      "impressions": 403,
+      "position": 8.121588089330025,
+      "primary_queries": [
+        "best neighborhoods in jupiter florida",
+        "jupiter dunes fl neighborhood guide",
+        "jupiter neighborhoods"
+      ],
+      "recommended_action": "Expand on-page content around 'best neighborhoods in jupiter florida' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-jupiter-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 331,
+      "position": 9.818731117824774,
+      "primary_queries": [
+        "downtown palm beach gardens restaurant",
+        "best casual restaurants in palm beach gardens",
+        "downtown at the gardens restaurants"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 309,
+      "position": 8.915857605177994,
+      "primary_queries": [
+        "is palm beach gardens a good place to live?",
+        "is palm beach gardens a good place to live",
+        "i am a 25-34, 35-44, 45-54, or 55-64 year old relocation buyer in the residential real estate or homebuilding industry. my job seniority is at the senior, executive, or manager level. i work at a company with 1-249 employees. my main motivations: finding a new home that supports a job relocation, lifestyle change, family needs, or cost-of-living considerations. wants a seamless home-buying experience, access to quality schools and amenities, and confidence in the builder's reputation. interested in move-in-ready homes, master-planned communities, and locations that support long-term personal and professional goals. my main pain points: relocating is stressful enough without having to navigate unfamiliar neighborhoods, school districts, builders, and housing markets all at once. is palm beach gardens a good place to live?"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/pros-and-cons-of-living-in-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.003246753246753247,
+      "impressions": 308,
+      "position": 9.353896103896103,
+      "primary_queries": [
+        "juno beach restaurants",
+        "best restaurants in juno beach",
+        "juno beach restaurants on the water"
+      ],
+      "recommended_action": "Expand on-page content around 'juno beach restaurants' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-juno-beach-florida"
+    },
+    {
+      "clicks": 2,
+      "ctr": 0.008097165991902834,
+      "impressions": 247,
+      "position": 9.380566801619434,
+      "primary_queries": [
+        "home inspection rocky point fl",
+        "home inspector rocky point fl"
+      ],
+      "recommended_action": "Expand on-page content around 'home inspection rocky point fl' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/rocky-point-stuart-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.004149377593360996,
+      "impressions": 241,
+      "position": 11.273858921161827,
+      "primary_queries": [
+        "downtown stuart restaurants",
+        "bars stuart",
+        "best restaurants in stuart"
+      ],
+      "recommended_action": "Expand on-page content around 'downtown stuart restaurants' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-stuart-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 240,
+      "position": 8.491666666666667,
+      "primary_queries": [
+        "casual dining restaurants near me",
+        "country restaurants near me",
+        "casual restaurants near me"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-palm-city-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 238,
+      "position": 16.407563025210084,
+      "primary_queries": [
+        "best bar for singles in their 40s on singer island",
+        "bars singer island fl",
+        "best restaurants on singer island"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-singer-island-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.004464285714285714,
+      "impressions": 224,
+      "position": 8.629464285714285,
+      "primary_queries": [
+        "best neighborhoods in delray beach",
+        "best neighborhoods in delray beach fl",
+        "delray beach neighborhoods"
+      ],
+      "recommended_action": "Expand on-page content around 'best neighborhoods in delray beach' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-delray-beach-florida"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.0136986301369863,
+      "impressions": 219,
+      "position": 8.10958904109589,
+      "primary_queries": [
+        "restaurants royal palm beach",
+        "places to eat royal palm beach",
+        "food in royal palm beach"
+      ],
+      "recommended_action": "Expand on-page content around 'restaurants royal palm beach' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-royal-palm-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.004629629629629629,
+      "impressions": 216,
+      "position": 8.106481481481481,
+      "primary_queries": [
+        "downtown boynton fl neighborhood guide",
+        "boynton bay fl neighborhood guide",
+        "boynton beach neighborhoods"
+      ],
+      "recommended_action": "Expand on-page content around 'downtown boynton fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-boynton-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 204,
+      "position": 8.622549019607842,
+      "primary_queries": [
+        "harbourside place jupiter fl",
+        "harbourside place",
+        "harbourside place directory"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/harbourside-place-jupiter-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 194,
+      "position": 8.329896907216494,
+      "primary_queries": [
+        "is loxahatchee a city",
+        "loxahatchee fl",
+        "loxahatchee"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/what-its-really-like-living-in-loxahatchee-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.005681818181818182,
+      "impressions": 176,
+      "position": 8.147727272727273,
+      "primary_queries": [
+        "central beach fl neighborhood guide",
+        "city of lake worth beach permit search",
+        "downtown lake worth"
+      ],
+      "recommended_action": "Expand on-page content around 'central beach fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-lake-worth-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 165,
+      "position": 8.272727272727273,
+      "primary_queries": [
+        "best happy hour port st lucie",
+        "best bars near me",
+        "bars in downtown"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-port-st-lucie-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 164,
+      "position": 19.945121951219512,
+      "primary_queries": [
+        "dohomes",
+        "10206 allamanda boulevard, palm beach gardens, fl",
+        "175 bedford g, west palm beach, fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 146,
+      "position": 14.616438356164384,
+      "primary_queries": [
+        "moving to jupiter florida",
+        "moving to jupiter fl",
+        "living in jupiter"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-jupiter-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 145,
+      "position": 10.475862068965517,
+      "primary_queries": [
+        "hobe sound",
+        "hobe sound fl",
+        "hobe sound things to do"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-hobe-sound-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.007246376811594203,
+      "impressions": 138,
+      "position": 10.26086956521739,
+      "primary_queries": [
+        "build on your own lot builders",
+        "build on your lot port st lucie",
+        "build a home near me port st lucie"
+      ],
+      "recommended_action": "Expand on-page content around 'build on your own lot builders' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/spot-lot-builders-port-st-lucie-florida"
+    },
+    {
+      "clicks": 2,
+      "ctr": 0.014705882352941176,
+      "impressions": 136,
+      "position": 8.676470588235293,
+      "primary_queries": [
+        "?"
+      ],
+      "recommended_action": "Expand on-page content around '?' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-loxahatchee-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.007407407407407408,
+      "impressions": 135,
+      "position": 13.192592592592593,
+      "primary_queries": [
+        "homes for sale port salerno fl",
+        "homes for sale in port salerno fl",
+        "homes for sale in port salerno florida"
+      ],
+      "recommended_action": "Expand on-page content around 'homes for sale port salerno fl' and add a CTA to search.doyouneedahome.com",
+      "url": "/communities/port-salerno"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 134,
+      "position": 12.41044776119403,
+      "primary_queries": [
+        "best things to do in wellington",
+        "best things to do wellington",
+        "best things to do in florida"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-wellington-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.007692307692307693,
+      "impressions": 130,
+      "position": 9.538461538461538,
+      "primary_queries": [
+        "is tequesta part of jupiter",
+        "living in south florida"
+      ],
+      "recommended_action": "Expand on-page content around 'is tequesta part of jupiter' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/what-its-really-like-living-in-tequesta-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 130,
+      "position": 10.015384615384615,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-tequesta-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 129,
+      "position": 28.891472868217054,
+      "primary_queries": [
+        "homes for sale in ibis west palm beach florida",
+        "ibis real estate",
+        "ibis golf and country club homes for sale"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/ibis"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.008333333333333333,
+      "impressions": 120,
+      "position": 10.95,
+      "primary_queries": [
+        "juno beach",
+        "juno beach florida",
+        "juno beach fl"
+      ],
+      "recommended_action": "Expand on-page content around 'juno beach' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-things-to-do-in-juno-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 120,
+      "position": 10.55,
+      "primary_queries": [
+        "delray marketplace",
+        "delray beach marketplace",
+        "delray food hall"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/delray-marketplace-west-delray-beach"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 117,
+      "position": 11.128205128205128,
+      "primary_queries": [
+        "is loxahatchee a good place to live",
+        "loxahatchee florida county"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-loxahatchee-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 116,
+      "position": 23.5,
+      "primary_queries": [
+        "best neighborhoods in royal palm beach fl",
+        "land development royal palm beach",
+        "gated communities in royal palm beach"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/royal-palm-beach"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 113,
+      "position": 8.23008849557522,
+      "primary_queries": [
+        "is palm beach gardens expensive",
+        "i am a 25-34, 35-44, 45-54, or 55-64 year old relocation buyer in the residential real estate or homebuilding industry. my job seniority is at the senior, executive, or manager level. i work at a company with 1-249 employees. my main motivations: finding a new home that supports a job relocation, lifestyle change, family needs, or cost-of-living considerations. wants a seamless home-buying experience, access to quality schools and amenities, and confidence in the builder's reputation. interested in move-in-ready homes, master-planned communities, and locations that support long-term personal and professional goals. my main pain points: relocating is stressful enough without having to navigate unfamiliar neighborhoods, school districts, builders, and housing markets all at once. is palm beach gardens a good place to live?"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/cost-of-living-in-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.009174311926605505,
+      "impressions": 109,
+      "position": 9.146788990825687,
+      "primary_queries": [
+        "cost of living in palm beach county florida",
+        "buy a home in miami",
+        "buy a home miami"
+      ],
+      "recommended_action": "Expand on-page content around 'cost of living in palm beach county florida' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/miami-cost-of-living-vs-palm-beach-county"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 109,
+      "position": 9.513761467889909,
+      "primary_queries": [
+        "lake worth beach restaurant",
+        "breakfast bar lake worth beach fl",
+        "downtown lake worth beach restaurants"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-lake-worth-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 109,
+      "position": 11.293577981651376,
+      "primary_queries": [
+        "lake worth beach fl",
+        "floating docks lake worth beach",
+        "lake worth fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-lake-worth-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 109,
+      "position": 20.220183486238533,
+      "primary_queries": [
+        "lotus palm homes for sale",
+        "lotus homes for sale",
+        "lotus boca raton"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/lotus"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.038461538461538464,
+      "impressions": 104,
+      "position": 9.326923076923077,
+      "primary_queries": [
+        "late-life population port salerno"
+      ],
+      "recommended_action": "Expand on-page content around 'late-life population port salerno' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/history-of-port-salerno-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 102,
+      "position": 8.931372549019608,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/peck-lake-park-hobe-sound-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 98,
+      "position": 10.877551020408163,
+      "primary_queries": [
+        "list things locals love about palm city",
+        "home visit palm city fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/hidden-gems-in-palm-city-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 96,
+      "position": 17.552083333333332,
+      "primary_queries": [
+        "juno beach florida",
+        "juno beach",
+        "condominium public adjuster juno beach"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/local-guide-to-juno-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 94,
+      "position": 12.404255319148936,
+      "primary_queries": [
+        "juno beach",
+        "juno beach things to do",
+        "juno dunes natural area"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/hidden-gems-in-juno-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.01098901098901099,
+      "impressions": 91,
+      "position": 9.703296703296703,
+      "primary_queries": [
+        "lotis wellington restaurants",
+        "lazy dog wellington",
+        "best places in wellington"
+      ],
+      "recommended_action": "Expand on-page content around 'lotis wellington restaurants' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-wellington-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 88,
+      "position": 10.079545454545455,
+      "primary_queries": [
+        "living in lake worth florida",
+        "benefits of living in florida",
+        "lake worth beach"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/pros-and-cons-of-living-in-lake-worth-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.011627906976744186,
+      "impressions": 86,
+      "position": 21.569767441860463,
+      "primary_queries": [],
+      "recommended_action": "Add a relevant FAQ section and strengthen internal links to this page",
+      "url": "/blog/best-things-to-do-in-singer-island-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 84,
+      "position": 8.583333333333332,
+      "primary_queries": [
+        "boynton beach waterfront restaurants",
+        "fun restaurants boynton beach"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-boynton-beach-florida"
+    },
+    {
+      "clicks": 2,
+      "ctr": 0.024096385542168676,
+      "impressions": 83,
+      "position": 10.698795180722891,
+      "primary_queries": [
+        "great neighborhoods",
+        "is palm city florida a good place to live"
+      ],
+      "recommended_action": "Expand on-page content around 'great neighborhoods' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-palm-city-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 83,
+      "position": 16.325301204819276,
+      "primary_queries": [
+        "infrastructure assessment loxahatchee",
+        "caloosahatchee fl neighborhood guide"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-neighborhoods-in-loxahatchee-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 83,
+      "position": 11.36144578313253,
+      "primary_queries": [
+        "best places to eat jupiter",
+        "best hangouts near me",
+        "best jupiter restaurants on the water"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-jupiter-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.012195121951219513,
+      "impressions": 82,
+      "position": 13.317073170731707,
+      "primary_queries": [
+        "living in wellington florida",
+        "living in wellington",
+        "living in wellington fl"
+      ],
+      "recommended_action": "Expand on-page content around 'living in wellington florida' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/pros-and-cons-of-living-in-wellington-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.01282051282051282,
+      "impressions": 78,
+      "position": 8.948717948717949,
+      "primary_queries": [],
+      "recommended_action": "Add a relevant FAQ section and strengthen internal links to this page",
+      "url": "/blog/tequesta-vs-nearby-cities"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.04054054054054054,
+      "impressions": 74,
+      "position": 9.85135135135135,
+      "primary_queries": [
+        "home inspections port salerno fl"
+      ],
+      "recommended_action": "Expand on-page content around 'home inspections port salerno fl' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/port-salerno-vs-stuart"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 71,
+      "position": 12.619718309859154,
+      "primary_queries": [
+        "boca raton things to do",
+        "boca raton fun things to do",
+        "boca raton sightseeing"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-boca-raton-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 71,
+      "position": 12.056338028169014,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/singer-island-vs-nearby-cities"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 71,
+      "position": 10.915492957746478,
+      "primary_queries": [
+        "is juno beach a good place to live",
+        "is juno beach nice",
+        "is juno beach safe"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-juno-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.015151515151515152,
+      "impressions": 66,
+      "position": 24.818181818181817,
+      "primary_queries": [
+        "new construction homes in westlake fl"
+      ],
+      "recommended_action": "Expand on-page content around 'new construction homes in westlake fl' and add a CTA to search.doyouneedahome.com",
+      "url": "/communities/westlake"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.015384615384615385,
+      "impressions": 65,
+      "position": 9.707692307692307,
+      "primary_queries": [
+        "lake worth florida",
+        "lake worth, florida"
+      ],
+      "recommended_action": "Expand on-page content around 'lake worth florida' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/hidden-gems-in-lake-worth-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 65,
+      "position": 14.553846153846154,
+      "primary_queries": [
+        "boynton beach fl",
+        "boynton beach things to do",
+        "downtown boynton fl neighborhood guide"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-boynton-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 65,
+      "position": 15.061538461538461,
+      "primary_queries": [
+        "jupiter yacht club",
+        "jupiter condos with boat docks",
+        "living in riverside yacht club estates at the landings"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/jupiter-yacht-club"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.015625,
+      "impressions": 64,
+      "position": 18.125,
+      "primary_queries": [
+        "florida condo buying guide",
+        "how to do due diligence on a new development developer in miami"
+      ],
+      "recommended_action": "Expand on-page content around 'florida condo buying guide' and add a CTA to search.doyouneedahome.com",
+      "url": "/florida-condo-buyers-due-diligence-checklist"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.015873015873015872,
+      "impressions": 63,
+      "position": 11.063492063492063,
+      "primary_queries": [
+        "land clearing juno beach",
+        "living in juno beach fl",
+        "best neighborhood"
+      ],
+      "recommended_action": "Expand on-page content around 'land clearing juno beach' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-juno-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.016129032258064516,
+      "impressions": 62,
+      "position": 10.64516129032258,
+      "primary_queries": [
+        "is boynton beach ghetto",
+        "boynton",
+        "boynton beach reviews"
+      ],
+      "recommended_action": "Expand on-page content around 'is boynton beach ghetto' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/what-its-really-like-living-in-boynton-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 62,
+      "position": 9.53225806451613,
+      "primary_queries": [
+        "neighborhood ratings"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-neighborhoods-in-tequesta-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 62,
+      "position": 8.564516129032258,
+      "primary_queries": [
+        "downtown west palm restaurants",
+        "best casual restaurants west palm beach",
+        "best restaurants in palm beach"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-west-palm-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.016666666666666666,
+      "impressions": 60,
+      "position": 8.25,
+      "primary_queries": [
+        "find unique things to do in boca raton",
+        "give me fun facts about hidden gems in my area"
+      ],
+      "recommended_action": "Expand on-page content around 'find unique things to do in boca raton' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/hidden-gems-in-boca-raton-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.01694915254237288,
+      "impressions": 59,
+      "position": 15.152542372881356,
+      "primary_queries": [
+        "boca raton relocation guide"
+      ],
+      "recommended_action": "Expand on-page content around 'boca raton relocation guide' and add a CTA to search.doyouneedahome.com",
+      "url": "/palm-beach-county-treasure-coast-relocation-guide"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 59,
+      "position": 16.101694915254235,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/panther-national"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 58,
+      "position": 8.706896551724139,
+      "primary_queries": [
+        "best neighborhoods in royal palm beach fl",
+        "best neighborhoods to live in west palm beach"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-neighborhoods-in-royal-palm-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 57,
+      "position": 12.31578947368421,
+      "primary_queries": [
+        "canadian selling property in florida"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/canadahomeseller"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 56,
+      "position": 10.5,
+      "primary_queries": [
+        "list hidden gems in hobe sound",
+        "best things to do in hobe sound",
+        "florida hobe sound"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/hidden-gems-in-hobe-sound-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 55,
+      "position": 8.709090909090909,
+      "primary_queries": [
+        "cost of living in palm beach county",
+        "cost of living in palm beach county florida"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/cost-of-living-in-north-palm-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.018867924528301886,
+      "impressions": 53,
+      "position": 10.377358490566039,
+      "primary_queries": [
+        "moving to delray beach",
+        "living in delray beach",
+        "delray beach home policy"
+      ],
+      "recommended_action": "Expand on-page content around 'moving to delray beach' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/who-should-move-to-delray-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 53,
+      "position": 12.358490566037736,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-north-palm-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 53,
+      "position": 26.49056603773585,
+      "primary_queries": [
+        "n palm beach fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-north-palm-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 52,
+      "position": 13.038461538461538,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/jupiter-vs-nearby-cities"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 52,
+      "position": 21.634615384615383,
+      "primary_queries": [
+        "is palm beach gardens a good place to live",
+        "living in palm beach gardens",
+        "is palm beach gardens a good place to live?"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/what-its-really-like-living-in-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 52,
+      "position": 8.557692307692307,
+      "primary_queries": [
+        "moving to boynton beach",
+        "is boynton beach a good place to live",
+        "is boynton beach in broward county"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-boynton-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 52,
+      "position": 22.346153846153847,
+      "primary_queries": [
+        "hobe sound florida",
+        "hobe sound fl",
+        "florida hobe sound"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/hobe-sound"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 51,
+      "position": 21.470588235294116,
+      "primary_queries": [
+        "beach gardens florida",
+        "in palm beach gardens florida"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 51,
+      "position": 9.490196078431373,
+      "primary_queries": [
+        "late-life population hobe sound",
+        "hobe sound fl",
+        "hobe sound florida"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-hobe-sound-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 50,
+      "position": 8.719999999999999,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/lake-worth-beach"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 50,
+      "position": 28.06,
+      "primary_queries": [
+        "new construction in palm city florida",
+        "condos for sale in palm city florida",
+        "lighthouse point palm city"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/palm-city"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 49,
+      "position": 21.26530612244898,
+      "primary_queries": [
+        "is port st lucie a good place to live",
+        "living in port st lucie",
+        "benefits of living in port st. lucie"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/what-its-really-like-living-in-port-st-lucie-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 48,
+      "position": 10.229166666666666,
+      "primary_queries": [
+        "benefits of living in west palm beach",
+        "living in west palm beach fl pros and cons"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/pros-and-cons-of-living-in-west-palm-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 44,
+      "position": 9.454545454545455,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/delray-beach-vs-nearby-cities"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 42,
+      "position": 18.142857142857142,
+      "primary_queries": [
+        "cosas que hacer en stuart"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-things-to-do-in-stuart-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 42,
+      "position": 8.404761904761905,
+      "primary_queries": [
+        "loxahatchee fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/loxahatchee-vs-nearby-cities"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 42,
+      "position": 8.285714285714285,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/pros-and-cons-of-living-in-boca-raton-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 40,
+      "position": 10.2,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-tequesta-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 39,
+      "position": 11.461538461538462,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-neighborhoods-in-westlake-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.02702702702702703,
+      "impressions": 37,
+      "position": 13.54054054054054,
+      "primary_queries": [
+        "boynton beach communities",
+        "communities in boynton beach fl",
+        "communities in boynton beach florida"
+      ],
+      "recommended_action": "Expand on-page content around 'boynton beach communities' and add a CTA to search.doyouneedahome.com",
+      "url": "/communities/boynton-beach"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 36,
+      "position": 8,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-delray-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 36,
+      "position": 10.472222222222221,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/mortgage-rates-2026-palm-beach-county-buyer-guide"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 36,
+      "position": 14.555555555555555,
+      "primary_queries": [
+        "delray beach communities",
+        "delray beach neighborhoods",
+        "delray shores"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/delray-beach"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 36,
+      "position": 27.47222222222222,
+      "primary_queries": [
+        "loxahatchee club",
+        "loxahatchee golf",
+        "loxahatchee golf club"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/loxahatchee-club"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 35,
+      "position": 18.714285714285715,
+      "primary_queries": [
+        "living in wellington fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/local-guide-to-wellington-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 34,
+      "position": 9.088235294117647,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/hidden-gems-in-singer-island-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 34,
+      "position": 18.91176470588235,
+      "primary_queries": [
+        "is stuart in palm beach county",
+        "lake tuscany stuart fl"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/communities/stuart"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 33,
+      "position": 13.727272727272727,
+      "primary_queries": [
+        "living in palm beach gardens",
+        "living in palm beach gardens florida",
+        "is palm beach gardens a good place to live"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 30,
+      "position": 8.1,
+      "primary_queries": [],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/boynton-beach-vs-nearby-cities"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 29,
+      "position": 8.379310344827587,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/best-things-to-do-in-westlake-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.03571428571428571,
+      "impressions": 28,
+      "position": 9.678571428571429,
+      "primary_queries": [
+        "what to do in west lake",
+        "local landmarks"
+      ],
+      "recommended_action": "Expand on-page content around 'what to do in west lake' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/hidden-gems-in-westlake-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.03571428571428571,
+      "impressions": 28,
+      "position": 14.5,
+      "primary_queries": [
+        "martinique abacoa",
+        "martinique abacoa homes for sale",
+        "martinique at abacoa"
+      ],
+      "recommended_action": "Expand on-page content around 'martinique abacoa' and add a CTA to search.doyouneedahome.com",
+      "url": "/communities/martinique"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 28,
+      "position": 8.75,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/local-guide-to-tequesta-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 27,
+      "position": 8.592592592592592,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/pros-and-cons-of-living-in-delray-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.038461538461538464,
+      "impressions": 26,
+      "position": 9.423076923076923,
+      "primary_queries": [
+        "boca raton weather today",
+        "diplomat fl neighborhood guide"
+      ],
+      "recommended_action": "Expand on-page content around 'boca raton weather today' and add a CTA to search.doyouneedahome.com",
+      "url": "/blog/best-neighborhoods-in-boca-raton-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 26,
+      "position": 10.115384615384615,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-port-salerno-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 25,
+      "position": 8.92,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-tequesta-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 25,
+      "position": 13.2,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/what-its-really-like-living-in-westlake-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 24,
+      "position": 16.541666666666664,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/hidden-gems-in-north-palm-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 24,
+      "position": 14,
+      "primary_queries": [
+        "evaluate the residential home construction company waterways on waterfront & master-planned communities",
+        "electrical panel upgrade port salerno fl",
+        "home inspections port salerno fl"
+      ],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/waterfront-homes-port-salerno-buyers-guide"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 22,
+      "position": 10.090909090909092,
+      "primary_queries": [
+        "juno isles"
+      ],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/communities/juno-beach"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 22,
+      "position": 28.045454545454547,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/communities/tequesta"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 21,
+      "position": 9.142857142857142,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/cost-of-living-in-boynton-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 19,
+      "position": 14.263157894736842,
+      "primary_queries": [
+        "cost to build custom home port st lucie",
+        "building home cost port st lucie",
+        "cost to build a home in port st lucie"
+      ],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/cost-to-build-on-your-lot-port-st-lucie-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 19,
+      "position": 27.36842105263158,
+      "primary_queries": [
+        "communities in port st lucie florida"
+      ],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/communities/port-st-lucie"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 19,
+      "position": 16.842105263157897,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/communities/singer-island"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 18,
+      "position": 9.277777777777779,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/what-its-really-like-living-in-hobe-sound-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 17,
+      "position": 18.294117647058822,
+      "primary_queries": [],
+      "recommended_action": "Add stronger internal links and an FAQ section \u2014 not enough data yet to justify a title rewrite",
+      "url": "/blog/what-its-really-like-living-in-north-palm-beach-florida"
+    }
+  ],
+  "quick_wins": [
+    {
+      "clicks": 2,
+      "ctr": 0.0024183796856106408,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 827,
+      "intent": "buyer",
+      "position": 8.71342200725514,
+      "primary_queries": [
+        "loxahatchee fl county",
+        "loxahatchee fl zip code",
+        "loxahatchee zip code"
+      ],
+      "recommended_action": "Expand on-page content around 'loxahatchee fl county' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/communities/loxahatchee"
+    },
+    {
+      "clicks": 8,
+      "ctr": 0.014311270125223614,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 559,
+      "intent": "buyer",
+      "position": 8.023255813953488,
+      "primary_queries": [
+        "high point fl neighborhood guide",
+        "living in stuart fl",
+        "neighborhood"
+      ],
+      "recommended_action": "Expand on-page content around 'high point fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/blog/best-neighborhoods-in-stuart-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.008620689655172414,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 464,
+      "intent": "buyer",
+      "position": 8.9375,
+      "primary_queries": [
+        "best neighborhoods in west palm beach",
+        "best neighborhoods west palm beach",
+        "neighborhood near downtown west palm beach"
+      ],
+      "recommended_action": "Expand on-page content around 'best neighborhoods in west palm beach' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/blog/best-neighborhoods-in-west-palm-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.0024813895781637717,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 403,
+      "intent": "buyer",
+      "position": 8.121588089330025,
+      "primary_queries": [
+        "best neighborhoods in jupiter florida",
+        "jupiter dunes fl neighborhood guide",
+        "jupiter neighborhoods"
+      ],
+      "recommended_action": "Expand on-page content around 'best neighborhoods in jupiter florida' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/blog/best-neighborhoods-in-jupiter-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 309,
+      "intent": "buyer",
+      "position": 8.915857605177994,
+      "primary_queries": [
+        "is palm beach gardens a good place to live?",
+        "is palm beach gardens a good place to live",
+        "i am a 25-34, 35-44, 45-54, or 55-64 year old relocation buyer in the residential real estate or homebuilding industry. my job seniority is at the senior, executive, or manager level. i work at a company with 1-249 employees. my main motivations: finding a new home that supports a job relocation, lifestyle change, family needs, or cost-of-living considerations. wants a seamless home-buying experience, access to quality schools and amenities, and confidence in the builder's reputation. interested in move-in-ready homes, master-planned communities, and locations that support long-term personal and professional goals. my main pain points: relocating is stressful enough without having to navigate unfamiliar neighborhoods, school districts, builders, and housing markets all at once. is palm beach gardens a good place to live?"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "suggested_title_meta": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/pros-and-cons-of-living-in-palm-beach-gardens-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.004464285714285714,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 224,
+      "intent": "buyer",
+      "position": 8.629464285714285,
+      "primary_queries": [
+        "best neighborhoods in delray beach",
+        "best neighborhoods in delray beach fl",
+        "delray beach neighborhoods"
+      ],
+      "recommended_action": "Expand on-page content around 'best neighborhoods in delray beach' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/blog/best-neighborhoods-in-delray-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.004629629629629629,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 216,
+      "intent": "buyer",
+      "position": 8.106481481481481,
+      "primary_queries": [
+        "downtown boynton fl neighborhood guide",
+        "boynton bay fl neighborhood guide",
+        "boynton beach neighborhoods"
+      ],
+      "recommended_action": "Expand on-page content around 'downtown boynton fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/blog/best-neighborhoods-in-boynton-beach-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.005681818181818182,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 176,
+      "intent": "seller",
+      "position": 8.147727272727273,
+      "primary_queries": [
+        "central beach fl neighborhood guide",
+        "city of lake worth beach permit search",
+        "downtown lake worth"
+      ],
+      "recommended_action": "Expand on-page content around 'central beach fl neighborhood guide' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/blog/best-neighborhoods-in-lake-worth-beach-florida"
+    },
+    {
+      "clicks": 0,
+      "ctr": 0,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 146,
+      "intent": "buyer",
+      "position": 14.616438356164384,
+      "primary_queries": [
+        "moving to jupiter florida",
+        "moving to jupiter fl",
+        "living in jupiter"
+      ],
+      "recommended_action": "Rewrite the page title and meta description to earn clicks at this position",
+      "suggested_title_meta": "Rewrite the page title and meta description to earn clicks at this position",
+      "url": "/blog/who-should-move-to-jupiter-florida"
+    },
+    {
+      "clicks": 1,
+      "ctr": 0.007407407407407408,
+      "estimated_effort": 2,
+      "expected_impact": "high",
+      "impressions": 135,
+      "intent": "buyer",
+      "position": 13.192592592592593,
+      "primary_queries": [
+        "homes for sale port salerno fl",
+        "homes for sale in port salerno fl",
+        "homes for sale in port salerno florida"
+      ],
+      "recommended_action": "Expand on-page content around 'homes for sale port salerno fl' and add a CTA to search.doyouneedahome.com",
+      "suggested_title_meta": null,
+      "url": "/communities/port-salerno"
+    }
+  ],
+  "sitemap": {
+    "duplicates": [],
+    "invalid": [],
+    "new_urls": [],
+    "removed_urls": [],
+    "total_urls": 310
+  },
+  "stage_errors": {
+    "search_console": null,
+    "sitemap_crawl": null
+  },
+  "top_pages": [
+    {
+      "clicks": 8,
+      "ctr": 0.014311270125223614,
+      "impressions": 559,
+      "position": 8.0,
+      "url": "/blog/best-neighborhoods-in-stuart-florida"
+    },
+    {
+      "clicks": 6,
+      "ctr": 0.09230769230769231,
+      "impressions": 65,
+      "position": 7.8,
+      "url": "/blog/hidden-gems-in-port-st-lucie-florida"
+    },
+    {
+      "clicks": 6,
+      "ctr": 0.023255813953488372,
+      "impressions": 258,
+      "position": 6.9,
+      "url": "/blog/hidden-gems-in-west-palm-beach-florida"
+    },
+    {
+      "clicks": 6,
+      "ctr": 0.016574585635359115,
+      "impressions": 362,
+      "position": 6.4,
+      "url": "/blog/jupiter-beach-access-guide"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.028985507246376812,
+      "impressions": 138,
+      "position": 7.3,
+      "url": "/blog/best-neighborhoods-in-hobe-sound-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.008620689655172414,
+      "impressions": 464,
+      "position": 8.9,
+      "url": "/blog/best-neighborhoods-in-west-palm-beach-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.012539184952978056,
+      "impressions": 319,
+      "position": 6.6,
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-westlake-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.038461538461538464,
+      "impressions": 104,
+      "position": 9.3,
+      "url": "/blog/history-of-port-salerno-florida"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.008849557522123894,
+      "impressions": 452,
+      "position": 8.8,
+      "url": "/blog/northwood-village-west-palm-beach-neighborhood-guide"
+    },
+    {
+      "clicks": 4,
+      "ctr": 0.01652892561983471,
+      "impressions": 242,
+      "position": 7.2,
+      "url": "/blog/pros-and-cons-of-living-in-westlake-florida"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.0136986301369863,
+      "impressions": 219,
+      "position": 8.1,
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-royal-palm-beach-florida"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.015,
+      "impressions": 200,
+      "position": 7.4,
+      "url": "/blog/boca-raton-north-park-skatepark-recreation-complex"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.04054054054054054,
+      "impressions": 74,
+      "position": 9.9,
+      "url": "/blog/port-salerno-vs-stuart"
+    },
+    {
+      "clicks": 3,
+      "ctr": 0.0072992700729927005,
+      "impressions": 411,
+      "position": 8.8,
+      "url": "/blog/pros-and-cons-of-living-in-port-st-lucie-florida"
+    },
+    {
+      "clicks": 2,
+      "ctr": 0.02127659574468085,
+      "impressions": 94,
+      "position": 5.1,
+      "url": "http://www.doyouneedahome.com/"
+    }
+  ],
+  "top_queries": [
+    {
+      "best_ranking_page": "/blog/best-neighborhoods-in-west-palm-beach-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 61,
+      "position": 10.4,
+      "query": "best neighborhoods in west palm beach"
+    },
+    {
+      "best_ranking_page": "/blog/pros-and-cons-of-living-in-port-st-lucie-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 59,
+      "position": 20.4,
+      "query": "is port st lucie a good place to live"
+    },
+    {
+      "best_ranking_page": "/blog/what-its-really-like-living-in-loxahatchee-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 58,
+      "position": 9.4,
+      "query": "loxahatchee fl county"
+    },
+    {
+      "best_ranking_page": "/communities/loxahatchee",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 53,
+      "position": 7.8,
+      "query": "loxahatchee fl zip code"
+    },
+    {
+      "best_ranking_page": null,
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 46,
+      "position": 10.4,
+      "query": "old northwood appraisal"
+    },
+    {
+      "best_ranking_page": "/blog/manatee-pocket-guide",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 44,
+      "position": 10.1,
+      "query": "floating docks port salerno"
+    },
+    {
+      "best_ranking_page": "/blog/best-things-to-do-in-juno-beach-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 44,
+      "position": 15.5,
+      "query": "juno beach"
+    },
+    {
+      "best_ranking_page": "/blog/best-neighborhoods-in-stuart-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 41,
+      "position": 21.8,
+      "query": "living in stuart fl"
+    },
+    {
+      "best_ranking_page": "/communities/palm-beach-gardens",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 41,
+      "position": 46.4,
+      "query": "new construction homes in palm beach gardens"
+    },
+    {
+      "best_ranking_page": "/blog/best-things-to-do-in-juno-beach-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 40,
+      "position": 11.1,
+      "query": "juno beach florida"
+    },
+    {
+      "best_ranking_page": "/communities/palm-beach-gardens",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 38,
+      "position": 48.6,
+      "query": "new construction houses in palm beach gardens"
+    },
+    {
+      "best_ranking_page": null,
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 37,
+      "position": 6.1,
+      "query": "northwood harbor appraisal"
+    },
+    {
+      "best_ranking_page": "/blog/pros-and-cons-of-living-in-royal-palm-beach-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 36,
+      "position": 6.4,
+      "query": "is royal palm beach a good place to live"
+    },
+    {
+      "best_ranking_page": "/blog/best-neighborhoods-in-north-palm-beach-florida",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 30,
+      "position": 13.8,
+      "query": "best neighborhoods in royal palm beach fl"
+    },
+    {
+      "best_ranking_page": "/blog/loxahatchee-vs-nearby-cities",
+      "clicks": 0,
+      "ctr": 0,
+      "impressions": 28,
+      "position": 13.8,
+      "query": "loxahatchee fl"
+    }
+  ],
+  "totals_7d": {
+    "avg_position": 12.7,
+    "clicks": 44,
+    "ctr": 0.006706294772138394,
+    "impressions": 6561
+  },
+  "totals_prev7d": {
+    "avg_position": 12.9,
+    "clicks": 35,
+    "ctr": 0.00564516129032258,
+    "impressions": 6200
+  },
+  "unmapped_communities": [
+    {
+      "candidate_cities": [
+        "Boca Raton",
+        "Palm Beach"
+      ],
+      "slug": "lotus",
+      "url": "https://www.doyouneedahome.com/communities/lotus"
+    },
+    {
+      "candidate_cities": [
+        "Jupiter",
+        "Palm Beach"
+      ],
+      "slug": "jupiter-yacht-club",
+      "url": "https://www.doyouneedahome.com/communities/jupiter-yacht-club"
+    },
+    {
+      "candidate_cities": [
+        "West Palm Beach",
+        "Palm Beach"
+      ],
+      "slug": "prado",
+      "url": "https://www.doyouneedahome.com/communities/prado"
+    },
+    {
+      "candidate_cities": [
+        "Jupiter",
+        "Palm Beach Gardens",
+        "Juno Beach",
+        "Palm Beach"
+      ],
+      "slug": "bay-colony",
+      "url": "https://www.doyouneedahome.com/communities/bay-colony"
+    }
+  ],
+  "update_content_ideas": [
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "loxahatchee fl county",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/communities/loxahatchee"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "palm city downtown",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/local-guide-to-palm-city-florida"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "high point fl neighborhood guide",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/best-neighborhoods-in-stuart-florida"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "best neighborhoods in west palm beach",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/best-neighborhoods-in-west-palm-beach-florida"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "exterior window shades flamingo village",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/northwood-village-west-palm-beach-neighborhood-guide"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "is port st lucie a good place to live",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/pros-and-cons-of-living-in-port-st-lucie-florida"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": false,
+      "query_opportunity": "best neighborhoods in jupiter florida",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/best-neighborhoods-in-jupiter-florida"
+    },
+    {
+      "missing_section": "FAQ section",
+      "needs_freshness_update": true,
+      "query_opportunity": "downtown palm beach gardens restaurant",
+      "suggested_cta": "View Current Homes",
+      "suggested_internal_links": [
+        "relevant community pages",
+        "search.doyouneedahome.com"
+      ],
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-palm-beach-gardens-florida"
+    }
+  ],
+  "wins": [
+    {
+      "click_growth": 0,
+      "curr_position": 10.2,
+      "impression_growth": 33,
+      "position_improvement": 41.9,
+      "prev_position": 52.1,
+      "url": "/blog/who-should-move-to-tequesta-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 16.8,
+      "impression_growth": 1,
+      "position_improvement": 39.3,
+      "prev_position": 56.2,
+      "url": "/communities/singer-island"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 17.6,
+      "impression_growth": 87,
+      "position_improvement": 32.4,
+      "prev_position": 50,
+      "url": "/blog/local-guide-to-juno-beach-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 12.6,
+      "impression_growth": 66,
+      "position_improvement": 32.0,
+      "prev_position": 44.6,
+      "url": "/blog/best-things-to-do-in-boca-raton-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 9.7,
+      "impression_growth": 2,
+      "position_improvement": 22.4,
+      "prev_position": 32.1,
+      "url": "/blog/hidden-gems-in-westlake-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 16.5,
+      "impression_growth": 14,
+      "position_improvement": 21.5,
+      "prev_position": 38,
+      "url": "/blog/hidden-gems-in-north-palm-beach-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 11.3,
+      "impression_growth": -4,
+      "position_improvement": 20.0,
+      "prev_position": 31.3,
+      "url": "/blog/best-things-to-do-in-lake-worth-beach-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 13.7,
+      "impression_growth": 22,
+      "position_improvement": 19.1,
+      "prev_position": 32.8,
+      "url": "/blog/who-should-move-to-palm-beach-gardens-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 18.1,
+      "impression_growth": 34,
+      "position_improvement": 18.0,
+      "prev_position": 36.1,
+      "url": "/blog/best-things-to-do-in-stuart-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 23.5,
+      "impression_growth": 32,
+      "position_improvement": 17.4,
+      "prev_position": 40.9,
+      "url": "/communities/royal-palm-beach"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 7.7,
+      "impression_growth": 24,
+      "position_improvement": 14.7,
+      "prev_position": 22.5,
+      "url": "/blog/hidden-gems-in-tequesta-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 9.1,
+      "impression_growth": 24,
+      "position_improvement": 13.7,
+      "prev_position": 22.8,
+      "url": "/blog/hidden-gems-in-singer-island-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 13.5,
+      "impression_growth": 0,
+      "position_improvement": 13.4,
+      "prev_position": 27.0,
+      "url": "/communities/boynton-beach"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 11.4,
+      "impression_growth": 65,
+      "position_improvement": 11.8,
+      "prev_position": 23.2,
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-jupiter-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 10.5,
+      "impression_growth": 144,
+      "position_improvement": 11.5,
+      "prev_position": 22,
+      "url": "/blog/best-things-to-do-in-hobe-sound-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 5.7,
+      "impression_growth": 16,
+      "position_improvement": 11.4,
+      "prev_position": 17.1,
+      "url": "/blog/cost-of-living-in-tequesta-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 8.3,
+      "impression_growth": 176,
+      "position_improvement": 11.4,
+      "prev_position": 19.7,
+      "url": "/blog/what-its-really-like-living-in-loxahatchee-florida"
+    },
+    {
+      "click_growth": 6,
+      "curr_position": 7.8,
+      "impression_growth": 37,
+      "position_improvement": 10.9,
+      "prev_position": 18.8,
+      "url": "/blog/hidden-gems-in-port-st-lucie-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 37.9,
+      "impression_growth": -21,
+      "position_improvement": 10.2,
+      "prev_position": 48.1,
+      "url": "/communities/abacoa"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 7.9,
+      "impression_growth": 37,
+      "position_improvement": 9.6,
+      "prev_position": 17.6,
+      "url": "/blog/hidden-gems-in-stuart-florida"
+    },
+    {
+      "click_growth": -2,
+      "curr_position": 19.9,
+      "impression_growth": -47,
+      "position_improvement": 9.2,
+      "prev_position": 29.1,
+      "url": "/"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 28.1,
+      "impression_growth": -46,
+      "position_improvement": 9.1,
+      "prev_position": 37.2,
+      "url": "/communities/palm-city"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 15.2,
+      "impression_growth": -17,
+      "position_improvement": 8.9,
+      "prev_position": 24.0,
+      "url": "/palm-beach-county-treasure-coast-relocation-guide"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 10.1,
+      "impression_growth": -17,
+      "position_improvement": 8.9,
+      "prev_position": 19.0,
+      "url": "/communities/juno-beach"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 14,
+      "impression_growth": 7,
+      "position_improvement": 8.7,
+      "prev_position": 22.7,
+      "url": "/blog/waterfront-homes-port-salerno-buyers-guide"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 8.6,
+      "impression_growth": 4,
+      "position_improvement": 8.4,
+      "prev_position": 16.9,
+      "url": "/blog/who-should-move-to-boynton-beach-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 16.1,
+      "impression_growth": 36,
+      "position_improvement": 8.4,
+      "prev_position": 24.5,
+      "url": "/communities/panther-national"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 14.5,
+      "impression_growth": 12,
+      "position_improvement": 5.8,
+      "prev_position": 20.3,
+      "url": "/communities/martinique"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 8.1,
+      "impression_growth": 226,
+      "position_improvement": 5.7,
+      "prev_position": 13.8,
+      "url": "/blog/best-neighborhoods-in-jupiter-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 14.6,
+      "impression_growth": 58,
+      "position_improvement": 5.7,
+      "prev_position": 20.3,
+      "url": "/blog/best-things-to-do-in-boynton-beach-florida"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 13.2,
+      "impression_growth": -2,
+      "position_improvement": 5.7,
+      "prev_position": 18.9,
+      "url": "/blog/what-its-really-like-living-in-westlake-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 28.9,
+      "impression_growth": 94,
+      "position_improvement": 5.7,
+      "prev_position": 34.6,
+      "url": "/communities/ibis"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 8.2,
+      "impression_growth": 31,
+      "position_improvement": 5.6,
+      "prev_position": 13.9,
+      "url": "/blog/hidden-gems-in-boca-raton-florida"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 6.2,
+      "impression_growth": -9,
+      "position_improvement": 5.6,
+      "prev_position": 11.8,
+      "url": "/team"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 9.7,
+      "impression_growth": 47,
+      "position_improvement": 5.5,
+      "prev_position": 15.2,
+      "url": "/blog/hidden-gems-in-lake-worth-beach-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 7.5,
+      "impression_growth": 139,
+      "position_improvement": 5.3,
+      "prev_position": 12.8,
+      "url": "/blog/best-neighborhoods-in-palm-beach-gardens-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 8.7,
+      "impression_growth": 9,
+      "position_improvement": 5.3,
+      "prev_position": 14,
+      "url": "/communities/lake-worth-beach"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 28.0,
+      "impression_growth": -29,
+      "position_improvement": 5.3,
+      "prev_position": 33.3,
+      "url": "/communities/tequesta"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 6.5,
+      "impression_growth": 140,
+      "position_improvement": 4.9,
+      "prev_position": 11.4,
+      "url": "/blog/juno-beach-vs-nearby-cities"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 7.5,
+      "impression_growth": 109,
+      "position_improvement": 4.9,
+      "prev_position": 12.3,
+      "url": "/blog/wellington-vs-nearby-cities"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 7.6,
+      "impression_growth": 19,
+      "position_improvement": 4.8,
+      "prev_position": 12.4,
+      "url": "/blog/best-places-to-eat-drink-hang-out-in-hobe-sound-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 6.6,
+      "impression_growth": 15,
+      "position_improvement": 4.8,
+      "prev_position": 11.4,
+      "url": "/blog/stuart-vs-nearby-cities"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 12.4,
+      "impression_growth": 75,
+      "position_improvement": 4.7,
+      "prev_position": 17.1,
+      "url": "/blog/hidden-gems-in-juno-beach-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 12.5,
+      "impression_growth": 740,
+      "position_improvement": 4.5,
+      "prev_position": 17.0,
+      "url": "/blog/local-guide-to-palm-city-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 13.2,
+      "impression_growth": -36,
+      "position_improvement": 4.5,
+      "prev_position": 17.7,
+      "url": "/communities/port-salerno"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 16.3,
+      "impression_growth": -18,
+      "position_improvement": 4.2,
+      "prev_position": 20.5,
+      "url": "/blog/best-neighborhoods-in-loxahatchee-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 9.4,
+      "impression_growth": 11,
+      "position_improvement": 3.9,
+      "prev_position": 13.3,
+      "url": "/blog/best-neighborhoods-in-boca-raton-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 8.1,
+      "impression_growth": 97,
+      "position_improvement": 3.9,
+      "prev_position": 12.0,
+      "url": "/blog/best-neighborhoods-in-boynton-beach-florida"
+    },
+    {
+      "click_growth": -1,
+      "curr_position": 7.7,
+      "impression_growth": 27,
+      "position_improvement": 3.9,
+      "prev_position": 11.5,
+      "url": "/blog/best-neighborhoods-in-wellington-florida"
+    },
+    {
+      "click_growth": 3,
+      "curr_position": 8.8,
+      "impression_growth": 279,
+      "position_improvement": 3.7,
+      "prev_position": 12.5,
+      "url": "/blog/northwood-village-west-palm-beach-neighborhood-guide"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 11.1,
+      "impression_growth": 111,
+      "position_improvement": 3.7,
+      "prev_position": 14.8,
+      "url": "/blog/who-should-move-to-loxahatchee-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 4.2,
+      "impression_growth": 20,
+      "position_improvement": 3.6,
+      "prev_position": 7.8,
+      "url": "/blog/pros-and-cons-of-living-in-singer-island-florida"
+    },
+    {
+      "click_growth": 0,
+      "curr_position": 21.3,
+      "impression_growth": -22,
+      "position_improvement": 3.6,
+      "prev_position": 24.9,
+      "url": "/blog/what-its-really-like-living-in-port-st-lucie-florida"
+    },
+    {
+      "click_growth": 3,
+      "curr_position": 8.9,
+      "impression_growth": 273,
+      "position_improvement": 3.2,
+      "prev_position": 12.1,
+      "url": "/blog/best-neighborhoods-in-west-palm-beach-florida"
+    },
+    {
+      "click_growth": 1,
+      "curr_position": 37.5,
+      "impression_growth": 10,
+      "position_improvement": 3.1,
+      "prev_position": 40.6,
+      "url": "/communities/wellington"
+    }
+  ]
+}
